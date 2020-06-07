@@ -1,5 +1,76 @@
-
-
+<p>The&nbsp;<strong>Jodrell Bank Observatory</strong>&nbsp;(<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a title="Help:IPA/English" href="https://en.wikipedia.org/wiki/Help:IPA/English">/<span title="/ˈ/: primary stress follows">ˈ</span><span title="/dʒ/: 'j' in 'jam'">dʒ</span><span title="/ɒ/: 'o' in 'body'">ɒ</span><span title="'d' in 'dye'">d</span><span title="'r' in 'rye'">r</span><span title="/əl/: 'le' in 'bottle'">əl</span>/</a></span></span>) -- originally the&nbsp;<strong>Jodrell Bank Experimental Station</strong>&nbsp;and from 1966 to 1999, the&nbsp;<strong>Nuffield Radio Astronomy Laboratories</strong>&nbsp;-- hosts a number of&nbsp;<a title="Radio telescope" href="https://en.wikipedia.org/wiki/Radio_telescope">radio telescopes</a>, and is part of the&nbsp;<a title="Jodrell Bank Centre for Astrophysics" href="https://en.wikipedia.org/wiki/Jodrell_Bank_Centre_for_Astrophysics">Jodrell Bank Centre for Astrophysics</a>&nbsp;at the&nbsp;<a title="University of Manchester" href="https://en.wikipedia.org/wiki/University_of_Manchester">University of Manchester</a>. The&nbsp;<a title="Observatory" href="https://en.wikipedia.org/wiki/Observatory">observatory</a>&nbsp;was established in 1945 by&nbsp;<a title="Bernard Lovell" href="https://en.wikipedia.org/wiki/Bernard_Lovell">Bernard Lovell</a>, a radio astronomer at the University of Manchester to investigate&nbsp;<a title="Cosmic ray" href="https://en.wikipedia.org/wiki/Cosmic_ray">cosmic rays</a>&nbsp;after his work on&nbsp;<a title="Radar" href="https://en.wikipedia.org/wiki/Radar">radar</a>&nbsp;during the Second World War. It has since played an important role in the research of&nbsp;<a class="mw-redirect" title="Meteor" href="https://en.wikipedia.org/wiki/Meteor">meteors</a>,&nbsp;<a title="Quasar" href="https://en.wikipedia.org/wiki/Quasar">quasars</a>,&nbsp;<a title="Pulsar" href="https://en.wikipedia.org/wiki/Pulsar">pulsars</a>,&nbsp;<a title="Astrophysical maser" href="https://en.wikipedia.org/wiki/Astrophysical_maser">masers</a>&nbsp;and&nbsp;<a title="Gravitational lens" href="https://en.wikipedia.org/wiki/Gravitational_lens">gravitational lenses</a>, and was heavily involved with the tracking of&nbsp;<a title="Space probe" href="https://en.wikipedia.org/wiki/Space_probe">space probes</a>&nbsp;at the start of the&nbsp;<a title="Space Age" href="https://en.wikipedia.org/wiki/Space_Age">Space Age</a>. The managing director of the observatory is Professor Simon Garrington.</p>
+<p>The main telescope at the observatory is the&nbsp;<a title="Lovell Telescope" href="https://en.wikipedia.org/wiki/Lovell_Telescope">Lovell Telescope</a>, which is the third largest steerable radio telescope in the world. There are three other active telescopes at the observatory; the&nbsp;<a title="Mark II (radio telescope)" href="https://en.wikipedia.org/wiki/Mark_II_(radio_telescope)">Mark II</a>, and 42&nbsp;ft (13&nbsp;m) and 7&nbsp;m diameter radio telescopes. Jodrell Bank Observatory is the base of the&nbsp;<a title="MERLIN" href="https://en.wikipedia.org/wiki/MERLIN">Multi-Element Radio Linked Interferometer Network</a>&nbsp;(MERLIN), a National Facility run by the&nbsp;<a title="University of Manchester" href="https://en.wikipedia.org/wiki/University_of_Manchester">University of Manchester</a>&nbsp;on behalf of the&nbsp;<a title="Science and Technology Facilities Council" href="https://en.wikipedia.org/wiki/Science_and_Technology_Facilities_Council">Science and Technology Facilities Council</a>.</p>
+<p>The Jodrell Bank Visitor Centre and an arboretum, are in the&nbsp;<a class="mw-redirect" title="Civil parishes in England" href="https://en.wikipedia.org/wiki/Civil_parishes_in_England">civil parish</a>&nbsp;of&nbsp;<a title="Lower Withington" href="https://en.wikipedia.org/wiki/Lower_Withington">Lower Withington</a>&nbsp;and the Lovell Telescope and the observatory are in Goostrey civil parish, near&nbsp;<a title="Goostrey" href="https://en.wikipedia.org/wiki/Goostrey">Goostrey</a>&nbsp;and&nbsp;<a title="Holmes Chapel" href="https://en.wikipedia.org/wiki/Holmes_Chapel">Holmes Chapel</a>,&nbsp;<a title="Cheshire East" href="https://en.wikipedia.org/wiki/Cheshire_East">Cheshire</a>,&nbsp;<a title="North West England" href="https://en.wikipedia.org/wiki/North_West_England">North West England</a>. The observatory is reached from the&nbsp;<a title="A535 road" href="https://en.wikipedia.org/wiki/A535_road">A535</a>. The&nbsp;<a class="mw-redirect" title="Crewe to Manchester Line" href="https://en.wikipedia.org/wiki/Crewe_to_Manchester_Line">Crewe to Manchester Line</a>&nbsp;passes right by the site, and&nbsp;<a title="Goostrey railway station" href="https://en.wikipedia.org/wiki/Goostrey_railway_station">Goostrey station</a>&nbsp;is a short distance away. On 7 July 2019, the observatory became a&nbsp;<a title="UNESCO" href="https://en.wikipedia.org/wiki/UNESCO">UNESCO</a>&nbsp;<a title="World Heritage Site" href="https://en.wikipedia.org/wiki/World_Heritage_Site">World Heritage Site</a>.</p>
+<p>&nbsp;</p>
+<table class="infobox vcard"><caption class="fn org">Jodrell Bank Observatory</caption>
+<tbody>
+<tr>
+<th scope="row">Alternative&nbsp;names</th>
+<td>Jodrell Bank Experimental Station&nbsp;</td>
+</tr>
+<tr>
+<th scope="row">Organization</th>
+<td><a title="University of Manchester" href="https://en.wikipedia.org/wiki/University_of_Manchester">University of Manchester</a>&nbsp;</td>
+</tr>
+<tr>
+<th scope="row">Location</th>
+<td><a title="Lower Withington" href="https://en.wikipedia.org/wiki/Lower_Withington">Lower Withington</a>, United Kingdom&nbsp;</td>
+</tr>
+<tr>
+<th scope="row"><a title="Geographic coordinate system" href="https://en.wikipedia.org/wiki/Geographic_coordinate_system">Coordinates</a></th>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/geohack/geohack.php?pagename=Jodrell_Bank_Observatory&amp;params=53.23625_N_2.3071388888889_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53&deg;14&prime;10&Prime;N</span>&nbsp;<span class="longitude">2&deg;18&prime;26&Prime;W</span></span></span></a></span><span id="coordinates"><a title="Geographic coordinate system" href="https://en.wikipedia.org/wiki/Geographic_coordinate_system">Coordinates</a>:&nbsp;<span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/geohack/geohack.php?pagename=Jodrell_Bank_Observatory&amp;params=53.23625_N_2.3071388888889_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53&deg;14&prime;10&Prime;N</span>&nbsp;<span class="longitude">2&deg;18&prime;26&Prime;W</span></span></span></a></span></span></td>
+</tr>
+<tr>
+<th scope="row">Altitude</th>
+<td>77&nbsp;m (253&nbsp;ft)&nbsp;</td>
+</tr>
+<tr>
+<th scope="row">Established</th>
+<td>1945&nbsp;</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a class="external text" href="http://www.jodrellbank.manchester.ac.uk/" rel="nofollow">www<wbr />.jodrellbank<wbr />.manchester<wbr />.ac<wbr />.uk</a></span>&nbsp;</td>
+</tr>
+<tr>
+<th scope="row">Telescopes</th>
+<td>42ft radio telescope of Jodrell Bank Observatory<br />7m radio telescope of Jodrell Bank Observatory<br />Cambridge MERLIN telescope<br />Darnhall telescope<br />Defford telescope<br />Knockin telescope<br />Pickmere telescope<br />Searchlight Telescope<br /><a title="Lovell Telescope" href="https://en.wikipedia.org/wiki/Lovell_Telescope">Lovell Telescope</a><br /><a title="MERLIN" href="https://en.wikipedia.org/wiki/MERLIN">mERLIN</a><br /><a title="Mark II (radio telescope)" href="https://en.wikipedia.org/wiki/Mark_II_(radio_telescope)">Mark II</a><br /><a title="Mark III (radio telescope)" href="https://en.wikipedia.org/wiki/Mark_III_(radio_telescope)">Mark III</a><br /><a class="mw-redirect" title="Transit Telescope" href="https://en.wikipedia.org/wiki/Transit_Telescope">Transit Telescope</a>&nbsp;</td>
+</tr>
+<tr>
+<th colspan="2">&nbsp;</th>
+</tr>
+<tr class="mergedrow">
+<th colspan="2">
+<div><a title="World Heritage Site" href="https://en.wikipedia.org/wiki/World_Heritage_Site">UNESCO World Heritage Site</a></div>
+</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a class="mw-redirect" title="Table of World Heritage Sites by country" href="https://en.wikipedia.org/wiki/Table_of_World_Heritage_Sites_by_country">Location</a></th>
+<td><a title="United Kingdom" href="https://en.wikipedia.org/wiki/United_Kingdom">United Kingdom</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a title="World Heritage Site" href="https://en.wikipedia.org/wiki/World_Heritage_Site#Selection_criteria">Criteria</a></th>
+<td class="category">Cultural:&nbsp;(i), (ii), (iv), (vi)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Reference</th>
+<td><a class="external text" href="http://whc.unesco.org/en/list/1594" rel="nofollow">1594</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Inscription</th>
+<td>2019 (43rd&nbsp;<a title="World Heritage Committee" href="https://en.wikipedia.org/wiki/World_Heritage_Committee">session</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Area</th>
+<td class="category">17.38&nbsp;ha (42.9 acres)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Buffer&nbsp;zone</th>
+<td class="category">18,569.22&nbsp;ha (45,885.5 acres)</td>
+</tr>
+</tbody>
+</table>
+</br>
 <h2>Timeline of Jodrell Bank Observatory </h2>
 
 
