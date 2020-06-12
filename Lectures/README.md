@@ -7,7 +7,7 @@
 <li><a href="#course6">Dynamics</a></li>
 <li><a href="#course7">Aerodynamics</a></li>
 <li><a href="#course8">Analytical Subsonic Aerodynamics</a></li>
-<li><a href="#course9">Paradox and Infinity</a></li>
+<li><a href="#course9">Aerodynamics of Viscous Fluids</a></li>
 <li><a href="#course10">Moral Psychology </a></li>
 <li><a href="#course11">Ethics in Your Life: Being, Thinking, Doing (or Not?)</a></li>
 <li><a href="#course12">Ancient Philosophy</a></li>
@@ -1000,6 +1000,230 @@
 </tbody>
 </table>
 </br>
+<h2 id="course9">Aerodynamics of Viscous Fluids</h2>
 
-
-
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">SUPPORTING FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Underlying Physical Principles</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Course Description. Fundamental Theorem of Kinematics - Convection, Vorticity, Strain. (<a href="2/lecture_1.pdf">PDF</a>)</td>
+<td>Hierarchy of 3-D Configuration CFD Methods (<a href="2/hierarchy.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Eulerian vs. Langrangian Description. Convection Relations. (<a href="2/lecture_2.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Conservation Laws</strong></td>
+</tr>
+<tr class="row">
+<td>Conservation of Mass. Conservation of Momentum. Stress Tensor. (<a href="2/lecture_3.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Viscosity. Newtonian Fluids. Vorticity and Circulation. (<a href="2/lecture_4.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Navier-Stokes Equations. Physical Parameters. Dynamic Similarity. (<a href="2/lecture_5.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Thin Shear Layer Approximation</strong></td>
+</tr>
+<tr class="row">
+<td>Dimensional Analysis. Dominant Balance and Viscous Flow Classification. (<a href="2/lecture_6.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><em>Re</em><span class="tablecopy">&rarr;&infin;</span>&nbsp;Behavior. Thin Shear Layer Equations. TSL coordinates. (<a href="2/lecture_7.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>TSL Coordinates. Boundary Conditions. Shear Layer Categories. (<a href="2/lecture_8.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Local Scaling. Falkner-Skan Flows. (<a href="2/lecture_9.pdf">PDF</a>)</td>
+<td>Unsteady Local Scaling Transformation (<a href="2/local_scaling.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Solution Techniques</strong></td>
+</tr>
+<tr class="alt-row">
+<td>ODE'S, PDE's, and Boundary Conditions. Well-Posedness. (<a href="2/lecture_10.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Numerical Methods for ODE's. Discretization. Stability. (<a href="2/lecture_11.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Finite Difference Methods. Newton-Raphson. (<a href="2/lecture_12.pdf">PDF</a>)</td>
+<td>Solution of Falkner-Skan Equation by Finite Differences (<a href="2/solution_of_falkner.pdf">PDF</a>)<br />Finite Difference Solution of TSL Equations(<a href="2/fine_difference_tsl.pdf">PDF</a>)<br />Basis for Integral BL Methods (<a href="2/bl_methods.pdf">PDF</a>)<br />Thwaites' Method (<a href="2/thwaites_method.pdf">PDF</a>)<br />Integral Thicknesses (<a href="2/integral_thicknesses.pdf">PDF</a>)<br />Von-Karman Integral Momentum Equation (<a href="2/von_karman.pdf">PDF</a>)<br />Integral Kinetic Energy Equation (<a href="2/integral_kinetic.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Integral Methods. Integral Momentum Equation. Thwaites' Method. (<a href="2/lecture_13.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Integral Kinetic Energy Equation. Dissipation Methods. (<a href="2/lecture_14.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Integral Kinetic Energy Equation. Dissipation Methods. (cont.) (<a href="2/lecture_15.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Interacting Boundary Layer Theory</strong></td>
+</tr>
+<tr class="row">
+<td>Asymptotic Perturbation Theory - Higher-Order Effects. (<a href="2/lecture_16.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>2D Interaction Models: Displacement Body, Transpiration. Form Drag, Stall Mechanisms. (<a href="2/lecture_17.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>IBLT Solution Techniques. Iteration Stability. (<a href="2/lecture_18.pdf">PDF</a>)</td>
+<td>Behavior of Separated Flow (<a href="2/behavior_of_separated.pdf">PDF</a>)<br />Displacement Effects of Boundary Layer on Potential Flow (<a href="2/displacement_effects.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fully-Coupled Iteration. 3-D IBLT. (<a href="2/lecture_19.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Stability and Transition</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Small-Perturbation Theory. Orr-Sommerfeld Equation. (<a href="2/lecture_20.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Small-Perturbation Theory. Orr-Sommerfeld Equation.&nbsp;(cont.) (<a href="2/lecture_21.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Boundary Conditions, Homogeneity, Solution Techniques. (<a href="2/lecture_22.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Transition Mechanisms. Transition Prediction: Local Correlations, Amplification Methods. (<a href="2/lecture_23.pdf">PDF</a>)</td>
+<td>e<sup>n</sup>&nbsp;Method (<a href="2/en_method.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Turbulent Shear Layers</strong></td>
+</tr>
+<tr class="row">
+<td>Reynolds Averaging. Prandtl's Analogy. (<a href="2/lecture_24.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Turbulent BL Structure: Wake, Wall Layers. Inner, Outer Variables. Effects of Roughness. (<a href="2/lecture_25.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Turbulent BL Structure: Wake, Wall Layers. Inner, Outer Variables. Effects of Roughness. (cont.) (<a href="2/lecture_26.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Equilibrium BL's: Clauser Hypothesis. Dissipation Formulas and Integral Closure. (<a href="2/lecture_27.pdf">PDF</a>)</td>
+<td>G-Beta Locus Relations (<a href="2/locus_relations.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Equilibrium BL's: Clauser Hypothesis. Dissipation Formulas and Integral Closure. (cont.) (<a href="2/lecture_28.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Turbulence Modeling and Closure. Algebraic Models. Transport Models. (<a href="2/lecture_29.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Compressible Thin Shear Layers</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Definition and Implications of Compressibility. Special Solutions. Reynolds Analogy. (<a href="2/lecture_30.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Definition and Implications of Compressibility. Special Solutions. Reynolds Analogy. (cont.) (<a href="2/lecture_30.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Approximate Temperature Profile. Reynolds Heat Flux. (<a href="2/lecture_31_part_2.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>3D Boundary Layer</strong></td>
+</tr>
+<tr class="alt-row">
+<td>New Effects: Crossflow, Lateral Dilation, 3D Separation. Governing Equations. (<a href="2/lecture_32.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Coordinate Systems. Characteristics, BC's, and Well-Posedness. (<a href="2/lecture_33.pdf">PDF</a>)</td>
+<td>Integral Boundary Layer Equations for Three-Dimensional Flows (<a href="2/three_dimensional_flows.pdf">PDF</a>)<br />Closure for Three-Dimensional Boundary Layer Equations (<a href="2/boundary_layer_equations.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>3D Characteristics, BC's. Quasi-3D: Constant-Crossflow Approximation. (<a href="2/lecture_34.pdf">PDF</a>)</td>
+<td>3D BL Equations - Sweep / Taper (<a href="2/sweep_taper.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>3D Characteristics, BC's. Quasi-3D: Constant-Crossflow Approximation. (cont.) (<a href="2/lecture_35.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>3D Stability Theory. 3D Transition Mechanisms. (<a href="2/lecture_36.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Assignment 1 (<a href="2/problem_set_1.pdf">PDF</a>)</td>
+<td>(<a href="2/ps1_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Assignment 2 (<a href="2/problem_set_2.pdf">PDF</a>)</td>
+<td>(<a href="2/ps2_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Assignment 3 (<a href="2/problem_set_3.pdf">PDF</a>)</td>
+<td>(<a href="2/ps3_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Assignment 4 (<a href="2/problem_set_4.pdf">PDF</a>)</td>
+<td>(<a href="2/ps4_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Assignment 5 (<a href="2/problem_set_5.pdf">PDF</a>)</td>
+<td>(<a href="2/ps5_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Assignment 6 (<a href="2/problem_set_6.pdf">PDF</a>)</td>
+<td>(<a href="2/ps6_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Assignment 8 (<a href="2/problem_set_8.pdf">PDF</a>)</td>
+<td>(<a href="2/ps8_solution.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
