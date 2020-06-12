@@ -3,7 +3,7 @@
 <li><a href="#course2">Exploring Sea, Space, & Earth: Fundamentals of Engineering Design</a></li>
 <li><a href="#course3">Unified Engineering I, II, III, & IV</a></li>
 <li><a href="#course4">Thermal Energy</a></li>
-<li><a href="#course5">Relativism, Reason, and Reality</a></li>
+<li><a href="#course5">Principles of Automatic Control</a></li>
 <li><a href="#course6">Justice</a></li>
 <li><a href="#course7">Minds and Machines</a></li>
 <li><a href="#course8">Philosophy of Quantum Mechanics</a></li>
@@ -601,4 +601,157 @@
 </tbody>
 </table>
 </br>
+<h2 id="course5">Principles of Automatic Control</h2>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Why automatic control? Categorization of control systems</td>
+<td><a href="1/MIT16_06F12_Lecture_1.pdf">Lecture notes 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Block diagrams, the effect of feedback</td>
+<td><a href="1/MIT16_06F12_Lecture_2.pdf">Lecture notes 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Modeling principles</td>
+<td><a href="1/MIT16_06F12_Lecture_3.pdf">Lecture notes 3 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Block diagram manipulations, Mason' rule</td>
+<td><a href="1/MIT16_06F12_Lecture_4.pdf">Lecture notes 4 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Dynamic response of closed-loop systems</td>
+<td><a href="1/MIT16_06F12_Lecture_5.pdf">Lecture notes 5 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Time-domain specifications</td>
+<td><a href="1/MIT16_06F12_Lecture_6.pdf">Lecture notes 6 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Effect of zeros</td>
+<td><a href="1/MIT16_06F12_Lecture_7.pdf">Lecture notes 7 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Routh criterion</td>
+<td><a href="1/MIT16_06F12_Lecture_8.pdf">Lecture notes 8 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Effect of noise, steady-state errors</td>
+<td><a href="1/MIT16_06F12_Lecture_9.pdf">Lecture notes 9 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>PID control</td>
+<td><a href="1/MIT16_06F12_Lecture_10.pdf">Lecture notes 10 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>The root locus method</td>
+<td><a href="1/MIT16_06F12_Lecture_11.pdf">Lecture notes 11 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Root locus rules</td>
+<td><a href="1/MIT16_06F12_Lecture_12.pdf">Lecture notes 12 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Root locus rules, lead compensation</td>
+<td><a href="1/MIT16_06F12_Lecture_13.pdf">Lecture notes 13 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Lag compensation</td>
+<td><a href="1/MIT16_06F12_Lecture_14.pdf">Lecture notes 14 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Zero degree root locus</td>
+<td><a href="1/MIT16_06F12_Lecture_15.pdf">Lecture notes 15 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Frequency response design</td>
+<td><a href="1/MIT16_06F12_Lecture_16.pdf">Lecture notes 16 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Bode plot problems</td>
+<td><a href="1/MIT16_06F12_Lecture_17.pdf">Lecture notes 17 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Bode plots (cont.)</td>
+<td><a href="1/MIT16_06F12_Lecture_18.pdf">Lecture notes 18 (PDF - 1.6MB)</a></td>
+</tr>
+<tr class="row">
+<td>Complex poles and zeros, unstable poles, and non-minimum phase zeros</td>
+<td><a href="1/MIT16_06F12_Lecture_19.pdf">Lecture notes 19 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Nyquist stability criterion</td>
+<td><a href="1/MIT16_06F12_Lecture_20.pdf">Lecture notes 20 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>The Nyquist stability criterion (cont.)</td>
+<td><a href="1/MIT16_06F12_Lecture_21.pdf">Lecture notes 21 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Nyquist with poles on imaginary axis</td>
+<td><a href="1/MIT16_06F12_Lecture_22.pdf">Lecture notes 22 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Stability margins, Bode gain-phase theorem</td>
+<td><a href="1/MIT16_06F12_Lecture_23.pdf">Lecture notes 23 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Bode compensation</td>
+<td><a href="1/MIT16_06F12_Lecture_24.pdf">Lecture notes 24 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Lead compensation</td>
+<td><a href="1/MIT16_06F12_Lecture_25.pdf">Lecture notes 25 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Lag compensation (cont.)</td>
+<td><a href="1/MIT16_06F12_Lecture_26.pdf">Lecture notes 26 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>NMP systems</td>
+<td><a href="1/MIT16_06F12_Lecture_27.pdf">Lecture notes 27 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Nichols chart</td>
+<td><a href="1/MIT16_06F12_Lecture_28.pdf">Lecture notes 28 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Digital control, the z-transform</td>
+<td><a href="1/MIT16_06F12_Lecture_29.pdf">Lecture notes 29 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The z‐transform, design by emulation, the Tustin transform</td>
+<td><a href="1/MIT16_06F12_Lecture_30.pdf">Lecture notes 30 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Compensator design examples, time delay of ZOH</td>
+<td><a href="1/MIT16_06F12_Lecture_31.pdf">Lecture notes 31 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Discrete design</td>
+<td><a href="1/MIT16_06F12_Lecture_32.pdf">Lecture notes 32 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>The w-transform</td>
+<td><a href="1/MIT16_06F12_Lecture_33.pdf">Lecture notes 33 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Design examples, pre‐warping, direct design</td>
+<td><a href="1/MIT16_06F12_Lecture_34.pdf">Lecture notes 34 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Higher harmonic control</td>
+<td><a href="1/MIT16_06F12_Lecture_35.pdf">Lecture notes 35 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
 
