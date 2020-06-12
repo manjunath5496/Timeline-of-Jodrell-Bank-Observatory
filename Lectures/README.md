@@ -16,7 +16,7 @@
 <li><a href="#course15">Stochastic Estimation and Control</a></li> 
  <li><a href="#course16">Principles of Optimal Control</a></li>  
    <li><a href="#course17">Aircraft Stability and Control</a></li> 
-  <li><a href="#course18">Metaphysics</a></li> 
+  <li><a href="#course18">Dynamics of Nonlinear Systems</a></li> 
 <li><a href="#course19">Metaphysics: Free Will</a></li>
  <li><a href="#course20">Ethics</a></li>
 <li><a href="#course21">Philosophy of Law</a></li> 
@@ -2531,5 +2531,127 @@
 </tbody>
 </table>
 </br>
+<h2 id="course18">Dynamics of Nonlinear Systems</h2>
+
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Input/Output and State-Space Models (<a href="4/lec1_6243_2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Differential Equations as System Models (<a href="4/lec2_6243_2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Continuous Dependence on Parameters (<a href="4/lec3_6243_2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Analysis Based on Continuity (<a href="4/lec4_6243_2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Lyapunov Functions and Storage Functions (<a href="4/lec5_6243_2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Storage Functions and Stability Analysis (<a href="4/lec6_6243_2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Finding Lyapunov Functions (<a href="4/lec7_6243_2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Local Behavior at Equilibria (<a href="4/lec8_6243_2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Local Behavior Near Trajectories (<a href="4/lec9_6243_2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Singular Perturbations and Averaging (<a href="4/lec10_6243_2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Volume Evolution and System Analysis (<a href="4/lec11_6243_2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Local Controllability (<a href="4/lec12_6243_2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Feedback Linearization (<a href="4/lec13_6243_2003.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col">ASSIGNMENTS</th>
+<th id="col2" scope="col">SOLUTIONS</th>
+<th id="col3" scope="col">SUPPORTING&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">Problem Set 1 (<a href="4/hw1_6243_2003.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/ps1sol_6243_2003.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set&nbsp;2 (<a href="4/hw2_6243_2003.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/ps2sol_6243_2003.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col1">Problem Set&nbsp;3 (<a href="4/hw3_6243_2003.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/ps3sol_6243_2003.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set&nbsp;4 (<a href="4/hw4_6243_2003.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/ps4sol_6243_2003.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col1">Problem Set&nbsp;5 (<a href="4/hw5_6243_2003.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/ps5sol_6243_2003.pdf">PDF</a>)</td>
+<td headers="col3">hw5_4_6243_2003.m (<a href="4/hw5_4_6243_2003.m">M</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set&nbsp;6 (<a href="4/hw6_6243_2003.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/ps6sol_6243_2003.pdf">PDF</a>)</td>
+<td headers="col3">hw6_3_6243_2003.m (<a href="4/hw6_3_6243_2003.m">M</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Problem Set&nbsp;7 (<a href="4/hw7_6243_2003.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/ps7sol_6243_2003.pdf">PDF</a>)</td>
+<td headers="col3">hw7_1_6243_2003.m&nbsp;(<a href="4/hw7_1_6243_2003.m">M</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set&nbsp;8 (<a href="4/hw8_6243_2003.pdf">PDF</a>)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col">EXAMS</th>
+<th id="col2" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">Take-Home Test 1 (<a href="4/t1_6243_2003.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/t1sol_6243_2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Take-Home Test 2 (<a href="4/t2_6243_2003.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/t2sol_6243_2003.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
 
 
