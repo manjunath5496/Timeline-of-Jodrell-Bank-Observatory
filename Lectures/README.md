@@ -32,7 +32,7 @@
 <li><a href="#course31">Experimental Projects I</a></li> 
  <li><a href="#course32">Experimental Projects II</a></li>  
    <li><a href="#course33">System Safety</a></li> 
-  <li><a href="#course34">Language and its Structure II: Syntax</a></li> 
+  <li><a href="#course34">Introduction to Lean Six Sigma Methods</a></li> 
   <li><a href="#course35">Lab in Psycholinguistics</a></li>  
    <li><a href="#course36">Creole Languages and Caribbean Identities</a></li> 
   <li><a href="#course37">Topics in Linguistic Theory: Propositional Attitudes</a></li> 
@@ -3887,5 +3887,171 @@
 </tbody>
 </table>
 </br>
+<h2 id="course34">Introduction to Lean Six Sigma Methods</h2>
 
-
+<p><a href="6/MIT16_660JIAP12_sim_paper.pdf">Paper (PDF)</a></p>
+<p><a href="6/MIT16_660JIAP12_sim_pres.pdf">Presentation (PDF)</a></p>
+<p><a href="6/MIT16_660JIAP12_Glossary.pdf">LAI Lean Academy Glossary (PDF)</a></p>
+</br>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">ACTIVITIES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="3"><strong>Day 1</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_660JIAP12_1-1.pdf">Why am I here? (PDF - 1.4MB)</a></td>
+<td>
+<p><a href="6/MIT16_660JIAP12_VALUEAsses.pdf">Virtual Assessment of Lean User Experience (VALUE): A guide to assessing your level of lean enterprise knowledge (PDF)</a></p>
+<p><a href="6/MIT16_660JIAP12_valPilAsmt.pdf">Virtual Assessment of Lean User Experience-Proficiency Index Level (VALUE PIL): A guide to assessing your level of lean healthcare knowledge (PDF)</a></p>
+<p>These assessments can be taken before or after taking the Introduction to Lean Six Sigma Methods course.</p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_660JIAP12_1-2.pdf"><span class="nobr">The start of your Lean journey (PDF - 4.3MB)</span></a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="6/MIT16_660JIAP12_1-3part1.pdf">Lean thinking part I (PDF - 1.1MB)</a></p>
+<p><a href="6/MIT16_660JIAP12_1-3part2.pdf">Lean thinking part II (PDF)</a></p>
+</td>
+<td><a href="6/MIT16_660JIAP12_1-3exer.pdf">Sasha &amp; Andy hot dogs time exercise (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_660JIAP12_1-4.pdf">New Balance&reg; plant tour (PDF)</a></td>
+<td><a href="6/MIT16_660JIAP12_1-4notes.pdf">Plant tour notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_660JIAP12_1-5.pdf">People: The heart of Lean (PDF - 2.0MB)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><span class="nobr"><a href="6/MIT16_660JIAP12_1-6.pdf">Value stream mapping basics (PDF)</a><br /></span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Day 2 Enterprise Option</strong></td>
+</tr>
+<tr class="row">
+<td>Lean enterprise simulation,<br />segments I, II, and III</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_660JIAP12_2-2E.pdf">Lean supply chain basics (PDF - 1.2MB)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Lean enterprise simulation, segment II</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_660JIAP12_2-4E.pdf">Lean engineering basics (PDF - 1.5MB)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Lean healthcare simulation III</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Day 2 Healthcare Option</strong></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_660JIAP12_2-1H.pdf"><span class="nobr">Lean healthcare simulation I: Baseline performance (PDF)</span></a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><span class="nobr"><a href="6/MIT16_660JIAP12_2-2H.pdf">Continuous process improvement (PDF - 1.5MB)</a><br /></span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Lean healthcare simulation II</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_660JIAP12_2-4H.pdf">Improving the enterprise (PDF - 1.0MB)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Lean healthcare simulation III</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Day 2 Common</strong></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_660JIAP12_2-6C.pdf">Accounts payable I: Case study introduction (PDF)</a></td>
+<td>
+<p><a href="6/MIT16_660JIAP12_2-6Case.pdf">Case study: Accounts payable at Rockwell Collins (PDF)</a></p>
+<p><a href="6/MIT16_660JIAP12_2-6Ques.pdf">Accounts payable at Rockwell Collins questions (PDF)</a></p>
+<p><img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT16_660JIAP12_2-6VSM.pdf">Current state value stream map (PDF)</a></p>
+<p>(These three documents are courtesy of Phil Jones, Sylvia and Clement T. Hanson Professor of Manufacturing Productivity, Tippie School of Management, University of Iowa, and are used with permission.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Day 3</strong></td>
+</tr>
+<tr class="row">
+<td>Accounts payable II: Value stream analysis</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_660JIAP12_3-2.pdf">Variability simulation (PDF)</a></td>
+<td>
+<p><a href="6/MIT16_660JIAP12_3-2VarSi.xls">Variability simulation spreadsheet (XLS)</a></p>
+<p><a href="6/MIT16_660JIAP12_3-2Instr.pdf">Spreadsheet instructions (PDF)</a></p>
+<p><a href="6/MIT6_660JIAP12_3-2APVari.pdf">Accounts payable variability mats (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><span class="nobr"><a href="6/MIT16_660JIAP12_3-3Sheeh.pdf">Lean for healthcare: An overview (PDF - 7.7MB)</a><br /></span></p>
+<p><a href="6/MIT16_660JIAP12_3-3ShBio.pdf">Biography for guest speaker, Susan Sheey (PDF)</a></p>
+<p>&nbsp;</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_660JIAP12_3-4.pdf">A3 thinking (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_660JIAP12_3-5.pdf">Quality tools and topics (PDF - 1.6MB)</a></td>
+<td>
+<p><a href="6/MIT16_660JIAP12_3-5MMChe.pdf">M&amp;M checklist (PDF)</a></p>
+<p><a href="6/MIT16_660JIAP12_3-5MMSpr.xls">M&amp;M spreadsheet (XLS)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_660JIAP12_3-6.pdf">Six Sigma basics (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="6/MIT16_660JIAP12_3-7Lewis.pdf">Leading improvement across a complex aerospace enterprise (PDF)</a></p>
+<p><a href="6/MIT16_660JIAP12_3-7LeBio.pdf">Biography for enterprise speaker, Dick Lewis (PDF)</a></p>
+<p>&nbsp;</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="6/MIT16_660JIAP12_3-7Dicks.pdf">Applying Lean in an academic medical center: Lessons learned (PDF)</a></p>
+<p><a href="6/MIT16_660JIAP12_DicksBio.pdf">Biography for enterprise speaker, Eric Dickson (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="6/MIT16_660IAP12_3-7ClayJo.pdf">Introductory slides for Rockwell Collins&rsquo; Lean transformation&nbsp;(PDF)</a></p>
+</td>
+<td><a href="6/MIT16_660IAP12_3-7JonNot.pdf">Lean transformation video notes (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
