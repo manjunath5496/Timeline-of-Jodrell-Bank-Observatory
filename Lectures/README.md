@@ -26,7 +26,7 @@
   <li><a href="#course25">Human Factors Engineering</a></li>
 <li><a href="#course26">Introduction to Propulsion Systems</a></li> 
  <li><a href="#course27">Rocket Propulsion</a></li>  
-   <li><a href="#course28">Topics in Philosophy of Mind: Perceptual Experience</a></li> 
+   <li><a href="#course28">Space Propulsion</a></li> 
   <li><a href="#course29">Topics in Philosophy of Mind: Self-Knowledge</a></li> 
    <li><a href="#course30">Political Philosophy: Global Justice</a></li>
 <li><a href="#course31">Topics in Epistemology: Self-Knowledge</a></li> 
@@ -3508,6 +3508,90 @@
 </tr>
 <tr class="alt-row">
 <td>Future Developments (<a href="6/lecture_37.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course28">Space Propulsion</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="6/MIT16_522S15_Lecture1.pdf">Introduction (PDF - 1.6MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_522S15_Lecture2.pdf">Fundamentals and Definitions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_522S15_Lecture3-4.pdf">Mission Analysis (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_522S15_Lecture5.pdf">Review of Classical Astrodynamics (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_522S15_Lecture6.pdf">Analytical Approximations for Low Thrust Maneuvers (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_522S15_Lecture7.pdf">Sub-optimal Climb and Plane Change (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_522S15_Lecture8.pdf">Basic Electromagnetic Theory and Plasma Physics (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_522S15_Lecture9.pdf">Overview of the Physics in the Plasma Sheath (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_522S15_Lecture10-11.pdf">Electrostatic Thrusters (Kaufman Ion Engines) (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_522S15_Charac.pdf">Characterization of Space Propulsion Devices (PDF - 3.7MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_522S15_Lecture12.pdf">Monopropellant Thrusters (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_522S15_Lecture13.pdf">Electrothermal Augmentation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_522S15_Lecture14.pdf">Plasmas in Equilibrium (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_522S15_Lecture15.pdf">Arcjet Thrusters (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_522S15_Lecture16.pdf">Hall Thrusters (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_522S15_Lecture17.pdf">Hall Thruster Efficiency (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_522S15_Lecture18.pdf">Hall Thrusters: Fluid Model of the Discharge (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="6/MIT16_522S15_Lecture19.pdf">Plasma Accelerators / Magneto Plasma Dynamic (MPD) Thrusters (PDF - 1.1MB)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_522S15_Lecture20.pdf">Electrospray Propulsion (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-522-space-propulsion-spring-2015/assignments#Laboratory_Project" target="_blank">Laboratory Project</a>&nbsp;Presentations &amp; Discussion</td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_522S15_Lecture22-23.pdf">Cone-jet Electrosprays, or Colloid Thrusters (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_522S15_Lecture24.pdf">Ion Emission and the Pure Ionic Regime (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_522S15_Lecture25.pdf">Electrodynamic Tethers (PDF)</a></td>
 </tr>
 </tbody>
 </table>
