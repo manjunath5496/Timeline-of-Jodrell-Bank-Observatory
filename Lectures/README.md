@@ -36,7 +36,7 @@
   <li><a href="#course35">Technology in Transportation</a></li>  
    <li><a href="#course36">Prototyping Avionics</a></li> 
   <li><a href="#course37">Private Pilot Ground School</a></li> 
-   <li><a href="#course38">Topics in Linguistic Theory: Laboratory Phonology</a></li> 
+   <li><a href="#course38">Air Traffic Control</a></li> 
    <li><a href="#course39">Topics in Linguistics Theory</a></li> 
   <li><a href="#course40">Black Matters: Introduction to Black Studies</a></li> 
    <li><a href="#course41">Language Variation and Change</a></li> 
@@ -4312,6 +4312,18 @@
 </tbody>
 </table>
 </br>
+<h2 id="course38">Air Traffic Control</h2>
 
-
-
+<p>Introductory Slides (<a href="7/lec1.pdf">PDF - 2.4 MB</a>)</p>
+<p>Communication, Navigation, and Surveillance (<a href="7/lec2.pdf">PDF - 2.0 MB</a>)</p>
+<p>Basic Procedures (<a href="7/lec3.pdf">PDF</a>)</p>
+<p>Modernization Plans (<a href="7/lec4.pdf">PDF - 6.9 MB</a>)</p>
+<p>Airport Operations (<a href="7/lec5.pdf">PDF - 1.7 MB</a>) (Courtesy of Philippe A. Bonnefoy. Used with permission.)</p>
+<p>Air Traffic Flow Management (FAA Command Center) (<a href="7/lec7.pdf">PDF - 4.5 MB</a>)</p>
+<p>Oceanic and International ATC (<a href="7/lec8.pdf">PDF - 3.2 MB</a>)</p>
+<p>Next Generation Air Transportation System Initiative (<a href="7/lec9.pdf">PDF - 2.8 MB</a>) (Courtesy of Dr. Sherry Borener. Used with permission.)</p>
+<p>System-Wide Modeling for the Joint Planning and Development Office (<a href="7/lec10.pdf">PDF - 3.4 MB</a>) (Courtesy of Dr. Sherry Borener. Used with permission.)</p>
+<p>European AIS Database Portfolio Analysis (<a href="7/lec11.pdf">PDF</a>) (Courtesy of Dan Goldner and Jack Fearnsides. Used with permission.)</p>
+<p>Controller Training and Labor Issues (<a href="7/lec12.pdf">PDF - 1.6 MB</a>)</p>
+<p>Air Traffic Control Funding and User Fees (<a href="7/lec13.pdf">PDF - 1.4 MB</a>)</p>
+</br>
