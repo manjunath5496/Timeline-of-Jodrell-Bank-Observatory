@@ -34,7 +34,7 @@
    <li><a href="#course33">System Safety</a></li> 
   <li><a href="#course34">Introduction to Lean Six Sigma Methods</a></li> 
   <li><a href="#course35">Technology in Transportation</a></li>  
-   <li><a href="#course36">Creole Languages and Caribbean Identities</a></li> 
+   <li><a href="#course36">Prototyping Avionics</a></li> 
   <li><a href="#course37">Topics in Linguistic Theory: Propositional Attitudes</a></li> 
    <li><a href="#course38">Topics in Linguistic Theory: Laboratory Phonology</a></li> 
    <li><a href="#course39">Topics in Linguistics Theory</a></li> 
@@ -4099,6 +4099,131 @@
 <tr class="alt-row">
 <td>(<a href="6/MIT16_682S11_exqs2.pdf">PDF</a>)</td>
 <td>(<a href="6/MIT16_682S11_exsl2.pdf">PDF - 1.3MB</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course36">Prototyping Avionics</h2>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;DESCRIPTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>(Re)Introduction to design (<a href="6/lect1.pdf">PDF</a>)</td>
+<td>Course introduction and overview. A revisit of the design process and where new prototyping techniques fall within it.</td>
+</tr>
+<tr class="alt-row">
+<td>Review of E&amp;M (<a href="6/lect2.pdf">PDF</a>)</td>
+<td>An expedited review of the main concepts of E&amp;M relevant to prototyping electronics. Concepts of voltage, current, resistance, capacitance, and inductance and their major relations: V = IR, P = IV = I&nbsp;<sup>2</sup>&nbsp;R, I= CdV/dt, V = LdI/dt.</td>
+</tr>
+<tr class="row">
+<td>Discrete components (<a href="6/lect3.pdf">PDF</a>)</td>
+<td>
+<p>Review of the primary discrete components (assume prior introduction in Unified): resistors, capacitors, inductors, and diodes. Review of first and second order systems created with passive components. Emphasis on voltage dividers and low-pass filters.</p>
+<p>Review/introduction of amplifiers: emphasis on general equations to implement different types of circuits.</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Discrete components: Transistors (<a href="6/lect4.pdf">PDF</a>)</td>
+<td>Review/introduce transistors and their primary different types: NPN/PNP, MOSFETs. Emphasis on the general operation, primarily on their behavior as it affects the digital world, rather than transient behavior.</td>
+</tr>
+<tr class="row">
+<td>Power components (<a href="6/lect5.pdf">PDF</a>)</td>
+<td>
+<p>Review general concepts of voltage and current supplies.</p>
+<p>Understand the general operation and how to utilize: linear regulator, inductor based regulators, integrated switching regulators.</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Digital components (<a href="6/lect6.pdf">PDF</a>)</td>
+<td>
+<p>Review/introduction of the basic "gates" that comprise the digital world: and, or, nor, xor, multiplexers, registers, latches, and flip-flops (in general what the 74 series of digital components can do). Maintain all material on a "single-bit" level at this point.</p>
+<p>Introduce the concept of truth tables for these elements; teach the ability to create their own truth-tables.</p>
+</td>
+</tr>
+<tr class="row">
+<td>Digital thinking</td>
+<td>
+<p>Introduce students to thinking in the digital world: bit/nibble/byte/word concepts, octal/decimal/hexadecimal systems, bitwise vs. byte wise operations, word operations, data types representation.</p>
+<p>Concepts of stacks, queues, pointers, and memory operations.</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Processors</td>
+<td>General purpose processor architectures: processing unit, stack, program memory, data memory, peripherals, interfaces.</td>
+</tr>
+<tr class="row">
+<td>Interfacing digital and analog</td>
+<td>Introduce concept of digital/analog conversion (both ways). Present large array of available hardware that can be interfaced to processors.</td>
+</tr>
+<tr class="alt-row">
+<td>Schematics: Introduction</td>
+<td>
+<p>Introduce the schematic capture program: creation of schematic with existing parts on a single page.</p>
+<p>Part placement, net naming, component numbering, bill of materials, netlist creation.</p>
+</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="row">
+<td>Schematics: Parts</td>
+<td>
+<p>Introduction to parts libraries: creation/management of components.</p>
+<p>Component entry for schematic operations&ndash; pin creation, arrangement, naming.</p>
+<p>Intro to the ability to simulate a circuit (talk about it only, will not simulate).</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Schematics: Advanced tools</td>
+<td>Development of more complex schematics: multiple pages, ports, buses, multiple channels.</td>
+</tr>
+<tr class="row">
+<td>Schematics: Finishing design</td>
+<td>Explanation of board level annotation, netlisting, and reports.</td>
+</tr>
+<tr class="alt-row">
+<td>What is a PCB?</td>
+<td>
+<p>Introduction to all the parts of a PCB.</p>
+<p>Surface mounts vs. through-hole components. Hole sizes, drills, and mounting holes: specifying for all layers. Annular rings, clearance, and thermal relieve.</p>
+</td>
+</tr>
+<tr class="row">
+<td>PCB design: Basics</td>
+<td>Creating the first PCB: board outline, grid setup, clearances setup, nets setup, the ratnest, part placement.</td>
+</tr>
+<tr class="alt-row">
+<td>PCB design: Routing</td>
+<td>Routing: manual routing &ndash; take care of noise, ground lines, power lines. Automatic routing: when to use it.</td>
+</tr>
+<tr class="row">
+<td>PCB design: Finishing</td>
+<td>Error checking, plotting/printing, file output, manufacturing details.</td>
+</tr>
+<tr class="alt-row">
+<td>Documentation</td>
+<td>Guide students in the development of documentation which clearly describes the functionality of the avionics board, including correct use of timing diagrams, truth tables, ratings, and plots.</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="row">
+<td>Assembly tips</td>
+<td>Provide students with best methods to assemble (soldering techniques) a new PCB.</td>
+</tr>
+<tr class="alt-row">
+<td>Testing and debugging PCB's</td>
+<td>
+<p>Best methods to test and debug a prototype PCB: power check, critical net check, part matching, part sorting, assembly in stages.</p>
+<p>The first time you power up a new PCB: what to look for.</p>
+</td>
+</tr>
+<tr class="row">
+<td>Complex embedded systems</td>
+<td>Introduction of Complex Embedded Systems: high end processors, FPGA's, high-speed circuits, etc.</td>
 </tr>
 </tbody>
 </table>
