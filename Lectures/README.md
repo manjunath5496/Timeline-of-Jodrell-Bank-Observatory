@@ -44,7 +44,7 @@
    <li><a href="#course43">Fundamentals of Systems Engineering</a></li> 
    <li><a href="#course44">Integrating the Lean Enterprise</a></li> 
    <li><a href="#course45">Satellite Engineering</a></li> 
-   <li><a href="#course46">Language Disorders in Children</a></li> 
+   <li><a href="#course46">Robust System Design</a></li> 
    <li><a href="#course47">Pragmatics in Linguistic Theory</a></li> 
  <li><a href="#course48">Syntactic Models</a></li> 
    <li><a href="#course49">Introduction to Phonology</a></li> 
@@ -5064,6 +5064,96 @@
 </tbody>
 </table>
 </br>
+<h2 id="course46">Robust System Design</h2>
 
+<table class="tablewidth100" summary="Course Table Listing">
+<thead>
+<tr>
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">RELATED FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Course Introduction:<br />Probability, Statistics and<br />Quality Loss (<a href="7/l1_quality_loss_v6.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Context of Robust Design (<a href="7/rd_context.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Matrix Experiments<br />Using Orthogonal Arrays /<br />Paper Helicopter Lab (<a href="7/l3_matrix_experiments4.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Performance Characterization (<a href="7/rd_ideal_function_v2.pdf">PDF</a>)</td>
+<td headers="col3">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="col2">Control and Noise Factors (<a href="7/rd_c_n_factors2.pdf">PDF</a>)</td>
+<td headers="col3">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Analysis of Variance:<br />ANOVA (<a href="7/l7_anova4.pdf">PDF</a>)</td>
+<td headers="col3">
+<ul>
+<li>Catapult_L4_static_anova (<a href="7/catapult_l4_static_anova.xls">XLS1</a>)</li>
+<li>Catapult_L9_2 (<a href="7/catapult_l9_2.xls">XLS2</a>)</li>
+<li>Dice_Anova (<a href="7/dice_anova.xls">XLS3</a>)</li>
+<li>Dice_f_test (<a href="7/dice_f_test.xls">XLS4</a>)</li>
+</ul>
+</td>
+</tr>
+<tr class="row">
+<td headers="col2">Constructing<br />Orthogonal Arrays (<a href="7/l8_orth_arrays.pdf">PDF</a>)</td>
+<td headers="col3">
+<ul>
+<li>Catapult_L4_static_int<br />(<a href="7/catapult_l4_static_int.xls">XLS1</a>)</li>
+<li>Helicopter_L8_97_ex (<a href="7/helicopter_l8_97_ex.xls">XLS2</a>)</li>
+<li>Orthogonal Arrays (<a href="7/orthogonalarrays.pdf">PDF</a>)</li>
+</ul>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Robust Design Using Simulations&nbsp;(<a href="7/l11_cad2.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Design of Dynamic Systems (<a href="7/L12_Dynamic.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Reliability Improvement (<a href="7/L13_Reliability.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Review for Final Exam&nbsp;(<a href="7/L14_Final2.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Tolerance Design&nbsp;(<a href="7/l15_tol_des3.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Mahalanobis Taguchi System&nbsp;(<a href="7/l16_mahalanobis2.pdf">PDF</a>)</td>
+<td headers="col3">
+<ul class="noindent">
+<li>Fire 1 (<a href="7/fire1.xls">XLS1</a>)</li>
+<li>The Mahalanobis Distance in Character Recognition&nbsp;(<a href="7/letters_demo.pdf">PDF</a>)</li>
+</ul>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Robust Conceptual Design&nbsp;(<a href="7/l17_concepts4.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
