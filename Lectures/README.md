@@ -49,8 +49,8 @@
  <li><a href="#course48">Space System Architecture and Design</a></li> 
    <li><a href="#course49">Computational Methods in Aerospace Engineering</a></li> 
    <li><a href="#course50">Numerical Methods for Partial Differential Equations</a></li> 
-   <li><a href="#course51">Speech Communication</a></li> 
-   <li><a href="#course52">Topics in Semantics: Negative Polarity Items</a></li> 
+   <li><a href="#course51">Bio-Inspired Structures</a></li> 
+
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Introduction to Aerospace Engineering and Design</h2>
@@ -5604,8 +5604,94 @@
 </tbody>
 </table>
 </br>
-
-
-
+<h2 id="course51">Bio-Inspired Structures</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><strong>Processing of bio-inspired structures</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Introduction, overview: bio-inspired structures, applications (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT16_982s09_lec01.pdf">PDF - 1.5MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Stealing ideas from nature, biomimetics (<a href="8/MIT16_982s09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Materials properties, design, structural behavior (<a href="8/MIT16_982s09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Materials properties, design, structural behavior (cont.) (<a href="8/MIT16_982s09_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Morphing structures</td>
+</tr>
+<tr class="row">
+<td>Nanoparticles and structures (<a href="8/MIT16_982s09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Biomimetics of deployable structures (<a href="8/MIT16_982s09_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Bio-structures and properties</td>
+</tr>
+<tr class="alt-row">
+<td>Review</td>
+</tr>
+<tr class="row">
+<td><strong>Design of bio-inspired morphing structures and methods of assembly</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Bio-inspired nanomaterials</td>
+</tr>
+<tr class="row">
+<td>Methods of self-assembly</td>
+</tr>
+<tr class="alt-row">
+<td>Self-assembled monolayers and applications</td>
+</tr>
+<tr class="row">
+<td>Self-assembled monolayers and applications (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>Bio-inspired intelligent structures</td>
+</tr>
+<tr class="row">
+<td>Smart and active material</td>
+</tr>
+<tr class="alt-row">
+<td>Bulk nanostructures advanced materials (<a href="8/MIT16_982s09_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Bio-active surfaces and structures</td>
+</tr>
+<tr class="alt-row">
+<td>Review</td>
+</tr>
+<tr class="row">
+<td><strong>Bio-inspired intelligent structures</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Bio-inspired opitcal systems</td>
+</tr>
+<tr class="row">
+<td>Joint design</td>
+</tr>
+<tr class="alt-row">
+<td>Design of muscle-like actuators</td>
+</tr>
+<tr class="row">
+<td>Review</td>
+</tr>
+<tr class="alt-row">
+<td>Final presentation</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
