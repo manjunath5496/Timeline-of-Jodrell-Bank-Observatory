@@ -3408,109 +3408,108 @@
 </thead>
 <tbody>
 <tr class="row">
-<td>Introduction (<a href="5/lecture_1.pdf">PDF</a>)</td>
+<td>Introduction (<a href="6/lecture_1.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Rocket Nozzles and Thrust (<a href="5/lecture_2.pdf">PDF</a>)</td>
+<td>Rocket Nozzles and Thrust (<a href="6/lecture_2.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Ideal Nozzle Fluid Mechanics (<a href="5/lecture_3.pdf">PDF</a>)</td>
+<td>Ideal Nozzle Fluid Mechanics (<a href="6/lecture_3.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Nozzle Design: Method of Characteristics (<a href="5/lecture_4_5.pdf">PDF</a>)</td>
+<td>Nozzle Design: Method of Characteristics (<a href="6/lecture_4_5.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Effects of Particles in Nozzle Flow (<a href="5/lecture_6.pdf">PDF</a>)</td>
+<td>Effects of Particles in Nozzle Flow (<a href="6/lecture_6.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Convective Heat Transfer: Reynolds Analogy (<a href="5/lecture_7.pdf">PDF</a>)</td>
+<td>Convective Heat Transfer: Reynolds Analogy (<a href="6/lecture_7.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Convective Heat Transfer: Other Effects (<a href="5/lecture_8.pdf">PDF</a>)</td>
+<td>Convective Heat Transfer: Other Effects (<a href="6/lecture_8.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Liquid Cooling (<a href="5/lecture_9.pdf">PDF</a>)</td>
+<td>Liquid Cooling (<a href="6/lecture_9.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Ablative Cooling, Film Cooling (<a href="5/lecture_10.pdf">PDF</a>)</td>
+<td>Ablative Cooling, Film Cooling (<a href="6/lecture_10.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Radiation Heat Transfer and Cooling (<a href="5/lecture_11.pdf">PDF - 1 MB</a>)</td>
+<td>Radiation Heat Transfer and Cooling (<a href="6/lecture_11.pdf">PDF - 1 MB</a>)</td>
 </tr>
 <tr class="row">
-<td>Review of Equilibrium Thermochemistry (<a href="5/lecture_12.pdf">PDF</a>)</td>
+<td>Review of Equilibrium Thermochemistry (<a href="6/lecture_12.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Examples of Chemical Equilibrium (<a href="5/lecture_13.pdf">PDF</a>)</td>
+<td>Examples of Chemical Equilibrium (<a href="6/lecture_13.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Non-Equilibrium Flows (<a href="5/lecture_14.pdf">PDF</a>)</td>
+<td>Non-Equilibrium Flows (<a href="6/lecture_14.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Selection of Propellant Mixtures (<a href="5/lecture_15.pdf">PDF</a>)</td>
+<td>Selection of Propellant Mixtures (<a href="6/lecture_15.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Solid Propellants: Design Goals and Constraints (<a href="5/lecture_16.pdf">PDF</a>)</td>
+<td>Solid Propellants: Design Goals and Constraints (<a href="6/lecture_16.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Solid Propellants: Other Topics (<a href="5/lecture_17_18.pdf">PDF</a>)</td>
+<td>Solid Propellants: Other Topics (<a href="6/lecture_17_18.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Liquid Propellants (<a href="5/lecture_19.pdf">PDF</a>)</td>
+<td>Liquid Propellants (<a href="6/lecture_19.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Combustion of Liquid Propellants (<a href="5/lecture_20.pdf">PDF</a>)</td>
+<td>Combustion of Liquid Propellants (<a href="6/lecture_20.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Liquid Motors: Injection and Mixing (<a href="5/lecture_21.pdf">PDF</a>)</td>
+<td>Liquid Motors: Injection and Mixing (<a href="6/lecture_21.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Liquid Motors: Stability (Low Frequency) (<a href="5/lecture_22.pdf">PDF</a>)</td>
+<td>Liquid Motors: Stability (Low Frequency) (<a href="6/lecture_22.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Liquid Motors: Stability (High Frequency); Acoustics (<a href="5/lecture_23.pdf">PDF</a>)</td>
+<td>Liquid Motors: Stability (High Frequency); Acoustics (<a href="6/lecture_23.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Pressurization and Pump Cycles (<a href="5/lecture_24.pdf">PDF</a>)</td>
+<td>Pressurization and Pump Cycles (<a href="6/lecture_24.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Basic Turbomachine Performance (<a href="5/lecture_25.pdf">PDF</a>)</td>
+<td>Basic Turbomachine Performance (<a href="6/lecture_25.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Turbopumps (<a href="5/lecture_26.pdf">PDF</a>)</td>
+<td>Turbopumps (<a href="6/lecture_26.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Turbines (<a href="5/lecture_27.pdf">PDF</a>)</td>
+<td>Turbines (<a href="6/lecture_27.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Mechanical Design of Turbomachinery (<a href="5/lecture_28.pdf">PDF</a>)</td>
+<td>Mechanical Design of Turbomachinery (<a href="6/lecture_28.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Rotordynamics Problems (<a href="5/lecture_29.pdf">PDF</a>)</td>
+<td>Rotordynamics Problems (<a href="6/lecture_29.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Dynamics of Turbopump Systems: The Shuttle Engine (<a href="5/lecture_30.pdf">PDF</a>)</td>
+<td>Dynamics of Turbopump Systems: The Shuttle Engine (<a href="6/lecture_30.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
 <td>Active Control of Rockets</td>
 </tr>
 <tr class="alt-row">
-<td>Orbital Mechanics: Review, Staging (<a href="5/lecture_32.pdf">PDF</a>)</td>
+<td>Orbital Mechanics: Review, Staging (<a href="6/lecture_32.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Performance to LEO (<a href="5/lecture_33.pdf">PDF</a>)</td>
+<td>Performance to LEO (<a href="6/lecture_33.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Performance to GEO (<a href="5/lecture_34.pdf">PDF</a>)</td>
+<td>Performance to GEO (<a href="6/lecture_34.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Impulsive and Low-Thrust Maneuvers in Space (<a href="5/lecture_35_36.pdf">PDF</a>)</td>
+<td>Impulsive and Low-Thrust Maneuvers in Space (<a href="6/lecture_35_36.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Future Developments (<a href="5/lecture_37.pdf">PDF</a>)</td>
+<td>Future Developments (<a href="6/lecture_37.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>
 </br>
-
 
