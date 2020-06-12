@@ -9,7 +9,7 @@
 <li><a href="#course8">Analytical Subsonic Aerodynamics</a></li>
 <li><a href="#course9">Aerodynamics of Viscous Fluids</a></li>
 <li><a href="#course10">Structural Mechanics </a></li>
-<li><a href="#course11">Ethics in Your Life: Being, Thinking, Doing (or Not?)</a></li>
+<li><a href="#course11">Techniques for Structural Analysis and Design</a></li>
 <li><a href="#course12">Ancient Philosophy</a></li>
 <li><a href="#course13">Topics in the History of Philosophy: Justice and Political Economy</a></li>
  <li><a href="#course14">Topics in the History of Philosophy: Kant</a></li>
@@ -1254,4 +1254,291 @@
 <li>Unit 22 (<a href="2/unit22.pdf">PDF</a>)</li>
 <li>Unit 23 (<a href="2/unit23.pdf">PDF</a>)</li>
 </ul>
+</br>
+<h2 id="course11">Techniques for Structural Analysis and Design</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th id="tbl983id0_1" scope="col">TOPICS</th>
+<th id="tbl983id0_2" scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2" headers="tbl983id0_0">
+<p><strong>Part 1: Review of the Equations of Linear Elasticity</strong></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl983id0_1">
+<p>Introduction</p>
+</td>
+<td headers="tbl983id0_2">
+<p>Introduction (<a href="2/unit1_notes.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl983id0_1">
+<p><em>Kinetics</em></p>
+<p>Stress at a Point</p>
+<p>Stress Tensor and the Cauchy Formula</p>
+<p>Transformation of Stress Components</p>
+<p>Principal Stresses and Principal Planes</p>
+<p>Equations of Motion</p>
+<p>Symmetry of the Stress Tensor</p>
+</td>
+<td headers="tbl983id0_2">
+<p>Stress and Momentum Balance (<a href="2/unit2_notes.pdf">PDF</a>)</p>
+<p>Mathematical Aside: Vectors, Indicial Notation and Summation Convention (<a href="2/unit2_math_aside.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl983id0_1">
+<p><em>Kinematics</em></p>
+<p>Strain at a Point</p>
+<p>Transformation of Stress Components</p>
+<p>Compatibility Conditions</p>
+</td>
+<td headers="tbl983id0_2">
+<p>Kinematics of Deformation (<a href="2/unit3_notes.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl983id0_1">
+<p><em>Thermodynamic Principles</em></p>
+<p>The First Law of Thermodynamics: Energy Equation</p>
+<p>The Second Law of Thermodynamics</p>
+</td>
+<td headers="tbl983id0_2">
+<p>Thermodynamics Principles (<a href="2/unit4_notes.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl983id0_1">
+<p><em>Constitutive Equations</em></p>
+<p>Generalized Hooke's Law</p>
+<p>Strain Energy Density Function</p>
+<p>Elastic Symmetry</p>
+<p>Thermoelastic Constitutive Equations</p>
+</td>
+<td headers="tbl983id0_2">
+<p>Constitutive Equations (<a href="2/unit5_notes.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl983id0_1">
+<p><em>Boundary Value Problems of Elasticity</em></p>
+<p>Summary of Equations</p>
+<p>Classification of Boundary Value Problems</p>
+<p>Existence and Uniqueness of Solutions</p>
+</td>
+<td headers="tbl983id0_2">
+<p>Boundary Value Problems of Linear Elasticity (<a href="2/unit6_notes.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="tbl983id0_0">
+<p><strong>Part 2: Energy and Variational Principles</strong></p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl983id0_1">
+<p><em>Preliminary Concepts</em></p>
+<p>Introduction</p>
+<p>Work and Energy</p>
+<p>Strain and Complementary Strain Energy</p>
+<p>Virtual Work</p>
+</td>
+<td headers="tbl983id0_2">
+<p>Concepts of Work and Energy (<a href="2/unit7_notes.pdf">PDF</a>)</p>
+<p>Strain Energy and Potential Energy of a Beam (<a href="2/unit7_beamenergy.pdf">PDF</a>)</p>
+<p>Principles of Virtual Displacements (<a href="2/unit8_notes.pdf">PDF</a>)</p>
+<p>Principles of Virtual Forces (<a href="2/unit8_notes2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl983id0_1">
+<p><em>Concepts of Calculus of Variations</em></p>
+<p>Concept of a Functional</p>
+<p>The Variational Operator</p>
+<p>The First Variation of a Functional</p>
+<p>Extremum of a Functional</p>
+<p>The Euler Equations</p>
+<p>Natural and Essential Boundary Conditions</p>
+<p>A More General Functional</p>
+<p>Minimization with Linear Equality Constraints</p>
+</td>
+<td headers="tbl983id0_2">
+<p>Calculus of Variations (<a href="2/unit9_notes.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl983id0_1">
+<p><em>Virtual Work and Energy Principles</em></p>
+<p>Principle of Virtual Displacements</p>
+<p>Unit Dummy Displacement Method</p>
+<p>Principle of Total Potential Energy</p>
+<p>Principle of Virtual Forces and Complementary Potential<br />Energy</p>
+<p>Unit Dummy Load Method</p>
+</td>
+<td headers="tbl983id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl983id0_1">
+<p><em>Energy Theorems of Structural Mechanics</em></p>
+<p>Castigliano's First Theorem</p>
+<p>Castigliano's Second Theorem</p>
+<p>Betti's and Maxwell's Reciprocity Theorems</p>
+</td>
+<td headers="tbl983id0_2">
+<p>Principle of Minimum Potential Energy and Castigliano's First Theorem (<a href="2/unit10_notes.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl983id0_1">
+<p>Some Preliminaries</p>
+</td>
+<td headers="tbl983id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl983id0_1">
+<p><em>The Ritz Method</em></p>
+<p>Description of the Method</p>
+<p>Matrix Form of the Ritz Equations</p>
+<p>One Dimensional Examples</p>
+</td>
+<td headers="tbl983id0_2">
+<p>Approximate Methods (<a href="2/unit11_notes1.pdf">PDF</a>)</p>
+<p>The Ritz Method Cont. (<a href="2/unit11_notes2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl983id0_1">
+<p><em>Weighted Residual Methods</em></p>
+<p>A Brief Description of Galerkin, Least-squares and Collocation Methods</p>
+</td>
+<td headers="tbl983id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl983id0_1">
+<p><em>Formulation of the Displacement Based Finite Element Method</em></p>
+<p>General Derivation of Finite Element Equilibrium Equations</p>
+<p>Imposition of Displacement Boundary Conditions</p>
+<p>Generalized Coordinate Models for Specific Problems</p>
+<p>Lumping of Structure Properties and Loads</p>
+</td>
+<td headers="tbl983id0_2">
+<p>The Finite Element Method (<a href="2/unit12_notes1.pdf">PDF</a>)</p>
+<p>The Finite Element Method II (<a href="2/unit12_notes2.pdf">PDF</a>)</p>
+<p>The Finite Element Method III (<a href="2/unit12_notes3.pdf">PDF</a>)</p>
+<p>The Finite Element Method IV: Imposition of Boundary Conditions (<a href="2/unit12_notes4.pdf">PDF</a>)</p>
+<p>Finite Element Model of a Beam (<a href="2/unit14_notes.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl983id0_1">
+<p><em>Convergence of Analysis Results</em></p>
+<p>Definition of Convergence</p>
+<p>Properties of the Finite Element Solution</p>
+<p>Rate of Convergence</p>
+<p>Calculation of Stresses and the Assessment of Error</p>
+</td>
+<td headers="tbl983id0_2">
+<p>The Finite Element Method V: For Three-Dimensional Elasticity Problems (<a href="2/unit15_notes.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl983id0_1">
+<p>Isoparametric Derivation of Bar Element Stiffness Matrix</p>
+</td>
+<td headers="tbl983id0_2">
+<p>Formulation of Isoparametric Elements (<a href="2/unit15_notes2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl983id0_1">
+<p><em>Formulation of Continuum Elements</em></p>
+<p>Quadrilateral Elements</p>
+<p>Triangular Elements</p>
+<p>Convergence Considerations</p>
+<p>Element Matrices in Global Coordinate System</p>
+</td>
+<td headers="tbl983id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl983id0_1">
+<p><em>Formulation of Structural Elements</em></p>
+<p>Beam Elements and Axisymmetric Shell Elements</p>
+<p>Plate and Shell Elements</p>
+</td>
+<td headers="tbl983id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl983id0_1">
+<p>Numerical Integration</p>
+</td>
+<td headers="tbl983id0_2">
+<p>Numerical Integration (<a href="2/unit16_notes.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl983id0_1">
+<p>Direct Solution of Linear System of Equations</p>
+</td>
+<td headers="tbl983id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl983id0_1">
+<p><em>Types of Structural Failure</em></p>
+<p>Yield Stress and Ultimate Stress</p>
+<p>Maximum Normal Stress Theory</p>
+<p>Tresca Condition, Hydraulic Stress, von Mises Criterion, Distortion Energy Interpretation</p>
+<p>Graphical Representation of Failure Regions</p>
+<p>Extension to Orthotropic Materials, Hill Criterion, Hoffman Criterion</p>
+<p>Nature of Failure Criteria, Functional Forms</p>
+<p>General Failure Analysis Procedure</p>
+<p>Application to Pressure Tank</p>
+</td>
+<td headers="tbl983id0_2">
+<p>Failure, Fracture, and Fatigue (<a href="2/unit13_notes.pdf">PDF - 2.4 MB</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl983id0_1">
+<p><em>Fracture Mechanics</em></p>
+<p>Description of Phenomena and Importance</p>
+<p>Energy Approach to Crack Growth, Energy Consumed by Crack Growth, Griffith's Experiment and Formula</p>
+<p>Definition of Stress Intensity Factor</p>
+<p>Stresses at Crack Tip, Mode I, II and III Cracks</p>
+<p>Solutions of Linear Elastic Fracture Mechanics, Geometry Effects</p>
+<p>Combined Loading; Material Selection Example</p>
+</td>
+<td headers="tbl983id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl983id0_1">
+<p><em>Fatigue and Longevity</em></p>
+<p>Terminology, SN Diagrams, Goodman Diagrams</p>
+<p>Effects of R Value, Stress Concentrations</p>
+<p>Ground-Air-Ground Cycle, Miner's Rule</p>
+<p>Micromechanical Effects</p>
+<p>Paris' Law</p>
+<p>Fatigue Life Prediction</p>
+<p>R Effects and Forman's Law, Sequencing Effects</p>
+<p>Approached to Design for Longevity</p>
+<p>Material Selection Example</p>
+</td>
+<td headers="tbl983id0_2">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<h2 class="subhead">Midterm</h2>
+<p>Midterm Exam (<a href="2/midterm.nb">NB</a>)</p>
+<h2 class="subhead">Final</h2>
+<p>Practice Problems (<a href="2/lastrec_problems.pdf">PDF</a>)</p>
+<p>Practice Problems Solutions (<a href="2/lastrec_prac_sol.pdf">PDF</a>)</p>
+<p>Final Exam (<a href="2/final.pdf">PDF</a>)</p>
 </br>
