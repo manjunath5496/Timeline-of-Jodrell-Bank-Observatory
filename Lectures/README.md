@@ -46,7 +46,7 @@
    <li><a href="#course45">Satellite Engineering</a></li> 
    <li><a href="#course46">Robust System Design</a></li> 
    <li><a href="#course47">Air Transportation Systems Architecting</a></li> 
- <li><a href="#course48">Syntactic Models</a></li> 
+ <li><a href="#course48">Space System Architecture and Design</a></li> 
    <li><a href="#course49">Introduction to Phonology</a></li> 
    <li><a href="#course50">Advanced Phonology</a></li> 
    <li><a href="#course51">Speech Communication</a></li> 
@@ -5354,10 +5354,73 @@
 </table>
 
 </br>
+<h2 id="course48">Space System Architecture and Design</h2>
 
-
-
-
+<table summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">HANDOUTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2" headers="col1"><strong>Part I: Introduction and Motivation</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Space Systems and Definitions</td>
+<td headers="col3">Framing document (<a href="8/01010wk1_framing.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Classic Solutions</td>
+<td headers="col3">Framing document (<a href="8/02010wk2_framing.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="col1"><strong>Part II: A New Space Architecture Process</strong></td>
+</tr>
+<tr class="row">
+<td headers="col2">Introduction to MATE: Tradespace Exploration</td>
+<td headers="col3">Outline (<a href="8/03000outline3v3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Applied Utility Theory</td>
+<td headers="col3">Outline (<a href="8/04000lec4outlnv3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Modeling and Exploring the Tradespace</td>
+<td headers="col3">Outline (<a href="8/5000lec5outlnv2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Integrated Concurrent Engineering</td>
+<td headers="col3">Outline (<a href="8/06000lec6outinv3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Examples - XTOS&nbsp;and SPACETUG&nbsp;and MATE-CON Simulation</td>
+<td headers="col3">Framing document (<a href="8/07000lec7outline.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Efficient Searches of Tradespaces: A Multiobjective, Multidisciplinary Design Optimization Methodology for the Conceptual Design of Distributed Satellite Systems (<a href="8/08999_slides.pdf">PDF</a>) (Courtesy of Cyrus Jilla. Used with permission.)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Uncertainty and Risk: A Framework for Understanding Uncertainty and its Mitigation and Exploitation in Complex Systems</td>
+<td headers="col3">Outline (<a href="8/09000_uncert_int.pdf">PDF</a>)<br /><br />Framing document (<a href="8/09010unc_framev2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Flexibility for Space Systems I<br /><br />Guest lecture: Gary Martin - Strategic Architectural Approaches at NASA</td>
+<td headers="col3">Outline (<a href="8/10000flex_intro.pdf">PDF</a>)<br /><br />Framing document (<a href="8/10010_flex_frame.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Flexibility for Space Systems II: Calculations (<a href="8/11999flexibility.pdf">PDF - 1.5 MB</a>) (Courtesy of Roshanak Nilchiani, Carole Joppin, and Daniel Hastings. Used with permission.)</td>
+<td headers="col3">Outline (<a href="8/11000flex_2_int.pdf">PDF</a>)<br /><br />Framing document (<a href="8/11010_flex2frame.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Policy Issues in Space System Architectures (<a href="8/12999_policy.pdf">PDF</a>)<br /><br />Guest lecture: Hal Hagemeier - National Security Space Architecting</td>
+<td headers="col3">Outline (<a href="8/12000pol_intro.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
 
