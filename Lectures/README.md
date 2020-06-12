@@ -1952,3 +1952,234 @@
 </tbody>
 </table>
 </br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="col1" scope="col">LEC&nbsp;#</th>
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">READINGS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>1</td>
+<td>Introduction</td>
+<td>VdV: Chapter 7, S 1-4</td>
+</tr>
+<tr class="alt-row">
+<td>2</td>
+<td>Frequency Response Bode Plot Rules</td>
+<td>VdV: Chapter 7, S 5</td>
+</tr>
+<tr class="row">
+<td>3</td>
+<td>Frequency Response (cont.) Gain / Phase Margins</td>
+<td>VdV: Chapter 7, S 6</td>
+</tr>
+<tr class="alt-row">
+<td>4</td>
+<td>Bode Plot Exercises</td>
+<td>VdV: Chapter 7, S 7-8</td>
+</tr>
+<tr class="row">
+<td>5</td>
+<td>Bode Plots for Unstable Open - Loop Systems</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>6</td>
+<td>Root - Locus Review</td>
+<td>VdV: Chapter 6, S 1-3</td>
+</tr>
+<tr class="row">
+<td>7</td>
+<td>Root - Locus Examples</td>
+<td>VdV: Chapter 6, S 4-6</td>
+</tr>
+<tr class="alt-row">
+<td>8</td>
+<td>Compensation Design Principles</td>
+<td>RMS: Chapter 8, S 1-2</td>
+</tr>
+<tr class="row">
+<td>9</td>
+<td>Compensation Design Principles (cont.)</td>
+<td>RMS: Chapter 8, S 1-2</td>
+</tr>
+<tr class="alt-row">
+<td>10</td>
+<td>Proportional Control + Extra Handout</td>
+<td>RMS: Chapter 8, S 1-2</td>
+</tr>
+<tr class="row">
+<td>11</td>
+<td>Lag&nbsp;and PID Compensation</td>
+<td>RMS: Chapter 8, S 4</td>
+</tr>
+<tr class="alt-row">
+<td>12</td>
+<td>Lead and PID Compensation</td>
+<td>RMS: Chapter 8, S 5</td>
+</tr>
+<tr class="row">
+<td>13</td>
+<td>Examples</td>
+<td>RMS: Chapter 8, S 1-5</td>
+</tr>
+<tr class="alt-row">
+<td>14</td>
+<td>High Frequency Roll-off Notch and Plant Inversion</td>
+<td>RMS: Chapter 8, S 6</td>
+</tr>
+<tr class="row">
+<td>15</td>
+<td>Design Example Lead-Lag Compensation + Extra Handout</td>
+<td>RMS: Chapter 8, S 7</td>
+</tr>
+<tr class="alt-row">
+<td>16</td>
+<td>Examples (cont.)</td>
+<td>RMS: Chapter 8, S 7</td>
+</tr>
+<tr class="row">
+<td>17</td>
+<td>More Examples</td>
+<td>RMS: Chapter 8, S 8</td>
+</tr>
+<tr class="alt-row">
+<td>18</td>
+<td>Control of Unstable Plants</td>
+<td>RMS: Chapter 8, S 9</td>
+</tr>
+<tr class="row">
+<td>19</td>
+<td>Control of Unstable Plants (cont.)</td>
+<td>RMS: Chapter 8, S 9-10 + RMS: 6.6</td>
+</tr>
+<tr class="alt-row">
+<td>20</td>
+<td>Quiz</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>21</td>
+<td>Models of Nonlinearities</td>
+<td>Introduction (<a href="3/intro_nnl.pdf">PDF</a>) (Courtesy of D. B. DeBra. Used with permission.)<br /><br />Chapter 1 (<a href="3/ch1_nnl.pdf">PDF</a>)<br />Chapter 2 (<a href="3/ch2_nnl.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>22</td>
+<td>Common Effects of Nonlinearities</td>
+<td>G&amp;VV: 1.0-1.3 (<a href="3/gelb_ch1_ocra.pdf">PDF - 2.3 MB</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td>23</td>
+<td>Prof. David Trumper's Lecture</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>24</td>
+<td>Describing Functions Introduction and Motivation</td>
+<td>G&amp;VV: 1.4-1.6 (<a href="3/gelb_ch1_ocra.pdf">PDF - 2.3 MB</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td>25</td>
+<td>Describing Function Analysis</td>
+<td>G&amp;VV: 3.0-3.1 (<a href="3/gelb_ch3_ocr.pdf">PDF - 4.3 MB</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td>26</td>
+<td>Computing DFs</td>
+<td>G&amp;VV: Chapter 2 (<a href="3/gelb_ch2_ocr.pdf">PDF - 2.6 MB</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td>27</td>
+<td>DF Analysis: Example 1, Stability of Boat Autopiloot</td>
+<td>Notes</td>
+</tr>
+<tr class="alt-row">
+<td>28</td>
+<td>DF Analysis: Example 1 (cont.)</td>
+<td>Notes</td>
+</tr>
+<tr class="row">
+<td>29</td>
+<td>DF Analysis: Limit Cycling</td>
+<td>G&amp;VV: 3.2 (<a href="3/gelb_ch3_ocr.pdf">PDF - 4.3 MB</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td>30</td>
+<td>DF Analysis: Jump Resonance</td>
+<td>G&amp;VV: 3.3 (<a href="3/gelb_ch3_ocr.pdf">PDF - 4.3 MB</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td>31</td>
+<td>DF-based Compensation Design</td>
+<td>G&amp;VV: 3.5 (<a href="3/gelb_ch3_ocr.pdf">PDF - 4.3 MB</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td>32</td>
+<td>DF-based Compensation Design (cont.)</td>
+<td>G&amp;VV: 3.5 and 3.7 (<a href="3/gelb_ch3_ocr.pdf">PDF - 4.3 MB</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td>33</td>
+<td>Phase-Plane Analysis Introduction and Motivation</td>
+<td>Chapter 3 (<a href="3/ch3_nnl.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>34</td>
+<td>Phase Plane Drawing Rules</td>
+<td>Chapter 3 (<a href="3/ch3_nnl.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>35</td>
+<td>Phase - Plane Example I Carry-on Suitcase</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>36</td>
+<td>Phase - Plane Example II Satellite System</td>
+<td>Chapter 3 Extra (<a href="3/ch3_nnl_extra.pdf">PDF</a>)<br />Chapter 4 (<a href="3/ch4_nnl.pdf">PDF</a>)<br />Chapter 5 (<a href="3/ch5_nnl.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>37</td>
+<td>Phase - Plane Example III Satellite System</td>
+<td>Chapter 3 Extra (<a href="3/ch3_nnl_extra.pdf">PDF</a>)<br />Chapter 4 (<a href="3/ch4_nnl.pdf">PDF</a>)<br />Chapter 5 (<a href="3/ch5_nnl.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>38</td>
+<td>Phase - Plane and Parameter Dependence of System Dynamics</td>
+<td>Chapter 6 (<a href="3/ch6_nnl.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>39</td>
+<td>Phase - Plane and Parameter Dependence of System Dynamics (cont.)</td>
+<td>Chapter 6 (<a href="3/ch6_nnl.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>&nbsp;</td>
+<td>Final Exam (3 hours)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>The complete G&amp;VV text (Gelb, A., and W. E. Vander Velde.&nbsp;<em>Multiple-Input Describing Functions and Nonlinear System Design</em>. McGraw Hill, 1968) is provided below.</p>
+<p>Chapter 1. Table of Contents, Nonlinear Systems and Describing Functions (<a href="3/gelb_ch1_ocra.pdf">PDF - 2.3 MB</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
+<p>Chapter 2. Sinusoidal Input Describing Function (<a href="3/gelb_ch2_ocr.pdf">PDF - 2.6 MB</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
+<p>Chapter 3. Steady-state Oscillations in Nonlinear Systems (<a href="3/gelb_ch3_ocr.pdf">PDF - 4.3 MB</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
+<p>Chapter 4. Transient Oscellations in Nonlinear Systems (<a href="3/gelb_ch4_ocr.pdf">PDF - 1.7 MB</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
+<p>Chapter 5. Two-sinusoid-input Describing Function (<a href="3/gelb_ch5_ocr.pdf">PDF - 1.9 MB</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
+<p>Chapter 6. Dual-input Describing Function (<a href="3/gelb_ch6_ocr.pdf">PDF - 2.8 MB</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
+<p>Chapter 7. Random and Other Signals in Nonlinear Systems (<a href="3/gelb_ch7_ocr.pdf">PDF - 3.1 MB</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
+<p>Chapter 8. Nonoscillatory Transients in Nonlinear Systems (<a href="3/gelb_ch8_ocr.pdf">PDF</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
+<p>Chapter 9. Oscillations in Nonlinear Sampled-data Systems (<a href="3/gelb_ch9_ocr.pdf">PDF - 2.4 MB</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
+<p>Appendix A. Amplitude-ratio-Decibel Conversion Tables (<a href="3/appdx_a_ocr.pdf">PDF</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
+<p>Appendix B. Table of Sinusoidal-Input Describing Functions (<a href="3/appdx_b_ocr.pdf">PDF</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
+<p>Appendix C. Table of Dual-input Describing Functions (<a href="3/appdx_c_ocr.pdf">PDF</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
+<p>Appendix D. Table of Two-sinusoid-input Describing Functions (<a href="3/appdx_d_ocr.pdf">PDF</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
+<p>Appendix E. Table of Random-input Describing Functions (<a href="3/appdx_e_ocr.pdf">PDF</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
+<p>Appendix F. Table of Sampled Describing Functions (<a href="3/appdx_f_ocr.pdf">PDF</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
+<p>Appendix G. Analytical Justification for the Filter Hypothesis (<a href="3/appdx_g_ocr.pdf">PDF</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
+<p>Appendix H. Introduction to Probability and Random Process (<a href="3/appdx_h_ocr.pdf">PDF</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
+<p>Index (<a href="3/gelb_index_ocr.pdf">PDF</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
