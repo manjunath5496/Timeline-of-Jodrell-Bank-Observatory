@@ -39,7 +39,7 @@
    <li><a href="#course38">Air Traffic Control</a></li> 
    <li><a href="#course39">Airline Management</a></li> 
   <li><a href="#course40">Engineering Design and Rapid Prototyping</a></li> 
-   <li><a href="#course41">Language Variation and Change</a></li> 
+   <li><a href="#course41">The Aerospace Industry</a></li> 
    <li><a href="#course42">Linguistic Phonetics</a></li> 
    <li><a href="#course43">ConLangs: How to Construct a Language</a></li> 
    <li><a href="#course44">Grammar of a Less Familiar Language</a></li> 
@@ -4581,3 +4581,52 @@
 </tbody>
 </table>
 </br>
+<h2 id="course41">The Aerospace Industry</h2>
+
+<table class="tablewidth100" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Class Introduction<br />Preparing a Reflective Journal (<a href="7/Journals_in_this_seminar.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Current Events<br />The 21st Century Enterprise Challenge</td>
+</tr>
+<tr class="row">
+<td headers="col2">Current Events<br />The Cold War Legacy</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Current Events<br />Monuments and Misalignments</td>
+</tr>
+<tr class="row">
+<td headers="col2">Current Events<br />Lean Thinking (<a href="7/9_mar_682.pdf">PDF</a>) (Courtesy of Joel Cutcher-Gershenfeld. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Current Events<br />Islands of Success (<a href="7/16_mar_682_ocw.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Current Events<br />Lean Enterprises (<a href="7/30_mar_682_class.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Current Events<br />A Value-Creation Framework and Program Value (<a href="7/6_apr_682_ocw.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Current Events<br />Value in Corporate and Government Enterprises (<a href="7/13_apr_682_ocw.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Current Events<br />Value at National and International Levels (<a href="7/27_apr_682_class.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Student Interviews</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Student Interviews (cont.)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
