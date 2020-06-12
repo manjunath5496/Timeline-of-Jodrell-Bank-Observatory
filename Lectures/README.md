@@ -6,7 +6,7 @@
 <li><a href="#course5">Principles of Automatic Control</a></li>
 <li><a href="#course6">Dynamics</a></li>
 <li><a href="#course7">Aerodynamics</a></li>
-<li><a href="#course8">Philosophy of Quantum Mechanics</a></li>
+<li><a href="#course8">Analytical Subsonic Aerodynamics</a></li>
 <li><a href="#course9">Paradox and Infinity</a></li>
 <li><a href="#course10">Moral Psychology </a></li>
 <li><a href="#course11">Ethics in Your Life: Being, Thinking, Doing (or Not?)</a></li>
@@ -946,3 +946,60 @@
 <p>Lecture 48 - Structured vs. Unstructured Grids (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre48_cj.pdf">PDF</a>)</p>
 <p>Lecture 49 - Solution Convergence (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre49_cj.pdf">PDF</a>)</p>
 </br>
+<h2 id="course8">Analytical Subsonic Aerodynamics</h2>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="1/MIT16_121F17_lec01.pdf">Singular Perturbation Method (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT16_121F17_lec02.pdf">Seminar in Perturbation Methods (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT16_121F17_lec03.pdf">Singular Perturbation Methods; Formation of Shock Waves (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT16_121F17_lec04.pdf">Fundamental of Fluid Mechanics (PDF - 3.2MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT16_121F17_lec05.pdf">Linear Subsonic Flow (PDF - 2.7MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT16_121F17_lec06.pdf">Similarity Rules (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT16_121F17_lec7-9.pdf">Bodies of Revolution: Slender Body Theory (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT16_121F17_lec10.pdf">Slender Body Theory (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT16_121F17_lec11.pdf">Higher Approximations: Slope of the Lift and Moment About Mid-chord (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<div><a href="1/MIT16_121F17_lec12-14.pdf">Perturbation Methods / Overview (PDF)</a></div>
+</td>
+</tr>
+<tr class="row">
+<td>
+<div><a href="1/MIT16_121F17_lec15.pdf">Thin Wing Theory (PDF)</a></div>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<div><a href="1/MIT16_121F17_lec16.pdf">Non-linear, Unsteady Transonic Flows (PDF)</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
