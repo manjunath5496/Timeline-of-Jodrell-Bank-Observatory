@@ -1754,7 +1754,7 @@
 </tbody>
 </table>
 </br>
-<h2 id="course14">Introduction to Aerospace Engineering and Design</h2>
+<h2 id="course14">Estimation and Control of Aerospace Systems</h2>
 
 <table class="tablewidth75" summary="See table caption for summary.">
 <thead>
@@ -2183,3 +2183,10 @@
 <p>Appendix G. Analytical Justification for the Filter Hypothesis (<a href="3/appdx_g_ocr.pdf">PDF</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
 <p>Appendix H. Introduction to Probability and Random Process (<a href="3/appdx_h_ocr.pdf">PDF</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
 <p>Index (<a href="3/gelb_index_ocr.pdf">PDF</a>) (Courtesy of Authur Gelb and Wallace Vander Velde. Used with permission.)</p>
+
+</br>
+
+
+
+
+
