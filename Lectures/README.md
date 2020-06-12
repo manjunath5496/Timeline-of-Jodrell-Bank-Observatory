@@ -21,7 +21,7 @@
  <li><a href="#course20">Software Engineering Concepts</a></li>
 <li><a href="#course21">Communication Systems Engineering</a></li> 
  <li><a href="#course22">Data Communication Networks</a></li>  
-   <li><a href="#course23">Feminist Thought</a></li> 
+   <li><a href="#course23">Infinite Random Matrix Theory</a></li> 
   <li><a href="#course24">Logic I</a></li>
   <li><a href="#course25">Logic II</a></li>
 <li><a href="#course26">Modal Logic</a></li> 
@@ -2978,5 +2978,42 @@
 </tbody>
 </table>
 </br>
+<h2 id="course23">Infinite Random Matrix Theory</h2>
 
-
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">LECTURE NOTES</th>
+<th id="col4" scope="col">SUPPORTING FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">The Hermite Ensemble: Wigner's Semi-Circle Law</td>
+<td headers="col3">Histogramming (<a href="5/handout2.pdf">PDF</a>)<br /><br />Experiments with the Classical Ensembles (<a href="5/handout3.pdf">PDF</a>)</td>
+<td headers="col4"><em>Histogramming<br /><br /></em>bellcurve.m (<a href="5/bellcurve.m">M</a>)<br />histn.m (<a href="5/histn.m">M</a>)<br />momwigner.m (<a href="5/momwigner.m">M</a>)<br /><br /><em>Experiments with the Classical Ensembles</em><br /><br />wigner.m (<a href="5/wigner.m">M</a>)<br />wishart.m (<a href="5/wishart.m">M</a>)<br />manova.m (<a href="5/manova.m">M</a>)<br />wigneredf.m (<a href="5/wigneredf.m">M</a>)<br />wishartedf.m (<a href="5/wishartedf.m">M</a>)<br />manovaedf.m (<a href="5/manovaedf.m">M</a>)<br />classicexpt.m (<a href="5/classicexpt.m">M</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Laguerre Ensemble: Marcenko-Pastur Theorem</td>
+<td headers="col3">The Stieltjes Transform Based Approach (<a href="5/handout4.pdf">PDF</a>) (Courtesy of Raj Rao. Used with permission.)</td>
+<td headers="col4">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">The "Semi-Circular" Element: Central Limit Theorem for Infinite Random Matrices</td>
+<td headers="col3">Tridiagonal Matrices, Orthogonal Polynomials and the Classical Random Matrix Ensembles (<a href="5/handout5.pdf">PDF</a>) (Courtesy of Brian Sutton. Used with permission.)</td>
+<td headers="col4">trijacobi.m (<a href="5/trijacobi.m">M</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Free Cumulants in Free Probability</td>
+<td headers="col3">Essentials of Finite Random Matrix Theory (<a href="5/handout6.pdf">PDF</a>)<br /><br />Numerical Methods in Random Matrices (<a href="5/handout7.pdf">PDF</a>) (Courtesy of Per-Olof Persson. Used with permission.)</td>
+<td headers="col4"><em>Essentials of Finite Random Matrix Theory<br /><br /></em>jsymeig.m (<a href="5/jsymeig.m">M</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Free Cumulants in Free Probability (cont.)</td>
+<td headers="col3">Project Ideas (<a href="5/handout8.pdf">PDF</a>)</td>
+<td headers="col4">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
