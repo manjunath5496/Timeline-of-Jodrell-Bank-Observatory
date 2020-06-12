@@ -33,7 +33,7 @@
  <li><a href="#course32">Experimental Projects II</a></li>  
    <li><a href="#course33">System Safety</a></li> 
   <li><a href="#course34">Introduction to Lean Six Sigma Methods</a></li> 
-  <li><a href="#course35">Lab in Psycholinguistics</a></li>  
+  <li><a href="#course35">Technology in Transportation</a></li>  
    <li><a href="#course36">Creole Languages and Caribbean Identities</a></li> 
   <li><a href="#course37">Topics in Linguistic Theory: Propositional Attitudes</a></li> 
    <li><a href="#course38">Topics in Linguistic Theory: Laboratory Phonology</a></li> 
@@ -4051,6 +4051,54 @@
 <p><a href="6/MIT16_660IAP12_3-7ClayJo.pdf">Introductory slides for Rockwell Collins&rsquo; Lean transformation&nbsp;(PDF)</a></p>
 </td>
 <td><a href="6/MIT16_660IAP12_3-7JonNot.pdf">Lean transformation video notes (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course35">Technology in Transportation</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">QUESTIONS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>(<a href="6/MIT16_682S11_ques1.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT16_682S11_soln1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>(<a href="6/MIT16_682S11_ques2.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT16_682S11_soln2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>(<a href="6/MIT16_682S11_ques3.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT16_682S11_soln3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>(<a href="6/MIT16_682S11_ques4.pdf">PDF</a>)</td>
+<td><span class="nobr">(<a href="6/MIT16_682S11_soln4.pdf">PDF</a>)</span></td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>(<a href="6/MIT16_682S11_exqs1.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT16_682S11_exsl1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>(<a href="6/MIT16_682S11_exqs2.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT16_682S11_exsl2.pdf">PDF - 1.3MB</a>)</td>
 </tr>
 </tbody>
 </table>
