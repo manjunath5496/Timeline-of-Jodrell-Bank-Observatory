@@ -12,7 +12,7 @@
 <li><a href="#course11">Techniques for Structural Analysis and Design</a></li>
 <li><a href="#course12">Computational Mechanics of Materials</a></li>
 <li><a href="#course13">Feedback Control Systems</a></li>
- <li><a href="#course14">Topics in the History of Philosophy: Kant</a></li>
+ <li><a href="#course14">Estimation and Control of Aerospace Systems</a></li>
 <li><a href="#course15">Philosophy In Film and Other Media</a></li> 
  <li><a href="#course16">Theory of Knowledge</a></li>  
    <li><a href="#course17">Philosophy of Film</a></li> 
@@ -1750,6 +1750,185 @@
 <tr class="alt-row">
 <td>Closed-loop system analysis</td>
 <td>(<a href="3/MIT16_30F10_lec24.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course14">Introduction to Aerospace Engineering and Design</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction (<a href="3/hO1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Frequency Response Bode Plot Rules (<a href="3/hO2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Frequency Response (cont.) (<a href="3/hO2.pdf">PDF</a>)<br />Gain / Phase Margins (<a href="3/hO3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Bode Plot Exercises</td>
+</tr>
+<tr class="row">
+<td>Bode Plots for Unstable Open - Loop Systems</td>
+</tr>
+<tr class="alt-row">
+<td>Root - Locus Review (<a href="3/hO4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Root - Locus Examples</td>
+</tr>
+<tr class="alt-row">
+<td>Compensation Design Principles (<a href="3/l8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Compensation Design Principles (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>Proportional Control (<a href="3/l10.pdf">PDF</a>)<br />Extra Handout (<a href="3/hO6_extra.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lag&nbsp;and PID Compensation (<a href="3/l11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lead and PID Compensation (<a href="3/l12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Examples (<a href="3/l13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>High Frequency Roll-off<br />Notch and Plant Inversion (<a href="3/l14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Design Example Lead-Lag Compensation (<a href="3/l15.pdf">PDF</a>)<br />Extra Handout (<a href="3/l15_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Examples (cont.)</td>
+</tr>
+<tr class="row">
+<td>More Examples</td>
+</tr>
+<tr class="alt-row">
+<td>Control of Unstable Plants (<a href="3/l18.pdf">PDF</a>)<br />Extra (<a href="3/l18_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Control of Unstable Plants (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz</td>
+</tr>
+<tr class="row">
+<td>Models of Nonlinearities (<a href="3/l21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Common Effects of Nonlinearities (<a href="3/l22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Prof. David Trumper's Lecture</td>
+</tr>
+<tr class="alt-row">
+<td>Describing Functions<br />Introduction and Motivation (<a href="3/l24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Describing Function Analysis (<a href="3/l25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Computing DFs</td>
+</tr>
+<tr class="row">
+<td>DF Analysis: Example 1, Stability of Boat Autopiloot</td>
+</tr>
+<tr class="alt-row">
+<td>DF Analysis: Example 1 (cont.)</td>
+</tr>
+<tr class="row">
+<td>DF Analysis: Limit Cycling (<a href="3/l29.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>DF Analysis: Jump Resonance</td>
+</tr>
+<tr class="row">
+<td>DF-based Compensation Design</td>
+</tr>
+<tr class="alt-row">
+<td>DF-based Compensation Design (cont.)</td>
+</tr>
+<tr class="row">
+<td>Phase-Plane Analysis<br />Introduction and Motivation (<a href="3/l33.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Phase Plane Drawing Rules</td>
+</tr>
+<tr class="row">
+<td>Phase - Plane Example I Carry-on Suitcase</td>
+</tr>
+<tr class="alt-row">
+<td>Phase - Plane Example II Satellite System</td>
+</tr>
+<tr class="row">
+<td>Phase - Plane Example III Satellite System</td>
+</tr>
+<tr class="alt-row">
+<td>Phase - Plane and Parameter Dependence of System Dynamics</td>
+</tr>
+<tr class="row">
+<td>Phase - Plane and Parameter Dependence of System Dynamics (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>Final Exam (3 hours)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="3/HW1.pdf">PDF</a>)</td>
+<td>(<a href="3/ps1sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="3/HW2.pdf">PDF</a>)</td>
+<td>(<a href="3/ps2sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="3/HW3.pdf">PDF</a>)</td>
+<td>(<a href="3/ps3sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="3/HW4.pdf">PDF</a>)</td>
+<td>(<a href="3/ps4sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="3/HW5.pdf">PDF</a>)</td>
+<td>(<a href="3/ps5sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 6 (<a href="3/HW6.pdf">PDF</a>)</td>
+<td>(<a href="3/ps6sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 7 (<a href="3/ps7.pdf">PDF</a>)</td>
+<td>(<a href="3/ps7sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 8:<br />G&amp;VV: 3.23 and 3.25</td>
+<td>(<a href="3/ps8sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 9 (<a href="3/ps9.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>
