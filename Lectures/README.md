@@ -20,7 +20,7 @@
 <li><a href="#course19">Astrodynamics</a></li>
  <li><a href="#course20">Software Engineering Concepts</a></li>
 <li><a href="#course21">Communication Systems Engineering</a></li> 
- <li><a href="#course22">Topics in Social Theory and Practice: Race and Racism</a></li>  
+ <li><a href="#course22">Data Communication Networks</a></li>  
    <li><a href="#course23">Feminist Thought</a></li> 
   <li><a href="#course24">Logic I</a></li>
   <li><a href="#course25">Logic II</a></li>
@@ -2905,3 +2905,78 @@
 </tbody>
 </table>
 </br>
+<h2 id="course22">Data Communication Networks</h2>
+
+<table class="tablewidth75">
+<thead>
+<tr>
+<th>TOPICS</th>
+<th>FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Data Networks</td>
+<td>(<a href="5/Lecture1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Data Link Layer: Framing and Error Detection</td>
+<td>(<a href="5/Lecture2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Data Link Layer: ARQ Protocols</td>
+<td>(<a href="5/Lectures3_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to Queueing Theory</td>
+<td>(<a href="5/Lectures5_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Burke's Theorem and Networks of Queues</td>
+<td>(<a href="5/Lecture7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>M/G/1 Queues</td>
+<td>(<a href="5/Lectures8_9.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Reservations Systems M/G/1 Queues with Priority</td>
+<td>(<a href="5/Lectures10_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Packet Multiple Access: The Aloha Protocol</td>
+<td>(<a href="5/Lectures13_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Local Area Networks</td>
+<td>(<a href="5/Lectures15_16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fast Packet Switching</td>
+<td>(<a href="5/Lectures17_18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Broadcast Routing</td>
+<td>(<a href="5/Lecture19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Routing in Data Networks</td>
+<td>(<a href="5/Lecture20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Optimal Routing</td>
+<td>(<a href="5/Lecture21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Flow and Congestion Control</td>
+<td>(<a href="5/Lectures22_23.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Higher Layer Protocols: TCP/IP and ATM</td>
+<td>(<a href="5/Lectures24_25.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
