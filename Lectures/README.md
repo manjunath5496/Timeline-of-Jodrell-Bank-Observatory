@@ -40,7 +40,7 @@
    <li><a href="#course39">Airline Management</a></li> 
   <li><a href="#course40">Engineering Design and Rapid Prototyping</a></li> 
    <li><a href="#course41">The Aerospace Industry</a></li> 
-   <li><a href="#course42">Linguistic Phonetics</a></li> 
+   <li><a href="#course42">Space Systems Engineering</a></li> 
    <li><a href="#course43">ConLangs: How to Construct a Language</a></li> 
    <li><a href="#course44">Grammar of a Less Familiar Language</a></li> 
    <li><a href="#course45">Linguistic Theory and the Japanese Language</a></li> 
@@ -4625,6 +4625,32 @@
 </tr>
 <tr class="alt-row">
 <td headers="col2">Student Interviews (cont.)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course42">Space Systems Engineering</h2>
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">System management (<a href="7/sys_engg_manage2.pdf">PDF</a>) (Courtesy of Javier de Luis. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Formation flight control (<a href="7/grav_well_tb_4.pdf">PDF</a>) (Courtesy of David Miller and Raymond Sedwick. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Presentation planning (<a href="7/badslides.pdf">PDF 1</a>) (Courtesy of Andrea McKenzie. Used with permission.)&nbsp;(<a href="7/design_team_pres.pdf">PDF 2</a>) (Courtesy of Andrea McKenzie. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Design document (<a href="7/designdoc.pdf">PDF</a>) (Courtesy of Andrea McKenzie. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Presentation planning (<a href="7/evpm.pdf">PDF 1</a>) (<a href="7/smt.pdf">PDF 2</a>)</td>
 </tr>
 </tbody>
 </table>
