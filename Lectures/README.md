@@ -5506,3 +5506,12 @@
 </table>
 
 </br>
+<ul>
+<li><a href="8/MIT16_90S14_proj1.pdf">Ordinary Differential Equations (PDF)</a></li>
+<li><a href="8/MIT16_90S14_Project2.pdf">Partial Differential Equations (PDF)</a></li>
+<li><a href="8/MIT16_90S14_proj3_sol.pdf">Probabilistic Methods and Optimization (PDF)</a></li>
+<li><a href="8/MIT16_90S14_AF_project1.pdf">Project 1 Sample (PDF)</a></li>
+<li><a href="8/MIT16_90S14_AF_project2.pdf">Project 2 Sample (PDF)</a></li>
+<li><a href="8/MIT16_90S14_AF_project3.pdf">Project 3 Sample (PDF)</a></li>
+</ul>
+</br>
