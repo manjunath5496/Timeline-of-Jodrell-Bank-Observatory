@@ -24,7 +24,7 @@
    <li><a href="#course23">Infinite Random Matrix Theory</a></li> 
   <li><a href="#course24">Random Matrix Theory and Its Applications</a></li>
   <li><a href="#course25">Human Factors Engineering</a></li>
-<li><a href="#course26">Modal Logic</a></li> 
+<li><a href="#course26">Introduction to Propulsion Systems</a></li> 
  <li><a href="#course27">Introduction to Philosophy of Language</a></li>  
    <li><a href="#course28">Topics in Philosophy of Mind: Perceptual Experience</a></li> 
   <li><a href="#course29">Topics in Philosophy of Mind: Self-Knowledge</a></li> 
@@ -3160,3 +3160,242 @@
 </tbody>
 </table>
 </br>
+<h2 id="course26">Introduction to Propulsion Systems</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Rocket equation; gravity loss; optimum acceleration</td>
+<td><a href="5/MIT16_50S12_lec1.pdf">Lecture 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Rocket staging; range of aircraft; climb &amp; acceleration</td>
+<td><a href="5/MIT16_50S12_lec2.pdf">Lecture 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Orbital mechanics; single force center</td>
+<td><a href="5/MIT16_50S12_lec3.pdf">Lecture 3 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Hyperbolic orbits; interplanetary transfer</td>
+<td><a href="5/MIT16_50S12_lec4.pdf">Lecture 4 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Non-chemical rockets; optimum exhaust velocity</td>
+<td><a href="5/MIT16_50S12_lec5.pdf">Lecture 5 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Modeling of thermal rocket engines; nozzle flow; control of mass flow</td>
+<td><a href="5/MIT16_50S12_lec6.pdf">Lecture 6 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Modeling of rocket nozzles; effects of nozzle area ratio</td>
+<td><a href="5/MIT16_50S12_lec7.pdf">Lecture 7 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Types of nozzles; connection of flow to nozzle shape</td>
+<td><a href="5/MIT16_50S12_lec8.pdf">Lecture 8 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Solid propellant gas generators; stability; grain designs</td>
+<td><a href="5/MIT16_50S12_lec9.pdf">Lecture 9 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Models for rocket engines; flow of reacting gases</td>
+<td><a href="5/MIT16_50S12_lec10.pdf">Lecture 10 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Reacting gases (cont.); temperature dependence of specific heats</td>
+<td><a href="5/MIT16_50S12_lec11.pdf">Lecture 11 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Nozzle flow of reacting gases</td>
+<td><a href="5/MIT16_50S12_lec12.pdf">Lecture 12 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Rocket casing design; structural modeling</td>
+<td><a href="5/MIT16_50S12_lec13.pdf">Lecture 13 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Heat transfer and cooling</td>
+<td><a href="5/MIT16_50S12_lec14.pdf">Lecture 14 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Ablative cooling</td>
+<td><a href="5/MIT16_50S12_lec15.pdf">Lecture 15 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Thrust vectoring; engine cycles; mass estimates</td>
+<td><a href="5/MIT16_50S12_lec16.pdf">Lecture 16 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Aircraft propulsion, configuration and components</td>
+<td><a href="5/MIT16_50S12_lec17.pdf">Lecture 17 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Aircraft engine modeling; turbojet engine</td>
+<td><a href="5/MIT16_50S12_lec18.pdf">Lecture 18 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Turbojet engines (cont.); design parameters; effect of mass flow on thrust.</td>
+<td><a href="5/MIT16_50S12_lec19.pdf">Lecture 19 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to component matching and off-design operation</td>
+<td><a href="5/MIT16_50S12_lec20.pdf">Lecture 20 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Turbofan engines</td>
+<td><a href="5/MIT16_50S12_lec21.pdf">Lecture 21 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Inlets or diffusers</td>
+<td><a href="5/MIT16_50S12_lec22.pdf">Lecture 22 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Exhaust nozzles</td>
+<td><a href="5/MIT16_50S12_lec23.pdf">Lecture 23 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Compressors and fans</td>
+<td><a href="5/MIT16_50S12_lec24.pdf">Lecture 24 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Velocity triangles; compressor performance maps</td>
+<td><a href="5/MIT16_50S12_lec25.pdf">Lecture 25 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Compressor blading; design; multi-staging</td>
+<td><span class="nobr"><a href="5/MIT16_50S12_lec26.pdf">Lecture 26 (PDF)</a></span></td>
+</tr>
+<tr class="row">
+<td>Turbines; stage characteristics; degree of reaction</td>
+<td><a href="5/MIT16_50S12_lec27.pdf">Lecture 27 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Turbine solidity; mass flow limits; blade temperature</td>
+<td><a href="5/MIT16_50S12_lec28.pdf">Lecture 28 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Turbine cooling; general trends and systems; internal cooling</td>
+<td><a href="5/MIT16_50S12_lec29.pdf">Lecture 29 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Film cooling; thermal stresses; impingement cooling; how to do cooling design</td>
+<td><a href="5/MIT16_50S12_lec30.pdf">Lecture 30 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Compressor-turbine matching; gas generators</td>
+<td><a href="5/MIT16_50S12_lec31.pdf">Lecture 31 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Engine structures; centrifugal stresses; engine arrangements</td>
+<td><a href="5/MIT16_50S12_lec32.pdf">Lecture 32 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Critical speeds and vibration</td>
+<td><a href="5/MIT16_50S12_lec33.pdf">Lecture 33 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Combustors; afterburners</td>
+<td><a href="5/MIT16_50S12_lec34.pdf">Lecture 34 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Pollutant; motivations for control; formation; strategies for reduction</td>
+<td><a href="5/MIT16_50S12_lec35.pdf">Lecture 35 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Aircraft engine noise: principles; regulations</td>
+<td><a href="5/MIT16_50S12_lec36.pdf">Lecture 36 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Jet noise, turbomachinery noise</td>
+<td><a href="5/MIT16_50S12_lec37.pdf">Lecture 37 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Rotordynamics of the jet engine</td>
+<td><a href="5/MIT16_50S12_lec38.pdf">Lecture 38 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="5/MIT16_50S12_hw1.pdf">Homework 1 (PDF)</a></td>
+<td><a href="5/MIT16_50S12_sol1.pdf">Solution 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="5/MIT16_50S12_hw2.pdf">Homework 2 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." />PDF)</a></td>
+<td><a href="5/MIT16_50S12_sol2.pdf">Solution 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="5/MIT16_50S12_hw3.pdf">Homework 3 (PDF)</a></td>
+<td><a href="5/MIT16_50S12_sol3.pdf">Solution 3 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="5/MIT16_50S12_hw4.pdf">Homework 4 (PDF)</a></td>
+<td><a href="5/MIT16_50S12_sol4.pdf">Solution 4 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="5/MIT16_50S12_hw5.pdf">Homework 5 (PDF)</a></td>
+<td><a href="5/MIT16_50S12_sol5.pdf">Solution 5 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="5/MIT16_50S12_hw_opt.pdf">Optional heat transfer homework (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="5/MIT16_50S12_hw6.pdf">Homework 6 (PDF)</a></td>
+<td><a href="5/MIT16_50S12_sol6.pdf">Solution 6 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="5/MIT16_50S12_hw7.pdf">Homework 7 (PDF)</a></td>
+<td><a href="5/MIT16_50S12_sol7.pdf">Solution 7 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="5/MIT16_50S12_hw8.pdf">Homework 8 (PDF)</a></td>
+<td><a href="5/MIT16_50S12_sol8.pdf">Solution 8 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="5/MIT16_50S12_hw9.pdf">Homework 9 (PDF)</a></td>
+<td><a href="5/MIT16_50S12_sol9.pdf">Solution 9 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="5/MIT16_50S12_hw10.pdf">Homework 10 (PDF)</a></td>
+<td><a href="5/MIT16_50S12_sol10.pdf">Solution 10 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="5/MIT16_50S12_mid_quiz.pdf">2011 Mid-term Quiz (PDF - 1.1MB)</a><br /><a href="5/MIT16_50S12_prac_quiz.pdf">Practice Mid-term Quiz (PDF)</a></td>
+<td><a href="5/MIT16_50S12_mid_sol.pdf">2011 Mid-term Solution (PDF)</a><br /><a href="5/MIT16_50S12_prac_sol.pdf">Practice Mid-term Solution (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="5/MIT16_50S12_final_quiz.pdf">2011 Final Quiz (PDF - 1.0MB)</a></td>
+<td><a href="5/MIT16_50S12_final_sol.pdf">2011 Final Solution (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
