@@ -30,7 +30,7 @@
   <li><a href="#course29">Internal Flows in Turbomachines</a></li> 
    <li><a href="#course30">Ionized Gases</a></li>
 <li><a href="#course31">Experimental Projects I</a></li> 
- <li><a href="#course32">Introduction to Linguistics</a></li>  
+ <li><a href="#course32">Experimental Projects II</a></li>  
    <li><a href="#course33">Language and Its Structure I: Phonology</a></li> 
   <li><a href="#course34">Language and its Structure II: Syntax</a></li> 
   <li><a href="#course35">Lab in Psycholinguistics</a></li>  
@@ -3744,4 +3744,56 @@
 <h2 class="subhead">Final Design Proposals</h2>
 <p>Bennett, W. "Simulating and Testing Ice Screw Performance in the Laboratory." (<a href="6/bennettw.pdf">PDF - 1.2 MB</a>)</p>
 <p>Wong, B. "Assessment of Shape Memory Alloy Actuators for Steered Parachutes." (<a href="6/wongbri1.pdf">PDF - 1.1 MB</a>)</p>
+</br>
+<h2 id="course32">Experimental Projects II</h2>
+
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROJECTS</th>
+<th scope="col">16.221 DESIGN PROPOSALS</th>
+<th scope="col">16.222 FINAL PRESENTATIONS</th>
+<th scope="col">16.222 FINAL REPORTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Bennett, W., and S. Alziati. "Simulating and Testing Ice Screw Performance in the Laboratory."</td>
+<td>Bennett, Fall 2002 (<a href="6/bennettw.pdf">PDF</a>)</td>
+<td>Spring 2003<br />Presentation Video (<a href="https://archive.org/download/MIT16.662F03/mit16622abPresMay03-220k.mp4" target="_blank">MP4 -&nbsp;29 MB</a>)<br /><br />Accompanying&nbsp;Slides (<a href="6/Bennett_and_Alzieti_LS.pdf">PDF</a>) Courtesy of Stefano Alziati and Warren Bennett.</td>
+<td>Spring 2003 (<a href="6/alziati_bennett.pdf">PDF</a>) Courtesy of Warren Bennett and Stefano Alziati.</td>
+</tr>
+<tr class="alt-row">
+<td>Bounova, G., and T. de Mierry. "Control Algorithms for Space Tug Rendezvous."</td>
+<td>de Mierry, Fall 2002 (<a href="6/demierry.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Arnold, J., and P. Echeverri. "Expandable Foam Impact Attenuation For Small Parafoil Payload Packages."</td>
+<td>
+<p>Echeverri, Spring 2003 (<a href="6/echeverri.pdf">PDF</a>) Courtesy of Paula Echeverri.<br />Arnold (<a href="6/arnold.pdf">PDF</a>) Courtesy of Julie Arnold.</p>
+</td>
+<td>Presentation (<a href="6/echeverri_arnold.pdf">PDF</a>) Courtesy of Julie Arnold and Paula Echeverri.</td>
+<td>Final Report (<a href="6/arnold_echeverri.pdf">PDF</a>) Courtesy of Julie Arnold and Paula Echeverri.</td>
+</tr>
+<tr class="alt-row">
+<td>Utter, D., and K. McCoy. "Superior Unobstructed Vision (SUV) Camera."</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Nyenke, C., and S. Qu. "Development of Advanced Terrain Awareness and Warning Display System."</td>
+<td>Qu, Spring 2003 (<a href="6/qu_shen.pdf">PDF</a>) Courtesy of Shen Qu.<br /><br />Nyenke, Spring 2003 (<a href="6/nyenke_chinwe.pdf">PDF</a>) Courtesy of Chinwe Nyenke.</td>
+<td>&nbsp;</td>
+<td>Fall 2003 (<a href="6/nyenke_and_qu.pdf">PDF</a>) Courtesy of Chinwe Nyenke and Shen Qu.</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h3 class="subhead">Writing Resources</h3>
+<p>Guidelines for Progress Reports (<a href="6/progress_rep.pdf">PDF</a>)</p>
+<p>Guidelines for Multi-section Reports (<a href="6/Multisectiondocuments04.pdf">PDF</a>)</p>
 </br>
