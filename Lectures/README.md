@@ -27,7 +27,7 @@
 <li><a href="#course26">Introduction to Propulsion Systems</a></li> 
  <li><a href="#course27">Rocket Propulsion</a></li>  
    <li><a href="#course28">Space Propulsion</a></li> 
-  <li><a href="#course29">Topics in Philosophy of Mind: Self-Knowledge</a></li> 
+  <li><a href="#course29">Internal Flows in Turbomachines</a></li> 
    <li><a href="#course30">Political Philosophy: Global Justice</a></li>
 <li><a href="#course31">Topics in Epistemology: Self-Knowledge</a></li> 
  <li><a href="#course32">Introduction to Linguistics</a></li>  
@@ -3596,4 +3596,45 @@
 </tbody>
 </table>
 </br>
+<h2 id="course29">Internal Flows in Turbomachines</h2>
 
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PART&nbsp;#</th>
+<th scope="col">LECTURE NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>IA</td>
+<td>
+<p>Class format and structure (<a href="6/part1a.pdf">PDF</a>)</p>
+<p>Modeling fluid flow (<a href="6/part1b.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>II</td>
+<td>Pressure fields and upstream influence (<a href="6/part2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>III</td>
+<td>
+<p>Vorticity and circulation: Concepts and applications</p>
+<p>Applications of vorticity and circulation in describing "real flows"</p>
+<p>Creation of a vortex ring</p>
+<p>Vorticity and nozzle muddy points</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>V</td>
+<td>
+<p>Flow and forces</p>
+<p>Weather systems on a rotating earth</p>
+<p>Flow at low rossby number</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
