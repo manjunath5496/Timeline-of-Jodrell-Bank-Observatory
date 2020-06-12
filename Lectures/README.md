@@ -2,7 +2,7 @@
 <li><a href="#course1">Introduction to Aerospace Engineering and Design</a></li>
 <li><a href="#course2">Exploring Sea, Space, & Earth: Fundamentals of Engineering Design</a></li>
 <li><a href="#course3">Unified Engineering I, II, III, & IV</a></li>
-<li><a href="#course4">Good Food: Ethics and Politics of Food</a></li>
+<li><a href="#course4">Thermal Energy</a></li>
 <li><a href="#course5">Relativism, Reason, and Reality</a></li>
 <li><a href="#course6">Justice</a></li>
 <li><a href="#course7">Minds and Machines</a></li>
@@ -538,3 +538,67 @@
 </tbody>
 </table>
 </br>
+<h2 id="course4">Thermal Energy</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th>TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Table of Contents and Acknowledgement (<a href="1/01_contents_cvr.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Prelude: Introduction and Review of Unified Engineering Thermodynamics</strong>&nbsp;(<a href="1/02_part0.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>The Second Law of Thermodynamics</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Background to the Second Law of Thermodynamics (<a href="1/03_part1a_to_CMS.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Second Law of Thermodynamics (<a href="1/04_part1b.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Applications of the Second Law (<a href="1/05_part1c.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Interpretation of Entropy on the Microscopic Scale&nbsp;&mdash; The Connection between Randomness and Entropy (<a href="1/06_part1d.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Applications of Thermodynamics to Engineering Systems</strong></td>
+</tr>
+<tr class="row">
+<td>Gas Power and Propulsion Cycles (<a href="1/07_part2a.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Power Cycles with Two-Phase Media (Vapor Power Cycles) (<a href="1/08_part2b.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Introduction to Thermochemistry (<a href="1/09_part2c.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Fundamentals of Heat Transfer</strong>&nbsp;(<a href="1/10_part3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Introduction to Conduction Heat Transfer</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to Convection Heat Transfer</td>
+</tr>
+<tr class="row">
+<td>Applications of the Concepts: Heat Exchangers</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to Thermal Radiation and Radiation Heat Transfer</td>
+</tr>
+<tr class="row">
+<td>Index (<a href="1/11_index.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
