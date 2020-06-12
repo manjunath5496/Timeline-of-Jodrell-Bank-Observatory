@@ -28,7 +28,7 @@
  <li><a href="#course27">Rocket Propulsion</a></li>  
    <li><a href="#course28">Space Propulsion</a></li> 
   <li><a href="#course29">Internal Flows in Turbomachines</a></li> 
-   <li><a href="#course30">Political Philosophy: Global Justice</a></li>
+   <li><a href="#course30">Ionized Gases</a></li>
 <li><a href="#course31">Topics in Epistemology: Self-Knowledge</a></li> 
  <li><a href="#course32">Introduction to Linguistics</a></li>  
    <li><a href="#course33">Language and Its Structure I: Phonology</a></li> 
@@ -3637,4 +3637,86 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course30">Ionized Gases</h2>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="6/MIT16_55F14_Lecture1.pdf">Fundamentals of Plasma Physics. Larmor Motion. Debye Shielding. Plasma Frequency (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_55F14_Lecture2.pdf">Motion of Charges in Uniform E and B fields. Diamagnetism. ExB Drift. Alfven Waves (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_55F14_Lecture3.pdf">Effects of an Inhomogeneous Magnetic Field. Inertia and Grad-B Drifts. Parallel Drifts and Magnetic Mirrors (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_55F14_Lecture4.pdf">Relationship between Drifts and the Fluid Picture (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_55F14_Lecture5.pdf">Time-varying B field. Adiabatic Invariants (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_55F14_Lecture6-7.pdf">Collision Theory. Energy and Momentum Transfer. Calculation of Scattering Cross Sections: The Hard Sphere Model and Power-law Potentials (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_55F14_Lecture8.pdf">Kinetic Theory. Vlasov and Boltzmann Equations. Collisional Terms (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_55F14_Lecture9.pdf">Boltzmann's H-Theorem. Relationship Between H and S (Entropy) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_55F14_Lecture10-11.pdf">The Equilibrium Distribution and its Properties. Characteristic Energies and Velocities for a Maxwellian Distribution (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_55F14_Lecture12.pdf">Equilibrium in a Force Field. Distribution Functions near Repelling and Attracting Walls (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_55F14_Lecture13-14.pdf">Moments of the Boltzmann Equation. Mass and Momentum Conservation. Kinetic Energy Equation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>&nbsp;Quiz 1</td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_55F14_Lecture15.pdf">Maxwellian Collisions. Ohm's Law. Ambipolar Diffusion (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_55F14_Lecture16.pdf">The Electron Energy Equation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_55F14_Lecture17.pdf">Plasma-Wall Interactions: Sheath and Pre-sheath. Bohm Condition. Random Particle and Kinetic Energy Flux Across a Plane(PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_55F14_Lecture18.pdf">Electrostatic Probes. Floating Potential. Method of Medicus (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_55F14_Lecture19.pdf">Probes in the Orbital Motion-Limited (OML) Regime (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_55F14_Lecture20-21.pdf">Equilibrium Statistical Mechanics. Quantum Statistics. Classical Limit. Partition Function. Multi-component Systems. Translational Partition Function (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_55F14_Lecture22.pdf">Some Important Results of Statistical Mechanics. Ionization Equilibrium. Free Electrons in Metals. Black Body Radiation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_55F14_Lecture23.pdf">The Electronic Partition Function for Atoms and Ions. The Vibrational and Rotational Partition Functions. Energy Levels (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_55F14_Lecture24.pdf">Radiation Transport in a Gas. Equilibrium Distribution. Transport Equation. Collisional Operator. Spectral Lines. Line-reversal Pyrometer (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_55F14_Lecture25.pdf">Semi-thick Plasma Approximation. Line Radiation and Broadening. Bound-free Radiation. Bremsstrahlung. Escape for Resonant Radiation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Quiz 2</td>
+</tr>
+</tbody>
+</table>
+
 </br>
