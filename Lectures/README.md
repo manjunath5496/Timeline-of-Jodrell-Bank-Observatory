@@ -19,7 +19,7 @@
   <li><a href="#course18">Dynamics of Nonlinear Systems</a></li> 
 <li><a href="#course19">Astrodynamics</a></li>
  <li><a href="#course20">Software Engineering Concepts</a></li>
-<li><a href="#course21">Philosophy of Law</a></li> 
+<li><a href="#course21">Communication Systems Engineering</a></li> 
  <li><a href="#course22">Topics in Social Theory and Practice: Race and Racism</a></li>  
    <li><a href="#course23">Feminist Thought</a></li> 
   <li><a href="#course24">Logic I</a></li>
@@ -2810,4 +2810,98 @@
 </tbody>
 </table>
 </br>
-
+<h2 id="course21">Communication Systems Engineering</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td>(<a href="4/MIT16_36s09_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Sampling theorem</td>
+<td>(<a href="4/MIT16_36s09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Measuring information and entropy</td>
+<td>(<a href="4/MIT16_36s09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quantization</td>
+<td>(<a href="4/MIT16_36s09_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Source coding</td>
+<td>(<a href="4/MIT16_36s09_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Modulation</td>
+<td>(<a href="4/MIT16_36s09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Modulation with 2-D signal</td>
+<td>(<a href="4/MIT16_36s09_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Signal detection in noise</p>
+<p>The matched filter</p>
+</td>
+<td>(<a href="4/MIT16_36s09_lec08_09.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Geometric signal representation</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Hypothesis testing and bit error rate (BER) analysis</td>
+<td>(<a href="4/MIT16_36s09_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Link budget analysis and design</td>
+<td>(<a href="4/MIT16_36s09_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Channel capacity and coding</td>
+<td>(<a href="4/MIT16_36s09_lec13_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Cyclic codes and error detection</td>
+<td>(<a href="4/MIT16_36s09_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The data link layer: framing</td>
+<td>(<a href="4/MIT16_36s09_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Automatic repeat request (ARQ) protocols: stop and wait</td>
+<td>(<a href="4/MIT16_36s09_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>ARQ protocols: go back N, selective repeat protocol (SRP)</td>
+<td>(<a href="4/MIT16_36s09_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Delay models for data networks: introduction</td>
+<td>(<a href="4/MIT16_36s09_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Delay models for data networks: single server queues</td>
+<td>(<a href="4/MIT16_36s09_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Packet multiple access: the Aloha protocol, CSMA/CD and the Ethernet, wireless LANs</td>
+<td>(<a href="4/MIT16_36s09_lec21_22.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Routing in data networks</td>
+<td>(<a href="4/MIT16_36s09_lec23_24.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
