@@ -8,7 +8,7 @@
 <li><a href="#course7">Aerodynamics</a></li>
 <li><a href="#course8">Analytical Subsonic Aerodynamics</a></li>
 <li><a href="#course9">Aerodynamics of Viscous Fluids</a></li>
-<li><a href="#course10">Moral Psychology </a></li>
+<li><a href="#course10">Structural Mechanics </a></li>
 <li><a href="#course11">Ethics in Your Life: Being, Thinking, Doing (or Not?)</a></li>
 <li><a href="#course12">Ancient Philosophy</a></li>
 <li><a href="#course13">Topics in the History of Philosophy: Justice and Political Economy</a></li>
@@ -1226,4 +1226,32 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course10">Structural Mechanics</h2>
+
+<ul>
+<li>Unit 1 (<a href="2/unit1.pdf">PDF</a>)</li>
+<li>Unit 2 (<a href="2/unit2.pdf">PDF</a>)</li>
+<li>Unit 3 (<a href="2/unit3.pdf">PDF</a>)</li>
+<li>Unit 4 (<a href="2/unit4.pdf">PDF</a>)</li>
+<li>Unit 5 (<a href="2/unit5.pdf">PDF</a>)</li>
+<li>Unit 6 (<a href="2/unit6.pdf">PDF</a>)</li>
+<li>Unit 7 (<a href="2/unit7.pdf">PDF</a>)</li>
+<li>Unit 8 (<a href="2/unit8.pdf">PDF</a>)</li>
+<li>Unit 9 (<a href="2/unit9.pdf">PDF</a>)</li>
+<li>Unit 10 (<a href="2/unit10.pdf">PDF</a>)</li>
+<li>Unit 11 (<a href="2/unit11.pdf">PDF</a>)</li>
+<li>Unit 12 (<a href="2/unit12.pdf">PDF</a>)</li>
+<li>Unit 13 (<a href="2/unit13.pdf">PDF</a>)</li>
+<li>Unit 14 (<a href="2/unit14.pdf">PDF</a>)</li>
+<li>Unit 15 (<a href="2/unit15.pdf">PDF</a>)</li>
+<li>Unit 16 (<a href="2/unit16.pdf">PDF</a>)</li>
+<li>Unit 17 (<a href="2/unit17.pdf">PDF</a>)</li>
+<li>Unit 18 (<a href="2/unit18.pdf">PDF</a>)</li>
+<li>Unit 19 (<a href="2/unit19.pdf">PDF</a>)</li>
+<li>Unit 20 (<a href="2/unit20.pdf">PDF</a>)</li>
+<li>Unit 21 (<a href="2/unit21.pdf">PDF</a>)</li>
+<li>Unit 22 (<a href="2/unit22.pdf">PDF</a>)</li>
+<li>Unit 23 (<a href="2/unit23.pdf">PDF</a>)</li>
+</ul>
 </br>
