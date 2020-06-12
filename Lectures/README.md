@@ -11,7 +11,7 @@
 <li><a href="#course10">Structural Mechanics </a></li>
 <li><a href="#course11">Techniques for Structural Analysis and Design</a></li>
 <li><a href="#course12">Computational Mechanics of Materials</a></li>
-<li><a href="#course13">Topics in the History of Philosophy: Justice and Political Economy</a></li>
+<li><a href="#course13">Feedback Control Systems</a></li>
  <li><a href="#course14">Topics in the History of Philosophy: Kant</a></li>
 <li><a href="#course15">Philosophy In Film and Other Media</a></li> 
  <li><a href="#course16">Theory of Knowledge</a></li>  
@@ -1633,5 +1633,124 @@
 </table>
 </br>
 
+<h2 id="course13">Feedback Control Systems</h2>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td>(<a href="3/MIT16_30F10_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Basic root locus: analysis and examples</td>
+<td>(<a href="3/MIT16_30F10_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Frequency response methods</td>
+<td>(<a href="3/MIT16_30F10_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Control design using Bode plots</td>
+<td>(<a href="3/MIT16_30F10_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Introduction to state-space models</p>
+<p>Slides: Signals and systems</p>
+</td>
+<td>
+<p>(<a href="3/MIT16_30F10_lec05.pdf">PDF</a>)</p>
+<p>Slides (<a href="3/MIT16_30F10_lec05_slides.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Developing state-space models based on transfer functions</td>
+<td>(<a href="3/MIT16_30F10_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>State-space models: basic properties</td>
+<td>(<a href="3/MIT16_30F10_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>System zeros and transfer function matrices</td>
+<td>(<a href="3/MIT16_30F10_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>State-space model features</td>
+<td>(<a href="3/MIT16_30F10_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Controllability</td>
+<td>(<a href="3/MIT16_30F10_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Full-state feedback control</td>
+<td>(<a href="3/MIT16_30F10_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Pole placement approach</td>
+<td>(<a href="3/MIT16_30F10_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>LQ servo introduction</td>
+<td>(<a href="3/MIT16_30F10_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Open-loop and closed-loop estimators</td>
+<td>(<a href="3/MIT16_30F10_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Combined estimators and regulators</td>
+<td>(<a href="3/MIT16_30F10_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Adding reference inputs</td>
+<td>(<a href="3/MIT16_30F10_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>LQ servo: improving transient performance</td>
+<td>(<a href="3/MIT16_30F10_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Deterministic linear quadratic regulator (LQR)</td>
+<td>(<a href="3/MIT16_30F10_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Linear quadratic Gaussian (LQG)</td>
+<td>(<a href="3/MIT16_30F10_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Digital control basics</td>
+<td>(<a href="3/MIT16_30F10_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Systems with nonlinear functions</td>
+<td>(<a href="3/MIT16_30F10_lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Analysis of nonlinear systems</p>
+<p>Slides: Overview of nonlinear control synthesis</p>
+</td>
+<td>
+<p>(<a href="3/MIT16_30F10_lec22.pdf">PDF</a>)</p>
+<p>Slides (<a href="3/MIT16_30F10_lec22_slides.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Anti-windup</td>
+<td>(<a href="3/MIT16_30F10_lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Closed-loop system analysis</td>
+<td>(<a href="3/MIT16_30F10_lec24.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
