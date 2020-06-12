@@ -4908,3 +4908,162 @@
 </tbody>
 </table>
 </br>
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col">STUDENTS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th id="col2" scope="col">PORTFOLIOS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">Bill Nadir</td>
+<td headers="col2">(<a href="7/portfolio_nadir1.pdf">PDF 1 of 2 - 3.8 MB</a>)<br />(<a href="7/portfolio_nadir2.pdf">PDF 2 of 2 - 2.8 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Matthew Richards</td>
+<td headers="col2">(<a href="7/16_851_portfolio.pdf">PDF - 1.4 MB</a>) (Courtesy of Matthew Richards. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Anna Silbovitz</td>
+<td headers="col2">(<a href="7/sateng_portfolio.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth100" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col">STUDENTS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th id="col2" scope="col">ASSIGNMENTS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th id="col3" scope="col">SOLUTIONS</th>
+<th id="col4" scope="col">TOOLS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="4" headers="col1"><strong>Problem Set 1</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Seung Chung<br /><br />Mark Hilstad<br /><br />Dan Kwon</td>
+<td headers="col2">The design of a spacecraft power subsystem is an important driver for the mass, size, and capability of the spacecraft.&nbsp;Create a power-system design tool applicable to a wide range of future design problems.</td>
+<td headers="col3">(<a href="7/ps1_cg_solution.pdf">PDF</a>) (Courtesy of Seung Chung, Mark Hilstad, and Dan Kwon. Used with permission.)</td>
+<td headers="col4">ps1_cg_tools.zip (<a href="7/ps1_cg_tools.zip">ZIP</a>) (The ZIP file contains: 1 .gif file, 2 .png files, 2 .xls files, and&nbsp;17 .m files.) (Courtesy of Seung Chung, Mark Hilstad, and Dan Kwon. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Christopher Hynes<br /><br />Steve Paschall</td>
+<td headers="col2">Design a launch vehicle decision tool to provide ease of launch vehicle selection given spacecraft design specifications. (<a href="7/ps1_cs_ps1.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="7/ps1_cs_solution.pdf">PDF</a>)</td>
+<td headers="col4">ps1_cs_tools.zip (<a href="7/ps1_cs_tools.zip">ZIP</a>) (The ZIP file contains:&nbsp;1 .txt file, 5 .asv files, and 22 .m files.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Andrew Vaughan<br /><br />David Woffinden</td>
+<td headers="col2">As future space missions plan to utilize Lagrange Point Orbits, describe the potential orbits about the stable and unstable Lagrange points.</td>
+<td headers="col3">(<a href="7/ps1_nn_solution.pdf">PDF</a>) (Courtesy of Andrew Vaughan and David Woffinden. Used with permission.)</td>
+<td headers="col4">&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="4" headers="col1"><strong>Problem Set 2</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Namiko Yamamoto<br /><br />Seung Chung</td>
+<td headers="col2">Design a tool that compares a set of feasible orbit transfer and&nbsp;propulsion&nbsp;system combinations for a given mission requirement, in terms of desired orbit transfers. (<a href="7/ps2_cg_ps2.pdf">PDF</a>) (Courtesy of Seung Chung and Namiko Yamamoto. Used with permission.)</td>
+<td headers="col3">(<a href="7/ps2_cg_solution.pdf">PDF</a>) (Courtesy of Seung Chung and Namiko Yamamoto. Used with permission.)</td>
+<td headers="col4">ps2_cg_tools.zip (<a href="7/ps2_cg_tools.zip">ZIP</a>) (The ZIP file contains: temp.m, misc.m, compute_spiral_transfer.m, compute_impulsive_Delta_V_max.m, compute_Hohmann_transfer_test.m, compute_Hohmann_transfer_segments.m, compute_Hohmann_transfer.m, compute_high_energy_transfer_test.m, compute_high_energy_transfer.m, and&nbsp;compute_Delta_V_max_test.m) (Courtesy of Seung Chung and Namiko Yamamoto. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Christopher Hynes<br /><br />Kathryn Weiss</td>
+<td headers="col2">Determine the surface area of a solar panel needed to produce enough power to meet the requirements of a given spacecraft, considering altitude and inclination and type of solar cell.&nbsp;(<a href="7/ps2_cs_ps2.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="7/ps2_cs_solution.pdf">PDF</a>)</td>
+<td headers="col4">ps2_cs_tools.zip (<a href="7/ps2_cs_tools.zip">ZIP</a>) (The ZIP file contains: ArrayDesign.asv, pwrBOL.m, perfDegrad.m, calcPW.m, and ArrayDesign.m.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Andrew Long<br /><br />Anna Silbovitz</td>
+<td headers="col2">The final orbit of a satellite is a key component of mission planning. Given a payload mass and final orbit, determine the preferred launch vehicle and launch site. (<a href="7/ps2_long_ps2.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+<td headers="col4">&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="4" headers="col1"><strong>Problem Set 3</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Seung Chung<br /><br />Matthew Richards</td>
+<td headers="col2">Degradation of solar array performance due to radiation within space environment is an important effect to consider when designing the power subsystem. Characterize this degradation given orbit position as a function of time.</td>
+<td headers="col3">(<a href="7/ps3_cg_solution.pdf">PDF</a>) (Courtesy of Seung Chung and Matthew Richards. Used with permission.)</td>
+<td headers="col4">ps3_cg_tools.zip (<a href="7/ps3_cg_tools.zip">ZIP</a>) (The ZIP file contains: 1 .asv file, and 40 .m files.) (Courtesy of Seung Chung and Matthew Richards. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Christopher Hynes<br /><br />Andrew Vaughan</td>
+<td headers="col2">The near-Earth space and atmospheric environments strongly influence the performance and lifetime of&nbsp;operational space systems. Design a tool that helps size ACS actuators for a satellite mission given specific mission objectives and environmental disturbances.</td>
+<td headers="col3">(<a href="7/ps3_cs_solution.pdf">PDF</a>)</td>
+<td headers="col4">ps3_cs_tools.zip (<a href="7/ps3_cs_tools.zip">ZIP</a>) (The ZIP file contains: thrustersizing.m, t_solar.m, t_gg.m, t_bfield.m, t_aero.m, reacwheelsize.m, reacwheel_cmgsize.m, reachwheel&amp;cmgsize.m, obj2actuator.m, momwheelsizing.m, magtorsizing.m, ae2rv.m, and ACSsize.m.)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="4" headers="col1"><strong>Problem Set 4</strong></td>
+</tr>
+<tr class="row">
+<td headers="col1">Seung Chung<br /><br />Steve Paschall<br /><br />Kathryn Weiss</td>
+<td headers="col2">The power and communications subsystems aboard a spacecraft interact with one another as a function of the spacecraft&rsquo;s orbit to achieve a set of requirements. Determine the optimal combination of orbit size and inclination, solar array and battery sizes, communication subsystem power usage and antenna size, given a specified ground station.</td>
+<td headers="col3">(<a href="7/ps4_cg_solution.pdf">PDF</a>)</td>
+<td headers="col4">ps4_cg_tools.zip (<a href="7/ps4_cg_tools.zip">ZIP</a>) (The ZIP file contains: test.m, Scenario.m, compute_feasible_circular_LEO_test.m, compute_feasible_circular_LEO.m, and compute_communication_time.m.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Christopher Hynes<br /><br />Afreen Siddiqi<br /><br />Thomas Leaute</td>
+<td headers="col2">A satellite being able to communicate with the ground station is an essential part of the spacecraft mission.&nbsp;Determine the optimum communication frequency and optimum data rate that minimized the combined mass requirements of telemetry, communications, and power subsystems. (<a href="7/ps4_cs_ps4.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="7/ps4_cs_solution.pdf">PDF</a>)</td>
+<td headers="col4">ps4_cs_tools.zip (<a href="7/ps4_cs_tools.zip">ZIP</a>) (The ZIP file contains: datastorage.xls, and datamassstorage_sizing.m.)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Matthew Richards<br /><br />Anna Silbovitz</td>
+<td headers="col2">Ground communication is often an essential part of a satellite&rsquo;s function.&nbsp; The data is sent at a specified rate, and the power needed by the transmitter is a function of this rate. For a low-earth satellite, find the power system needed if the satellite must send data to the ground once a day.</td>
+<td headers="col3">&nbsp;</td>
+<td headers="col4">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="4" headers="col1"><strong>Problem Set 5</strong></td>
+</tr>
+<tr class="row">
+<td headers="col1">Seung Chung<br /><br />Anna Silbovitz</td>
+<td headers="col2">With greater demand for high-resolution images and the technological infeasibility of manufacturing and launching larger aperture optics, many missions are turning to interferometry as an alternative high-resolution imagery technique.&nbsp;Optimize the design of a satellite&nbsp;so that it has high-resolution imaging capability but with minimal mass spacecraft.</td>
+<td headers="col3">&nbsp;</td>
+<td headers="col4">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Christopher Hynes<br /><br />Bill Nadir<br /><br />Namiko Yamamoto</td>
+<td headers="col2">In 2001, the first space tourist, Dennis Tito, traveled to the International Space Station onboard a Russian Soyuz rocket.<br />The travels of Dennis Tito are just the beginning for space tourism.&nbsp;Design a concept for a Space Hotel orbiting Earth.</td>
+<td headers="col3">&nbsp;</td>
+<td headers="col4">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col1">Andrew Long<br /><br />Christine Taylor<br /><br />Thomas Leaute</td>
+<td headers="col2">The US manned space program is entering an era of mutation, as NASA now has to deal with new challenges, after recent events such as the Columbia tragedy or the symbolical first "taikonaut" in space. It is clear that this New Deal and a revived international cooperation will create opportunities for space agencies to move the frontiers a little farther and extend the presence of man on orbit, possibly on board a new Space Station. You, a recent MIT grad, have been approached by NASA to design the next US Space Station.</td>
+<td headers="col3">(<a href="7/ps5_nn_solution.pdf">PDF</a>)</td>
+<td headers="col4">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="4" headers="col1"><strong>Problem Set 6</strong></td>
+</tr>
+<tr class="row">
+<td headers="col1">Seung Chung<br /><br />Steve Paschall<br /><br />Alexa Figgess<br /><br />Matthew Richards</td>
+<td headers="col2">Mars is of great scientific interest given the potential evidence of past or present life. As the closest planet with a relatively mild environment, there exists a unique opportunity to explore Mars with humans. Design a software tool that performs a trade of the life support, propulsion, and power subsystems for a human transportation vehicle from Earth to Mars.</td>
+<td headers="col3">(<a href="7/ps6_cg_solution.pdf">PDF</a>)</td>
+<td headers="col4">ps6_cg_tools.zip (<a href="7/ps6_cg_tools.zip">ZIP</a>) (The ZIP file contains: 3 .xls files, and 19 .m files.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Christopher Hynes<br /><br />Christine Taylor<br /><br />James Whiting</td>
+<td headers="col2">Thermal radiation is an important consideration in spacecraft design.&nbsp;A spacecraft's skin must account for thermal effects, but it must also be inexpensive and reasonable to build.&nbsp;Design a spacecraft structure to account for thermal radiation effects while minimizing cost.</td>
+<td headers="col3">(<a href="7/ps6_cs_solution.pdf">PDF</a>)</td>
+<td headers="col4">ps6_cs_tools.zip (<a href="7/ps6_cs_tools.zip">ZIP</a>) (The ZIP file contains: thermal.m, strength.m, SATELLITE_COST.m, mat.m, and mat.asv.)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Dan Kwon<br /><br />Afreen Siddiqi<br /><br />Andrew Vaughan<br /><br />Bill Nadir</td>
+<td headers="col2">A manned mission to Mars poses several significant technological challenges for engineers. One such challenge is to minimize the physiological impact on the astronauts during prolonged spaceflight. A possible solution to this is using artificial gravity. Create a tool to evaluate the feasibility of an artificial gravity Mars mission.</td>
+<td headers="col3">(<a href="7/ps6_nn_solution.pdf">PDF</a>)</td>
+<td headers="col4">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
