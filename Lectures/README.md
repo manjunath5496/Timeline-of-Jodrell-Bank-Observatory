@@ -15,7 +15,7 @@
  <li><a href="#course14">Estimation and Control of Aerospace Systems</a></li>
 <li><a href="#course15">Stochastic Estimation and Control</a></li> 
  <li><a href="#course16">Principles of Optimal Control</a></li>  
-   <li><a href="#course17">Philosophy of Film</a></li> 
+   <li><a href="#course17">Aircraft Stability and Control</a></li> 
   <li><a href="#course18">Metaphysics</a></li> 
 <li><a href="#course19">Metaphysics: Free Will</a></li>
  <li><a href="#course20">Ethics</a></li>
@@ -2432,3 +2432,104 @@
 </tbody>
 </table>
 </br>
+<h2 id="course17">Aircraft Stability and Control</h2>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">LECTURE NOTES</th>
+<th id="col4" scope="col">SUPPORTING&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Equilibrium States<br /><br />Aircraft Performance<br /><br />Introduction to Basic Terms</td>
+<td>(<a href="4/lecture_1.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Static Stability<br /><br />Aircraft SS (Longitudinal)<br /><br />Wing/Tail Contributions</td>
+<td>(<a href="4/lecture_2.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Coordinate Systems<br /><br />Euler Angles<br /><br />Quaternions</td>
+<td>(<a href="4/lecture_3.pdf">PDF</a>)</td>
+<td headers="col3">navion_1.m (<a href="4/navion_1.m">M</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Aircraft Dynamics</td>
+<td>(<a href="4/lecture_4.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Aircraft Dynamics (cont.)</td>
+<td>&nbsp;</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Aircraft Longitudinal Dynamics</td>
+<td>(<a href="4/lecture_6.pdf">PDF</a>)</td>
+<td headers="col3">Matrix Diagonalization (<a href="4/l06_modal_decomp.pdf">PDF</a>)<br />lecture4.m (<a href="4/lecture4.m">M</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Approximate Longitudinal Dynamics Models</td>
+<td>(<a href="4/lecture_7.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Aircraft Lateral Dynamics<br /><br />Spiral, Roll, and Dutch Roll Modes</td>
+<td>(<a href="4/lecture_8.pdf">PDF</a>)</td>
+<td headers="col3">lecture11.m (<a href="4/lecture11.m">M</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Basic Longitudinal Control</td>
+<td>(<a href="4/lecture_9.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">State Space Control</td>
+<td>(<a href="4/lecture_10.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">State Space Control (cont.)</td>
+<td>&nbsp;</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Aircraft Lateral Autopilots</td>
+<td>(<a href="4/lecture_12.pdf">PDF</a>)</td>
+<td headers="col3">ac3.m (<a href="4/ac3.m">M</a>)<br />newr.m (<a href="4/newr.m">M</a>)<br />ac3_lat.mdl (<a href="4/ac3_lat.mdl">MDL</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Aircraft Longitudinal Autopilots<br /><br />Altitude Hold and Landing</td>
+<td>(<a href="4/lecture_13.pdf">PDF - 1.0 MB</a>)</td>
+<td headers="col3">altit_simul.m (<a href="4/altit_simul.m">M</a>)<br />altit.mdl (<a href="4/altit.mdl">MDL</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Equations of Motion in a Nonuniform Atmosphere<br /><br />Gusts and Winds</td>
+<td>(<a href="4/lecture_14.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Inertial Sensors<br /><br />Complementary Filtering<br /><br />Simple Kalman Filtering</td>
+<td>(<a href="4/lecture_15.pdf">PDF</a>)</td>
+<td headers="col3">Examples of Estimation Filters from Recent Aircraft Projects at MIT (<a href="4/l15_filter_examp.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">System Identification</td>
+<td>(<a href="4/lecture_16_sys_1.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Model Validation</td>
+<td>(<a href="4/lecture_17_sys_2.pdf">PDF</a>)</td>
+<td headers="col3">Distributed Coordination and Control Experiments on a Multi-UAV Testbed (<a href="4/l17_page_king_sm.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
