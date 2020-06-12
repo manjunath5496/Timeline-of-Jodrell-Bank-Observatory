@@ -43,7 +43,7 @@
    <li><a href="#course42">Space Systems Engineering</a></li> 
    <li><a href="#course43">Fundamentals of Systems Engineering</a></li> 
    <li><a href="#course44">Integrating the Lean Enterprise</a></li> 
-   <li><a href="#course45">Linguistic Theory and the Japanese Language</a></li> 
+   <li><a href="#course45">Satellite Engineering</a></li> 
    <li><a href="#course46">Language Disorders in Children</a></li> 
    <li><a href="#course47">Pragmatics in Linguistic Theory</a></li> 
  <li><a href="#course48">Syntactic Models</a></li> 
@@ -4824,5 +4824,87 @@
 </tbody>
 </table>
 </br>
+<h2 id="course45">Satellite Engineering</h2>
 
-
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Launch Systems (<a href="7/l1_launch_system.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Orbital Mechanics&nbsp;(<a href="7/l2_orbital_mech.pdf">PDF</a>) (Courtesy of Raymond Sedwick. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Spacecraft Power Systems (<a href="7/l3_scpowersys_dm_done2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Propulsion (<a href="7/l4_propulsion.pdf">PDF</a>) (Courtesy of Raymond Sedwick. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td headers="col2">The Environment&nbsp;of Space (<a href="7/l5_space_environ_done2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Optics 1:<br />Introduction to Optics (<a href="7/l6_optics_1.pdf">PDF</a>) (Courtesy of Olivier de Weck and Soon-Jo Chung. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Optics 2:<br />Introduction to Optics (cont.) (<a href="7/l7_optics_2.pdf">PDF</a>) (Courtesy of Olivier de Weck and Soon-Jo Chung. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Optics 3:<br />Adaptive Reconnaissance Golay-3 Optical Satellite (ARGOS) (<a href="7/l8_optics_3.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Attitude Determination and Control (ADCS) (<a href="7/l9_acs.pdf">PDF - 1.2 MB</a>) (Courtesy of Olivier de Weck. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Formation Flight 1:<br />Electromagnetic Formation Flight (<a href="7/l10_emformflight.pdf">PDF - 2.6 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Formation Flight 2:<br />Optimization of Separated Spacecraft Interferometer Trajectories in the Absence of&nbsp;a Gravity-Well (<a href="7/l11_ff_1_imaging.pdf">PDF</a>) (Courtesy of Edmund Kong. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Formation Flight 3:<br />Minimum Energy Trajectories for Techsat 21 Earth Orbiting Clusters (<a href="7/l12_ff2_resizing.pdf">PDF</a>) (Courtesy of Edmund Kong. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Formation Flight 4:<br />Trajectory Design for&nbsp;a Visible Geosynchronous Earth Imager (<a href="7/l13_ff_3_orbits.pdf">PDF</a>) (Courtesy of Edmund Kong and Raymond Sedwick. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Structures in Space Systems (<a href="7/l14_structures.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Space Systems Cost Modeling (<a href="7/l15_costmodellec.pdf">PDF</a>) (Courtesy of Cyrus Jilla. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Satellite Systems Software (<a href="7/l16_software.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Software Engineering for Satellites (<a href="7/l17_software_eng.pdf">PDF - 1.0 MB</a>) (Courtesy of Katie Weiss. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Spacecraft Autonomy (<a href="7/l18_autonomy_lec.pdf">PDF</a>) (Courtesy of Seung Chung. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Spacecraft Computer Systems (<a href="7/l19scraftcompsys.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Satellite Telemetry, Tracking and Control Subsystems (<a href="7/l20_satellitettc.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Satellite Communication (<a href="7/l21satelitecomm2_done.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Reentry (<a href="7/l22_reentry.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Spacecraft Thermal Control Systems (<a href="7/l23thermalcontro.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Ground System Design (<a href="7/l24_groundsysdes.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
