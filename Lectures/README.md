@@ -10,7 +10,7 @@
 <li><a href="#course9">Aerodynamics of Viscous Fluids</a></li>
 <li><a href="#course10">Structural Mechanics </a></li>
 <li><a href="#course11">Techniques for Structural Analysis and Design</a></li>
-<li><a href="#course12">Ancient Philosophy</a></li>
+<li><a href="#course12">Computational Mechanics of Materials</a></li>
 <li><a href="#course13">Topics in the History of Philosophy: Justice and Political Economy</a></li>
  <li><a href="#course14">Topics in the History of Philosophy: Kant</a></li>
 <li><a href="#course15">Philosophy In Film and Other Media</a></li> 
@@ -1542,3 +1542,96 @@
 <p>Practice Problems Solutions (<a href="2/lastrec_prac_sol.pdf">PDF</a>)</p>
 <p>Final Exam (<a href="2/final.pdf">PDF</a>)</p>
 </br>
+<h2 id="course12">Computational Mechanics of Materials</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Elastic Solids; Legendre Transformation; Isotropy; Equilibrium; Compatibility; Constitutive Relations; Variational Calculus; Example of a Functional: String; Extrema - Calculus of Variations; Local Form of Stationarity Condition (<a href="3/lecture_01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Vainberg Theorem; Hu-Washizu Functional (<a href="3/lecture_02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Specialized (Simplified) Variational Principles; Hellinger-Reissner Principle; Complementary Energy Principle; Minimum Potential Energy Theorem; Approximation Theory; Rayleigh - Ritz Method (<a href="3/lesson_3_Notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Weighted - Residuals / Galerkin; Principle of Virtual Work; Geometrical Interpretation of Galerkin's Method; Galerkin Weighting; Best Approximation Method; The Finite Element Method (<a href="3/lesson_4_Notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Sobolev Norms; Global Shape Function; Computation of K and f<sup>ext</sup>; Isoparametric Elements (<a href="3/lesson_5_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Higher Order Interpolation; Isoparametric Triangular Elements; Numerical Integration; Gauss Quadrature (<a href="3/lecture_06_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Error Estimation, Convergence of Finite Element Approximations; Error Estimates From Interpolation Theory (<a href="3/lecture_07_Notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Linear Elasticity; Numerical Integration Errors; Basic Error Estimates; Conditions for Convergence; Patch Test (<a href="3/lecture__8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Incompressible Elasticity; Hooke's Law; Governing Equations; "B"-Matrix; Volumetric and Deviatoric Components of "K<sub>h</sub>" (<a href="3/lesson__9_Notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Constraints Ratio; Variational Principle of Incompressible Elasticity; Saddle Point Problem; Constrained Minimization Problem; Reduced Selective Integration; Penalty Formulation (<a href="3/l_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Assumed Strain Methods; Euler Equations; Mean Dilatation Method; General Expression for Anisotropic Elasticity; Mixed Methods; Discretized Lagrangian (<a href="3/lesson_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Finite Elasticity; Metric Changes; State of Stress; Field Equations: Linear Momentum Balance, Angular Momentum Balance, Energy Balance; Nonlinear Elastic Solid (<a href="3/lesson_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Variational Formulation; Minimum Potential Energy Principle; Finite Element Approximations; Rayleigh - Ritz Method; Galerkin Approach (<a href="3/lesson__13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Newton-Raphson Solution Procedure; Continuation Method; Iteration Process; Computation of Tangent Stiffness; Spatial Formulation (<a href="3/lecture_14_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Isoparametric Elements; Commutative Diagram; Tangent Stiffness; Calculation of Tangent Stiffness (continued); Material Frame Indifference; Lagrangian Moduli (<a href="3/lesson_15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Material Formulation; Specific Material Models; Isotropic Elasticity; Stress-strain Relations; Cayley-Hamilton Theorem; Examples of Constitutive Relations for Finite Elasticity; Saint-Venant / Kirchhoff Model; Mooney-Riulin Model; Neo-Hookean Model Extended to Compressible Range; Computation of Tangent Moduli (<a href="3/lesson__16_Notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Time Dependent Problems; Nonlinear Elastodynamics (Hyperbolic); Nonlinear Heat Conduction (Parabolic); Initial Boundary Value Problem (IBVP); Finite Element (semi) Discretization (<a href="3/lesson__17_Notes_pdf.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Constitutive Relations: Fourier Law of Heat Conduction; Finite Element Discretization (Spatial); Time-stepping Algorithms; Newmark Predicators; Newmark Correctors; Convergence Check; Explicit Dynamics (<a href="3/lesson_18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Trapezoidal Rule - Heat Conduction; Trapezoidal Predictor; Equivalent Static Problem; Trapezoidal Correctors; Convergence Check (<a href="3/lesson_19_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Connection Between Newmark Algorithm and Multistep Methods; Mass Humping; Consistent Mass; Nodal Quadrature; Row (Column) Sum Method; Algorithms Analysis; General Initial Value Problem (IVP) (<a href="3/lecture_20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Energy Conservation / Dissipation; Abstract Algorithms; Convergence; Conditions of Convergence; Consistency (<a href="3/lecture_21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Examples: Trapezoidal Rule; Newmark's Algorithm; Stability; Trapezoidal Rule, Scalar Problem (<a href="3/lecture_22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Multidimensional Case; Spectral Radius, Lax Equivalence Theorem (<a href="3/lecture_23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stability Properties of Trapezoidal Rule; Eigenprojections; Choice of time step; Stability of Newmark's Algorithm; Iron's Bounding Principle (<a href="3/Lecture_24.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Nonlinear Algorithms; Small-strain Plasticity; Kuhn-Tucker Form; Elastic-plastic Moduli; Isotropic-kinematic Hardening (<a href="3/Lecture_25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Time-stepping Algorithms for Constitutive Relations; Numerical Quadrature; Newton-Raphson Solution Procedure; Backward Euler; Geometrical Interpretation; Closest Point Projection Algorithms; J<sub>2</sub>-isotropic Hardening (<a href="3/Lecture_26.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
