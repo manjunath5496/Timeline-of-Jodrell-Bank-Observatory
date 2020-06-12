@@ -38,7 +38,7 @@
   <li><a href="#course37">Private Pilot Ground School</a></li> 
    <li><a href="#course38">Air Traffic Control</a></li> 
    <li><a href="#course39">Airline Management</a></li> 
-  <li><a href="#course40">Black Matters: Introduction to Black Studies</a></li> 
+  <li><a href="#course40">Engineering Design and Rapid Prototyping</a></li> 
    <li><a href="#course41">Language Variation and Change</a></li> 
    <li><a href="#course42">Linguistic Phonetics</a></li> 
    <li><a href="#course43">ConLangs: How to Construct a Language</a></li> 
@@ -4446,5 +4446,138 @@
 </tbody>
 </table>
 </br>
-
-
+<h2 id="course40">Engineering Design and Rapid Prototyping</h2>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">ACTIVITIES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>L1: Introduction to Design (de Weck) (<a href="7/l1a_intro.pdf">PDF</a>)</p>
+<h3 class="subsubhead">Team Presentations</h3>
+<p>MITSET (<a href="7/l1b_mitset.pdf">PDF</a>)</p>
+<p>VDS (<a href="7/l1c_vds.pdf">PDF</a>)</p>
+</td>
+<td>Form teams of 2-3, pick components to be designed, tour the facilities.</td>
+</tr>
+<tr class="alt-row">
+<td>L2: Hand Sketching (Wallace)</td>
+<td>Sketch initial designs by hand, rough sizing and concept.</td>
+</tr>
+<tr class="row">
+<td>
+<p>L3: CAD Mechanical Modeling (de Weck) (<a href="7/l3a_cad.pdf">PDF</a>)</p>
+<p>Computer Aided Engineering (CAE) (de Weck) (<a href="7/l3b_cae.pdf">PDF</a>)</p>
+<p>Solidworks&reg; Tutorial</p>
+</td>
+<td>Initial CAD Model of components. Start FEM modeling. Initial static loads analysis, performance analysis.</td>
+</tr>
+<tr class="alt-row">
+<td>L4: Prototyping Avionics (Electronics)</td>
+<td>Design circuit boards, simple avionics layout, prototyping the avionics into PCB's.</td>
+</tr>
+<tr class="row">
+<td>L5: Electric Motors and Hybrid Drives (Beat Arnet, Azure Dynamics)</td>
+<td>Learn about electric motors, hybrid drives, energy storage devices.</td>
+</tr>
+<tr class="alt-row">
+<td>L6: Manufacturing and Testing (de Weck) (<a href="7/l6a_optimize.pdf">PDF 1</a>) (<a href="7/l6b_mancam.pdf">PDF 2</a>)</td>
+<td>Introduction to manufacturing, water jet cutting, manufacturing, testing.</td>
+</tr>
+<tr class="row">
+<td>L7: Microwave System Design (Frank Willwerth, Lincoln Lab)</td>
+<td>Prepare final presentation.</td>
+</tr>
+<tr class="alt-row">
+<td>Critical Design Review (CDR)</td>
+<td>Give final presentations; display final products.</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Assignment Overview (<a href="7/overview.pdf">PDF</a>)</p>
+</br>
+<table summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th scope="col">TOPICS</th>
+<th scope="col">ACTIVITIES</th>
+<th scope="col">ASSIGNMENTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>L1: Introduction to Design (de Weck)</p>
+<h3 class="subsubhead">Team Presentations</h3>
+<p>MITSET</p>
+<p>VDS</p>
+</td>
+<td>Form teams of 2-3, pick components to be designed, tour the facilities.</td>
+<td>Teams Assigned</td>
+</tr>
+<tr class="alt-row">
+<td>L2: Hand Sketching (Wallace)</td>
+<td>Sketch initial designs by hand, rough sizing and concept.</td>
+<td>
+<p>(A) Requirements and Interface Document (2 pages)</p>
+<p>Template (<a href="7/assnatemplate.pdf">PDF</a>)</p>
+<p>Example (<a href="7/assnaexamp.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>L3: CAD Mechanical Modeling (de Weck)</p>
+<p>Computer Aided Engineering (CAE) (de Weck)</p>
+<p>Solidworks&reg; Tutorial</p>
+</td>
+<td>Initial CAD Model of components. Start FEM modeling. Initial static loads analysis, performance analysis.</td>
+<td>
+<p>(B) Hand Sketch of Conceptual Design (1 page)</p>
+<p>Assignment (<a href="7/assnb.pdf">PDF</a>)</p>
+<p>Example (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/assnbexamp.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>L4: Prototyping Avionics (Electronics)</td>
+<td>Design circuit boards, simple avionics layout, prototyping the avionics into PCB's.</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>L5: Electric Motors and Hybrid Drives (Beat Arnet, Azure Dynamics)</td>
+<td>Learn about electric motors, hybrid drives, energy storage devices.</td>
+<td>
+<p>(C) Solidworks&reg; CAD Model, performance analysis (5 pages memo)</p>
+<p>Example (<a href="7/assncexamp.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>L6: Manufacturing and Testing (de Weck)</td>
+<td>Introduction to manufacturing, water jet cutting, manufacturing, testing.</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>L7: Microwave System Design (Frank Willwerth, Lincoln Lab)</p>
+</td>
+<td>Prepare final presentation.</td>
+<td>
+<p>(D) Manufacturing and Test Report (2 pages report)</p>
+<p>Template (<a href="7/assndtemp.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Critical Design Review (CDR)</td>
+<td>Give final presentations; display final products.</td>
+<td>
+<p>(E) CDR Presentation (max 8 slides)</p>
+<p>Example (<a href="7/assneexamp.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
