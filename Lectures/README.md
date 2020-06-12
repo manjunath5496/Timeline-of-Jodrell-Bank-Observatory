@@ -47,7 +47,7 @@
    <li><a href="#course46">Robust System Design</a></li> 
    <li><a href="#course47">Air Transportation Systems Architecting</a></li> 
  <li><a href="#course48">Space System Architecture and Design</a></li> 
-   <li><a href="#course49">Introduction to Phonology</a></li> 
+   <li><a href="#course49">Computational Methods in Aerospace Engineering</a></li> 
    <li><a href="#course50">Advanced Phonology</a></li> 
    <li><a href="#course51">Speech Communication</a></li> 
    <li><a href="#course52">Topics in Semantics: Negative Polarity Items</a></li> 
@@ -5421,8 +5421,88 @@
 </tbody>
 </table>
 </br>
+<h2 id="course49">Computational Methods in Aerospace Engineering</h2>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Unit 1: Numerical Integration of ODEs</strong></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT16_90S14_Lecture2.pdf">Numerical Integration of ODEs: Approximating Time Derivative (PDF - 1.8MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT16_90S14_Lecture3.pdf">Numerical Integration of ODEs: Accuracy and a Pendulum Problem (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT16_90S14_Lecture4.pdf">Numerical Integration of ODEs: Stability and a Ballistics Problem (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT16_90S14_Lecture5.pdf">Numerical Integration of ODEs: Nonlinear Systems (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT16_90S14_Lecture6.pdf">Numerical Integration of ODEs: Stiffness, Implicit Methods, Runge-Kutta (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Unit 2: Numerical Methods for PDEs</strong></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT16_90S14_Lecture7.pdf">Numerical Methods of Partial Differential Equations: Introduction (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT16_90S14_Lecture8.pdf">Numerical Methods of PDEs: Finite Difference Methods 1 (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT16_90S14_Lecture9.pdf">Numerical Methods of PDEs: Finite Difference Methods 2 (PDF - 1.2MB)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT16_90S14_Lecture10.pdf">Numerical Methods of PDEs: Finite Volume Methods 1 (PDF - 1.5MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT16_90S14_Lecture11.pdf">Numerical Methods of PDEs: Finite Volume Methods 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT16_90S14_Lecture12.pdf">Numerical Methods of PDEs: Finite Volume in 2D and Midterm Review (PDF - 1.8MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Midterm Exam</td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT16_90S14_Lecture14.pdf">Fourier Stability Analysis (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT16_90S14_Lecture15.pdf">Numerical Methods of PDEs: Collocation and Weighted Residuals (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT16_90S14_Lecture16-18.pdf">Numerical Methods of PDEs: Finite Element Method (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Unit 3: Probabilistic Methods and Optimization</strong></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT16_90S14_Lecture19.pdf">Monte Carlo (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT16_90S14_Lecture20.pdf">Monte Carlo Estimators (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/MIT16_90S14_Lecture21.pdf">Probabilistic Methods &amp; Optimization: Statistical Sampling Methods (PDF - 1.5MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="8/MIT16_90S14_Lecture22.pdf">Probabilistic Methods &amp; Optimization: Design of Experiments (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="8/MIT16_90S14_Lecture23.pdf">Probabilistic Methods &amp; Optimization: Intro to Optimization Methods (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="8/MIT16_90S14_Lecture24.pdf">Probabilistic Methods &amp; Optimization: Sensitivity Analysis (PDF)</a></td>
+</tr>
+</tbody>
+</table>
 
-
-
-
+</br>
