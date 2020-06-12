@@ -17,7 +17,7 @@
  <li><a href="#course16">Principles of Optimal Control</a></li>  
    <li><a href="#course17">Aircraft Stability and Control</a></li> 
   <li><a href="#course18">Dynamics of Nonlinear Systems</a></li> 
-<li><a href="#course19">Metaphysics: Free Will</a></li>
+<li><a href="#course19">Astrodynamics</a></li>
  <li><a href="#course20">Ethics</a></li>
 <li><a href="#course21">Philosophy of Law</a></li> 
  <li><a href="#course22">Topics in Social Theory and Practice: Race and Racism</a></li>  
@@ -2653,5 +2653,113 @@
 </table>
 </br>
 
-
-
+<h2 id="course19">Astrodynamics</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>The two-body problem (<a href="4/lec_01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The two-body problem (cont.) (<a href="4/lec_02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Barker's equation and Kepler's equation (<a href="4/lec_03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The initial-value problem (<a href="4/lec_04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Euler angles (<a href="4/lec_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The orbital boundary-value problem (BVP) (<a href="4/lec_06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Optimum orbital transfer (<a href="4/lec_07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Analytical and geometric properties of the BVP (<a href="4/lec_08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lambert's theorem and the Lagrange time equation (<a href="4/lec_09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Transformation of the BVP (<a href="4/lec_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Hyperbolic orbits (<a href="4/lec_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Patched conics and planetary flybys (<a href="4/lec_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Gauss's method for the time-constrained BVP (<a href="4/lec_13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Hypergeometric functions and continued fractions (<a href="4/lec_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The fundamental ellipse of the BVP (<a href="4/lec_15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Non-singular "Gauss-like" method for the BVP (<a href="4/lec_16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Battin-Vaughan algorithm for the BVP (<a href="4/lec_17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Preliminary orbit determination using Taylor series (<a href="4/lec_18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The state transition matrix (<a href="4/lec_19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Powered flight guidance (<a href="4/lec_20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Space navigation: the position fix (<a href="4/lec_21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The covariance, information, and estimator matrices (<a href="4/lec_22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Estimation of position and velocity in space navigation (<a href="4/lec_23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Basic elements of the three-body problem (<a href="4/lec_24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The restricted problem of three bodies (<a href="4/lec_25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Clohessy-Wiltshire equations of relative motion (<a href="4/lec_26.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Variation of parameters (<a href="4/lec_27.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Effect of atmospheric drag on satellite orbits (<a href="4/lec_28.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The disturbing function and Legendre polynomials (<a href="4/lec_29.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Effect of J2 on a satellite orbit of the Earth (<a href="4/lec_30.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The calculus of variations and lunar landing guidance (<a href="4/lec_31.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Powered flight guidance to maximize final energy (<a href="4/lec_32.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Runge-Kutta method of numerical integration (<a href="4/lec_33.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
