@@ -1933,3 +1933,22 @@
 </tbody>
 </table>
 </br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Quiz (<a href="3/quiz_3_19_03.pdf">PDF - 2.0 MB</a>)</td>
+<td>(<a href="3/quiz_soln.pdf">PDF - 1.5 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Final Exam (<a href="3/final_exama.pdf">PDF</a>)</td>
+<td>(<a href="3/final_solna.pdf">PDF - 2.6 MB</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
