@@ -434,4 +434,107 @@
 </table>
 
 </br>
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">TOPICS COVERED</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Quiz 1: Thermodynamics</td>
+<td>T1 - T12</td>
+<td>(<a href="1/thermo2003quizsol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz 2: Computers and Programming</td>
+<td>C1 - C16</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Quiz 3: Signals and Systems</td>
+<td>S1 - S14</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/fall_2003_q3s_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz 4: Materials and Structures</td>
+<td>M1 - M11</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/fall_2003_q4m_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quiz 5: Fluid Mechanics (<a href="1/fall_2003_quiz_5f.pdf">PDF</a>)</td>
+<td>F1 - F11</td>
+<td>(<a href="1/fall_2003_q5f_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz 6: Fluid Mechanics (<a href="1/fall_2003_q6f.pdf">PDF</a>)</td>
+<td>F12 - F23</td>
+<td>(<a href="1/fall_2003_q6f_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quiz 7: Materials and Structures</td>
+<td>M12 - M25</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/fall_2003_q7m_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">TOPICS COVERED</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Quiz 1: Materials and Structures (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/q1m.pdf">PDF</a>)</td>
+<td>M1 - M9</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/q1m_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz 2: Fluid Mechanics (<a href="1/q2f.pdf">PDF</a>)</td>
+<td>F1 - F14</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/q2f_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quiz 3: Materials and Structures</td>
+<td>M10 - M20</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/q3m_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz 4: Fluid Mechanics (<a href="1/q4f.pdf">PDF</a>)</td>
+<td>F15 - F21</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/q4f_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quiz 5: Signals and Systems (<a href="1/q5s.pdf">PDF</a>)</td>
+<td>S1 - S12</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/q5s_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz 6: Computers and Programming</td>
+<td>C1 - C14</td>
+<td>(<a href="1/Q6C_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quiz 7: Propulsion</td>
+<td>P1 - P9</td>
+<td>(<a href="1/q7p_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz 8: Computers and Programming</td>
+<td>C15 - C23</td>
+<td>(<a href="1/Q8C_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quiz 9: Signals and Systems</td>
+<td>S13 - S23</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
