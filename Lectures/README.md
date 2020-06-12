@@ -14,7 +14,7 @@
 <li><a href="#course13">Feedback Control Systems</a></li>
  <li><a href="#course14">Estimation and Control of Aerospace Systems</a></li>
 <li><a href="#course15">Stochastic Estimation and Control</a></li> 
- <li><a href="#course16">Theory of Knowledge</a></li>  
+ <li><a href="#course16">Principles of Optimal Control</a></li>  
    <li><a href="#course17">Philosophy of Film</a></li> 
   <li><a href="#course18">Metaphysics</a></li> 
 <li><a href="#course19">Metaphysics: Free Will</a></li>
@@ -2314,4 +2314,121 @@
 </tbody>
 </table>
 </br>
+<h2 id="course16">Principles of Optimal Control</h2>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Nonlinear optimization: unconstrained nonlinear optimization, line search methods</p>
+</td>
+<td>(<a href="3/lec1.pdf">PDF - 1.9 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Nonlinear optimization: constrained nonlinear optimization, Lagrange multipliers</p>
+<p>Penalty/barrier functions are also often used, but will not be discussed here.</p>
+</td>
+<td>(<a href="3/lec2.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Dynamic programming: principle of optimality, dynamic programming, discrete LQR</p>
+</td>
+<td>(<a href="3/lec3.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>HJB equation: differential pressure in continuous time, HJB equation, continuous LQR</p>
+</td>
+<td>(<a href="3/lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Calculus of variations</p>
+<p>Most books cover this material well, but Kirk (chapter 4) does a particularly nice job. See&nbsp;<a href="http://mathworld.wolfram.com/CalculusofVariations.html">here</a>&nbsp;for an online reference.</p>
+</td>
+<td>(<a href="3/lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Calculus of variations applied to optimal control</p>
+</td>
+<td>(<a href="3/lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Numerical solution in MATLAB</p>
+</td>
+<td>(<a href="3/lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Properties of optimal control solution</p>
+<p>Bryson and Ho, Section 3.5 and Kirk, Section 4.4</p>
+</td>
+<td>(<a href="3/lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Constrained optimal control</p>
+<p>Bryson and Ho, section 3.x and Kirk, section 5.3</p>
+</td>
+<td>(<a href="3/lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Singular arcs</p>
+<p>Bryson, chapter 8 and Kirk, section 5.6</p>
+</td>
+<td>(<a href="3/lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Estimators/Observers</p>
+<p>Bryson, chapter 12 and Gelb, Optimal Estimation</p>
+</td>
+<td>(<a href="3/lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Stochastic optimal control</p>
+<p>Kwaknernaak and Sivan, chapters 3.6, 5; Bryson, chapter 14; and Stengel, chapter 5</p>
+</td>
+<td>(<a href="3/lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>LQG robustness</p>
+<p>Stengel, chapter 6</p>
+<p>Question: how well do the large gain and phase margins discussed for LQR (6-29) map over to LQG?</p>
+</td>
+<td>(<a href="3/lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>16.31 Feedback Control Systems: multiple-input multiple-output (MIMO) systems, singular value decomposition</p>
+</td>
+<td>(<a href="3/lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Signals and system norms:&nbsp;<em>H<sub>&infin;</sub></em>&nbsp;synthesis, different type of optimal controller</p>
+</td>
+<td>(<a href="3/lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Model predictive control</p>
+</td>
+<td>(<a href="3/lec16.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
