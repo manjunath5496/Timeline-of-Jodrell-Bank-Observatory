@@ -42,7 +42,7 @@
    <li><a href="#course41">The Aerospace Industry</a></li> 
    <li><a href="#course42">Space Systems Engineering</a></li> 
    <li><a href="#course43">Fundamentals of Systems Engineering</a></li> 
-   <li><a href="#course44">Grammar of a Less Familiar Language</a></li> 
+   <li><a href="#course44">Integrating the Lean Enterprise</a></li> 
    <li><a href="#course45">Linguistic Theory and the Japanese Language</a></li> 
    <li><a href="#course46">Language Disorders in Children</a></li> 
    <li><a href="#course47">Pragmatics in Linguistic Theory</a></li> 
@@ -4719,4 +4719,110 @@
 </tbody>
 </table>
 </br>
+<h2 id="course44">Integrating the Lean Enterprise</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><em>Introduction/Class Overview</em><br /><br />Team Projects<br /><br />Class Survey<br /><br />Desired Outcomes<br /><br />Syllabus<br /><br />Course Overview</td>
+<td>(<a href="7/1_course_overvie.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><em>Lean Fundamentals<br /></em><br />Lean Concepts and Principles<br /><br />MIT Lean Enterprise Model (LEM)<br /><br />Value Stream Analysis and Mapping (VSA/VSM)<br /><br />Enterprise Value Stream Mapping and Analysis (EVSMA)<br /><br />"Mapping Your Value Stream" Video</td>
+<td>(<a href="7/2_lean_fundament.pdf">PDF - 3.6 MB</a>)</td>
+</tr>
+<tr class="row">
+<td><em>Lean Enterprises<br /></em><br />Enterprise Components and Stakeholders<br /><br />Enterprise Process Architecture<br /><br />Three Levels of Enterprises<br /><br />Enterprise Value Streams</td>
+<td>(<a href="7/3_ent_principles.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><em>Value and Enterprise Stakeholders<br /></em><br />Value Creation Framework<br /><br />Identifying Stakeholder Values</td>
+<td>(<a href="7/4_val_ent_stkhld.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><em>Lean Manufacturing</em><br /><br />Concepts of Lean Manufacturing<br /><br />Supporting Toolset<br /><br />Value Stream Map Comparison of a Mass and Lean Production System<br /><br />Lean Concepts and Outcomes in Manufacturing Environments<br /><br />Society of Manufacturing Engineers Video</td>
+<td>(<a href="7/5_lean_manufactu.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><em>Transition-To-Lean Roadmap (TTL)</em><br /><br />How do I Transform to Become a Lean Enterprise?</td>
+<td>(<a href="7/6_trans_leanroad.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><em>Lean Supply Chain Management</em><br /><br />Introduction to Supply Chain Management<br /><br />Supply Chain Integration<br /><br />Supplier Partnerships and Strategic Alliances</td>
+<td>(<a href="7/7_lean_sup_ch_mg.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><em>Lean Engineering</em><br /><br />Big Picture of Product Development<br /><br />Product and Process Definition<br /><br />Process Focus<br /><br />Value Stream Mapping an Information Process<br /><br />Information Wastes</td>
+<td>(<a href="7/8_rebentisc_leng.pdf">PDF</a>) (Courtesy of Eric Rebentisch, Research Associate of the MIT Center for Technology, Policy, and Industrial Development. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td>Lean Systems Engineering and Integrated Concurrent Engineering</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/9_mit_sys_engmfg.pdf">PDF - 2.5 MB</a>) (Courtesy of Allen Haggerty. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td><em>Enterprise Interactions</em><br /><br />Information Characteristics and Handoffs<br /><br />Integrated Information Flow</td>
+<td>(<a href="7/10_ent_int_waste.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><em>People and Organizational Issues</em>&nbsp;<em>in the Lean Enterprise</em><br /><br />Organizational Objectives and Structures (Allen)<br /><br />Corporate Culture and Change (Schein)<br /><br />Empowerment and Motivation</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/11_ppl_and_organ.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><em>Strategy and Measurement in</em>&nbsp;<em>the Lean Enterprise</em><br /><br />Strategy, Positioning, and Operational Effectiveness<br /><br />Metrics<br /><br />Balanced Scorecard Approach</td>
+<td>(<a href="7/12_metrics.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><em>Lean Enterprise Self-Assessment Tool</em>&nbsp;<em>(LESAT)</em><br /><br />How do I Assess My Progress? (LESAT)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/13_lesat.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Enterprise Information Systems</td>
+<td>(<a href="7/14_ent_info_sys.pdf">PDF</a>) (Courtesy of the Lean Aerospace Initiative. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td><em>Knowledge Management</em><br /><br />Knowledge Management Basics<br /><br />Implementing Knowledge Management<br /><br />Human Capital - Creating and Maintaining</td>
+<td>(<a href="7/17_knowledge_mgm.pdf">PDF</a>) (Courtesy of the Lean Aerospace Initiative. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td><em>Transformational Leadership</em><br /><br />Management vs. Leadership<br /><br />Leading Organizational Change<br /><br />Leadership Characteristics</td>
+<td>(<a href="7/15_trans_leaders.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><em>Enterprise Case</em><br /><br />Interfacing vs. Integrating<br /><br />Enterprise Engineering</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Team Presentations (EVSMA Steps 1-4)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><em>Enterprise Integration</em><br /><br />Improvement vs. Design<br /><br />Strategies for Enterprise Architecting<br /><br />Institutionalizing Lean - Sustainment<br /><br />Caveats and Risk Mitigation<br /><br />Global Environment</td>
+<td>Enterprise Integration (<a href="7/16_ent_integrat.pdf">PDF</a>)<br /><br />Enterprise Architecting (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/19_ent_architect.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Industry Case</td>
+<td>(<a href="7/18_terry_bryan_p.pdf">PDF - 1.3 MB</a>) (Courtesy of the Lean Aerospace Initiative. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td><em>Improvement Initiative Comparison</em><br /><br />Fundamentals of Each Initiative<br /><br />Compare and Contrast<br /><br />Synergies - Putting them Together, Tailoring an Approach</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Student Presentations of Lean Enterprise Frameworks</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Final Team Presentations</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
 
