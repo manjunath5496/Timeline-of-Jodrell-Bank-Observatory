@@ -41,7 +41,7 @@
   <li><a href="#course40">Engineering Design and Rapid Prototyping</a></li> 
    <li><a href="#course41">The Aerospace Industry</a></li> 
    <li><a href="#course42">Space Systems Engineering</a></li> 
-   <li><a href="#course43">ConLangs: How to Construct a Language</a></li> 
+   <li><a href="#course43">Fundamentals of Systems Engineering</a></li> 
    <li><a href="#course44">Grammar of a Less Familiar Language</a></li> 
    <li><a href="#course45">Linguistic Theory and the Japanese Language</a></li> 
    <li><a href="#course46">Language Disorders in Children</a></li> 
@@ -4651,6 +4651,70 @@
 </tr>
 <tr class="row">
 <td headers="col2">Presentation planning (<a href="7/evpm.pdf">PDF 1</a>) (<a href="7/smt.pdf">PDF 2</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course43">Fundamentals of Systems Engineering</h2>
+<table class="tablewidth100" summary="See table caption for summary." width="819">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">SUPPLEMENTAL&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><span class="nobr"><a href="7/MIT16_842F15_Ses1SE_Ovr_vw.pdf">Systems Engineering Overview and Stakeholder Analysis (PDF - 4.8MB)</a></span></td>
+<td>
+<p><a href="7/MIT16_842F15_Question1.pdf">SE Concept Question 1 (PDF)</a></p>
+<p><a href="7/MIT16_842F15_Question2.pdf">SE Concept Question 2 (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="7/MIT16_842F15_Ses2_Req.pdf">Requirements Definition (PDF - 2.4MB)</a></td>
+<td>
+<p><a href="7/MIT16_842F15_Question3.pdf">SE Concept Question 3 (PDF)</a></p>
+<p><a href="7/MIT16_842F15_Question4.pdf">SE Concept Question 4 (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="7/MIT16_842F15_Ses3_sysmodlg.pdf">Systems Modeling Languages (PDF - 3.5MB)</a></td>
+<td><a href="7/MIT16_842F15_Question5.pdf">SE Concept Question 5 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MTI16_842F15_Ses4_Con_Syn.pdf">System Architecture and Concept Generation (PDF - 3.1MB)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT16_842F15_Ses_5_Design.pdf">Concept Selection and Tradespace Exploration (PDF - 2.0MB)</a></td>
+<td><a href="7/MIT16_842F15_Question6.pdf">SE Concept Question 6 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="7/MIT16_842F15_Ses_6_Des_Def.pdf">Design Definition and Multidisciplinary Optimization (PDF - 2.6MB)</a></td>
+<td><a href="7/MIT16_842F15_Question7.pdf">SE Concept Question 7 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><span class="nobr"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT16_842F15_Ses7Mastr_Sol.pdf">MBSE and Introduction to CAD (Guest Lecture from Solidworks) (PDF - 1.9MB)</a></span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="7/MIT16_842F15_Ses_8_Sys_Int.pdf">Systems Integration and Interface Management (PDF - 2.1MB)</a></td>
+<td><a href="7/MIT16_842F15_Question8.pdf">SE Concept Question 8 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/MIT16_842F15_Ses9_Ver.pdf">Verification and Validation (PDF)<br /></a></td>
+<td><a href="7/MIT16_842F15_Question9.pdf">SE Concept Question 9 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="7/MIT16_842F15_Ses_10_Com_Opr.pdf">Commissioning and Operations (PDF - 3.4MB)</a></td>
+<td><a href="7/MIT16_842F15_Question10.pdf">SE Concept Question 10 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="7/MIT16_842F15_Ses11_Life.pdf">Lifecycle Management (PDF - 4.2MB)</a></td>
+<td><a href="7/MIT16_842F15_StandardsQ.pdf">SE Standards Question (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="7/MTI16_842F15_Ses12_FutofSE.pdf">Future of Systems Engineering (PDF - 2.8MB)</a></td>
 </tr>
 </tbody>
 </table>
