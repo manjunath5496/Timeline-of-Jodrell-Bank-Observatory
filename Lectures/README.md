@@ -37,7 +37,7 @@
    <li><a href="#course36">Prototyping Avionics</a></li> 
   <li><a href="#course37">Private Pilot Ground School</a></li> 
    <li><a href="#course38">Air Traffic Control</a></li> 
-   <li><a href="#course39">Topics in Linguistics Theory</a></li> 
+   <li><a href="#course39">Airline Management</a></li> 
   <li><a href="#course40">Black Matters: Introduction to Black Studies</a></li> 
    <li><a href="#course41">Language Variation and Change</a></li> 
    <li><a href="#course42">Linguistic Phonetics</a></li> 
@@ -4327,3 +4327,124 @@
 <p>Controller Training and Labor Issues (<a href="7/lec12.pdf">PDF - 1.6 MB</a>)</p>
 <p>Air Traffic Control Funding and User Fees (<a href="7/lec13.pdf">PDF - 1.4 MB</a>)</p>
 </br>
+<h2 id="course39">Airline Management</h2>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><em>Course Introduction</em><br /><br />- Review of Syllabus and Subject Requirements<br />- Introduction to Airline Planning Processes and Systems</td>
+<td>Introduction to the Airline Planning Process (<a href="7/lect1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><em>Airline Economics Review</em><br /><br />- Demand and Market Share Models<br />- Differential Pricing and Revenues</td>
+<td>Airline Economics Review (<a href="7/lect2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><em>Operating Costs and Productivity</em><br /><br />- Components of Airline Operating Costs<br />- Measures of Aircraft and Labor Productivity</td>
+<td>Operating Costs and Productivity (<a href="7/lect3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><em>Load and Spill Analysis</em><br /><br />- Demand Stochasticity and Flight Leg "Spill Models"<br />- Estimation of Unconstrained Demand</td>
+<td>Load Factor Analysis (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/lect4a.pdf">PDF</a>) (Courtesy of Boeing. Used with permission.)<br /><br />Airline Demand Analysis and Spill Modeling (<a href="7/lect4b.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><em>Airline Schedule Development</em><br /><br />- Network Supply Definitions and Concepts<br />- Timetable Development Issues and Constraints</td>
+<td>Airline Schedule Development (<a href="7/lect5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><em>Passenger Choice Models</em><br /><br />- Decision Window Market Share Model<br />- Consumer Choice of Path/Fare Options</td>
+<td>Introduction to PODS Passenger Choice Models (<a href="7/lect6a.pdf">PDF</a>)<br /><br />Decision Window Model (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/lect6b.pdf">PDF</a>) (Courtesy of Boeing. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td><em>Introduction to ePODS Airline</em>&nbsp;<em>Management Game</em><br /><br />- Baseline Networks and Schedules<br />- Overview of Inputs and Outputs</td>
+<td>ePODS Airline Management Educational Game (<a href="7/lect7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><em>ePODS Work Session</em><br /><br />- Present and Discuss Baseline ePODS Results<br />- Software Installation and Instructions</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><em>Fleet Assignment Optimization (Prof. Barnhart)</em><br /><br />- Incorporation of Spill and Recapture Rates<br />- Leg Independent vs. Itinerary-based Approaches</td>
+<td>Airline Fleet Assignment (<a href="7/lect9.pdf">PDF</a>) (Courtesy of Cynthia Barnhart. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td><em>ePODS Work Session</em><br /><br />- Presentation of Round 1 Input Strategies<br />- Results: Initial Fleet Assignment</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><em>Route Planning and Network Strategies</em><br /><br />- Route Evaluation in Hub Networks<br />- Route Profitability Estimation Issues</td>
+<td>Route Planning and Evaluation (<a href="7/lect11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><em>ePODS Work Session</em><br /><br />- Presentation of Round 2 Input Strategies<br />- Results: Hub Schedule Shifts and Fleet Assignment</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><em>Scheduling and Operational Constraints</em><br /><br />- Aircraft Rotations and Irregular Operations<br />- Demand Driven Dispatch - Flexible Fleet Assignment</td>
+<td>Demand Driven Dispatch (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7/boeingddd1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><em>ePODS Work Session</em><br /><br />- Presentation of Round 3 Input Strategies<br />- Results: Route Selection and Evaluation</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><em>Mid-Term Exam (In Class)</em></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><em>Airline Fleet Planning Issues</em><br /><br />- Commercial Aircraft Categories and Characteristics<br />- Technical and Performance Characteristics<br />- Implications for Fleet Changes in ePODS</td>
+<td>Airline Fleet Planning Models (<a href="7/lect16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><em>AMG Work Session</em><br /><br />- Presentation of Round 4 Input Strategies<br />- Results: Impacts of Fleet Changes</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><em>Revenue Management Concept and Models</em><br /><br />- Introduction to Seat Inventory Control Process<br />- EMSR Flight Leg Optimization</td>
+<td>Introduction to Revenue Management: Flight Leg Revenue Optimization (<a href="7/lect18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><em>Overbooking Methods</em><br /><br />- Overview of Theory and Current Practice<br />- Evolution of Probabilistic/Cost-Based Models</td>
+<td>Flight Overbooking: Models and Practice (<a href="7/lect19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><em>O-D/Network Seat Inventory Control</em><br /><br />- Network Optimization Models<br />- O-D Control Development in Practice</td>
+<td>Network Revenue Management: Origin-Destination Control (<a href="7/lect20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><em>ePODS Work Session</em><br /><br />- Presentation of Round 5 Input Strategies<br />- Results: Full-up Scheduling and Route Selection</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><em>Open Session</em></p>
+<p>- Guest Lecture on Pricing/RM</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><em>Airline Pricing Structures and Strategies</em><br /><br />- Differential Pricing and Fare Restrictions<br />- Implications for Price Changes in ePODS</td>
+<td>Pricing Challenges: ePODS and Reality (<a href="7/lect23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><em>Airline Revenue Management Systems</em><br /><br />- Evolution of Capabilities and Current Status<br />- Relationships to CRS and Distribution</td>
+<td>Origin-Destination Control: What Have We Learned? (<a href="7/lect24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><em>ePODS Work Session</em><br /><br />- Presentation of Round 6 Input Strategies<br />- Results: Limited Fare Modifications</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><em>Summary: Airline Management Challenges</em><br /><br />- Discussion of ePODS Lessons<br />- Relationship to Current Airline Industry Issues</td>
+<td>Willingness to Pay and Competitive Revenue Management (<a href="7/lect26.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
