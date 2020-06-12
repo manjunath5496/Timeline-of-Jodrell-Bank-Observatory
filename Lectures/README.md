@@ -5,7 +5,7 @@
 <li><a href="#course4">Thermal Energy</a></li>
 <li><a href="#course5">Principles of Automatic Control</a></li>
 <li><a href="#course6">Dynamics</a></li>
-<li><a href="#course7">Minds and Machines</a></li>
+<li><a href="#course7">Aerodynamics</a></li>
 <li><a href="#course8">Philosophy of Quantum Mechanics</a></li>
 <li><a href="#course9">Paradox and Infinity</a></li>
 <li><a href="#course10">Moral Psychology </a></li>
@@ -894,4 +894,55 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course7">Aerodynamics</h2>
+<p>Lecture 1 - Sensitivity Analysis (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre1_kvm.pdf">PDF</a>)</p>
+<p>Lecture 2 - Kinematics of a Fluid Element (<a href="1/16100lecture2_cg.pdf">PDF</a>)</p>
+<p>Lecture 3 - Stress-Strain Relationship for a Newtonian Fluid (<a href="1/16100lecture3_cg.pdf">PDF</a>)</p>
+<p>Lecture 4 - Coordination Transformations for Strain and Stress Rates (<a href="1/16100lecture4_cg.pdf">PDF</a>)</p>
+<p>Lecture 5 - Compressible and Incompressible Fluid Element Motion Chart (<a href="1/16100lecture5.pdf">PDF</a>)</p>
+<p>Lecture 6 - Compressible Viscous Equations (<a href="1/16100lecture6_cg.pdf">PDF</a>)</p>
+<p>Lecture 7 - Compressible Equations (<a href="1/16100lecture7_cg.pdf">PDF</a>)</p>
+<p>Lecture 8 - Equations of Aircraft Motion (<a href="1/16100lecture8_cg.pdf">PDF</a>)</p>
+<p>Lecture 9 - Brequet Range Equation (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lecture9_cg.pdf">PDF</a>)</p>
+<p>Lecture 10 - Aerodynamic Center (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre10_cg.pdf">PDF</a>)</p>
+<p>Lecture 11 - Notes on CQ 1 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre11_cg.pdf">PDF</a>)</p>
+<p>Lecture 12 - Quick Visit to Bernoulli Land (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre12_cg.pdf">PDF</a>)</p>
+<p>Lecture 13 - Kutta Condition (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre13_cg.pdf">PDF</a>)</p>
+<p>Lecture 14 - Kutta Condition Solution (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre14_cg.pdf">PDF</a>)</p>
+<p>Lecture 15 - Thin Airfoil Theory Summary (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre15_cg.pdf">PDF</a>)</p>
+<p>Lecture 16 - Important Concepts in Thin Airfoil Theory (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre16_cg.pdf">PDF</a>)</p>
+<p>Lecture 17 - Prandtl's Lifting Line Introduction (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre17_cg.pdf">PDF</a>)</p>
+<p>Lecture 18 - Force Calculations for Lifting Line (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre18_cg.pdf">PDF</a>)</p>
+<p>Lecture 19 - Trefftz Plane Analysis of Induced Drag (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre19_cg.pdf">PDF</a>)</p>
+<p>Lecture 20 - Solution to Problem 1 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre20_cg.pdf">PDF</a>)</p>
+<p>Lecture 21 - Viscous Flow: Stress Strain Relationship (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre21_cg.pdf">PDF</a>)</p>
+<p>Lecture 22 - Integral Boundary Layer Equations (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre22_cg.pdf">PDF</a>)</p>
+<p>Lecture 23 - Correlation Methods for Integral Boundary Layers (<a href="1/16100lectre23.pdf">PDF</a>)</p>
+<p>Lecture 24 - Method of Assumed Profiles (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre24_cg.pdf">PDF</a>)</p>
+<p>Lecture 25 - Falkner-Skan Flows (<a href="1/16100lectre25.pdf">PDF</a>)</p>
+<p>Lecture 26 - Effect of Turbulent Fluctuations on Mean Flow: Reynolds-Averaging (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre26_cg.pdf">PDF</a>)</p>
+<p>Lecture 27 - Poiseuille Flow Through a Duct in 2-D (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre27_cg.pdf">PDF</a>)</p>
+<p>Lecture 28 - Duct Flow (cont.) (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre28_cg.pdf">PDF</a>)</p>
+<p>Lecture 29 - Laminar Boundary Layer Order of Magnitude Analysis (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre29_cj.pdf">PDF</a>)</p>
+<p>Lecture 30 - Solutions of the Laminar Boundary Layer Equations (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre30_cj.pdf">PDF</a>)</p>
+<p>Lecture 31 - Similarity in Wind Tunnel Testing (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre31_cj.pdf">PDF</a>)</p>
+<p>Lecture 32 - Single Horseshoe Vortex Wing Model (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre32_cj.pdf">PDF</a>)</p>
+<p>Lecture 33 - Ground Effect Using Single Vortex Model (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre33_cj.pdf">PDF</a>)</p>
+<p>Lecture 34 - Three-Dimensional Wall Effects (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre34_cj.pdf">PDF</a>)</p>
+<p>Lecture 35 - Drag Tare Due to Mount (<a href="1/16100lectre35.pdf">PDF</a>)</p>
+<p>Lecture 36 - Subsonic Small Disturbance Potential Flow (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre36_cj.pdf">PDF</a>)</p>
+<p>Lecture 37 - Critical Mach Number (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre37_cj.pdf">PDF</a>)</p>
+<p>Lecture 38 - Behavior of Isentropic Flow in Quasi-1D (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre38_cj.pdf">PDF</a>)</p>
+<p>Lecture 39 - Derivation of Sound Wave Properties (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre39_cj.pdf">PDF</a>)</p>
+<p>Lecture 40 - Waves in 1D Compressible Flow (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre40_cj.pdf">PDF</a>)</p>
+<p>Lecture 41 - Normal Shock Waves (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre41_cj.pdf">PDF</a>)</p>
+<p>Lecture 42 - Propagation of Disturbances By a Moving Object (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre42_cj.pdf">PDF</a>)</p>
+<p>Lecture 43 - Linearized Compressible Potential Flow Governing Equation (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre43_cj.pdf">PDF</a>)</p>
+<p>Lecture 44 - Implications of Linearized Supersonic Flow on Airfoil Lift and Drag (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre44_cj.pdf">PDF</a>)</p>
+<p>Lecture 45 - Oblique Shock Waves (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre45_cj.pdf">PDF</a>)</p>
+<p>Lecture 46 - Prandtl-Meyer Expansion Waves (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre46_cj.pdf">PDF</a>)</p>
+<p>Lecture 47 - Computational Methods for the Euler Equations (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre47_cj.pdf">PDF</a>)</p>
+<p>Lecture 48 - Structured vs. Unstructured Grids (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre48_cj.pdf">PDF</a>)</p>
+<p>Lecture 49 - Solution Convergence (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/16100lectre49_cj.pdf">PDF</a>)</p>
 </br>
