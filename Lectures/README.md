@@ -4,7 +4,7 @@
 <li><a href="#course3">Unified Engineering I, II, III, & IV</a></li>
 <li><a href="#course4">Thermal Energy</a></li>
 <li><a href="#course5">Principles of Automatic Control</a></li>
-<li><a href="#course6">Justice</a></li>
+<li><a href="#course6">Dynamics</a></li>
 <li><a href="#course7">Minds and Machines</a></li>
 <li><a href="#course8">Philosophy of Quantum Mechanics</a></li>
 <li><a href="#course9">Paradox and Infinity</a></li>
@@ -753,5 +753,145 @@
 </tbody>
 </table>
 </br>
-
-
+<h2 id="course6">Dynamics</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td>(<a href="1/MIT16_07F09_Lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Degrees of freedom and constraints, rectilinear motion</td>
+<td>(<a href="1/MIT16_07F09_Lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Vectors, matrices and coordinate transformations</td>
+<td>(<a href="1/MIT16_07F09_Lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Curvilinear motion; Cartesian coordinates</td>
+<td>(<a href="1/MIT16_07F09_Lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Other coordinate systems</td>
+<td>(<a href="1/MIT16_07F09_Lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Intrinsic coordinates</td>
+<td>(<a href="1/MIT16_07F09_Lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Relative motion using translating axes</td>
+<td>(<a href="1/MIT16_07F09_Lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Relative motion using rotating axes</td>
+<td>(<a href="1/MIT16_07F09_Lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Linear impulse and momentum; collisions</td>
+<td>(<a href="1/MIT16_07F09_Lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Angular impulse and momentum for a particle</td>
+<td>(<a href="1/MIT16_07F09_Lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Conservation laws for systems of particles</td>
+<td>(<a href="1/MIT16_07F09_Lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Work and energy</td>
+<td>(<a href="1/MIT16_07F09_Lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Conservative internal forces and potential energy</td>
+<td>(<a href="1/MIT16_07F09_Lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Variable mass systems: the rocket equation</td>
+<td>(<a href="1/MIT16_07F09_Lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Central force motion: Kepler's laws</td>
+<td>(<a href="1/MIT16_07F09_Lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Central force motion: orbits</td>
+<td>(<a href="1/MIT16_07F09_Lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Orbit transfers and interplanetary trajectories</td>
+<td>(<a href="1/MIT16_07F09_Lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Exploring the neighborhood: the restricted three-body problem</td>
+<td>(<a href="1/MIT16_07F09_Lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Vibration, normal modes, natural frequencies, instability</td>
+<td>(<a href="1/MIT16_07F09_Lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Energy methods: Lagrange's equations</td>
+<td>(<a href="1/MIT16_07F09_Lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>2D rigid body dynamics</td>
+<td>(<a href="1/MIT16_07F09_Lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>2D rigid body dynamics: work and energy</td>
+<td>(<a href="1/MIT16_07F09_Lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>2D rigid body dynamics: impulse and momentum</td>
+<td>(<a href="1/MIT16_07F09_Lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Pendulums</td>
+<td>(<a href="1/MIT16_07F09_Lec24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>3D rigid body kinematics</td>
+<td>(<a href="1/MIT16_07F09_Lec25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>3D rigid body dynamics: the inertia tensor</td>
+<td>(<a href="1/MIT16_07F09_Lec26.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>3D rigid body dynamics: kinetic energy, instability, equations of motion</td>
+<td>(<a href="1/MIT16_07F09_Lec27.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>3D rigid body dynamics: equations of motion; Euler's equations</td>
+<td>(<a href="1/MIT16_07F09_Lec28.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>3D rigid body dynamics</td>
+<td>(<a href="1/MIT16_07F09_Lec29.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>3D rigid body dynamics: tops and gyroscopes</td>
+<td>(<a href="1/MIT16_07F09_Lec30.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Inertial instruments and inertial navigation</td>
+<td>(<a href="1/MIT16_07F09_Lec31.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Dynamics and control challenges that occurred during the Apollo project</p>
+</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT16_07F09_Lec32.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
