@@ -35,7 +35,7 @@
   <li><a href="#course34">Introduction to Lean Six Sigma Methods</a></li> 
   <li><a href="#course35">Technology in Transportation</a></li>  
    <li><a href="#course36">Prototyping Avionics</a></li> 
-  <li><a href="#course37">Topics in Linguistic Theory: Propositional Attitudes</a></li> 
+  <li><a href="#course37">Private Pilot Ground School</a></li> 
    <li><a href="#course38">Topics in Linguistic Theory: Laboratory Phonology</a></li> 
    <li><a href="#course39">Topics in Linguistics Theory</a></li> 
   <li><a href="#course40">Black Matters: Introduction to Black Studies</a></li> 
@@ -4228,3 +4228,90 @@
 </tbody>
 </table>
 </br>
+<h2 id="course37">Private Pilot Ground School</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr style="height: 13px;">
+<th style="height: 13px;" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec01.pdf">Lecture 1: Introduction (PDF - 2.5 MB)</a>,&nbsp;<a href="6/MIT16_687IAP19_Lec01Review.pdf">Lecture 1 Q and A (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec02.pdf">Lecture 2: Airplane Aerodynamics (PDF - 3.1MB)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec03.pdf">Lecture 3: Learning to Fly (PDF - 2.3MB)</a></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec04.pdf">Lecture 4: Aircraft Systems (PDF - 3.7MB)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_LecOshkosh.pdf">Special Lecture: Oshkosh 2018&nbsp;(PDF - 3.5MB)</a></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec05.pdf">Lecture 5: Charts and Airspace (PDF - 2.8MB)</a>&nbsp;</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec06.pdf">Lecture 6: The Flight Environment (PDF - 2.5MB)</a></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec07.pdf">Lecture 7: Navigation (PDF - 3.1MB)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec08.pdf">Lecture 8: Helicopter Aerodynamics (PDF - 1.9MB)</a></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_LecF-22.pdf">Special Lecture: F-22 Flight Controls (PDF)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec09.pdf">Lecture 9: Meteorology (PDF - 3.9MB)</a></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec10.pdf">Lecture 10: Communication and Flight Information (PDF - 2.5MB)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec11.pdf">Lecture 11: Aircraft Ownership and Maintenance (PDF - 1.0MB)</a></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_LecIFR.pdf">Special Lecture: The How and the Why of IFR (PDF - 1.0MB)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec12.pdf">Lecture 12: Aircraft Performance (PDF - 3.8MB)</a></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec13.pdf">Lecture 13: Interpreting Weather Data (PDF - 4.4MB)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec14.pdf">Lecture 14: Human Factors (PDF - 3.0MB)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec15.pdf">Lecture 15: Flight Planning (PDF - 2.9MB)</a></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec16.pdf">Lecture 16: Seaplanes (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec17.pdf">Lecture 17: Small UAS Operations (PDF)</a></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec18.pdf">Lecture 18: Weight and Balance (PDF - 2.7MB)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec19.pdf">Lecture 19: Multi-Engine and Jets (PDF - 1.5MB)</a></td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec20.pdf">Lecture 20: Flying at Night (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;"><a href="6/MIT16_687IAP19_Lec21.pdf">Lecture 21: Weather Minimums and Final Tips (PDF - 1.8MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
