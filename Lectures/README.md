@@ -13,7 +13,7 @@
 <li><a href="#course12">Computational Mechanics of Materials</a></li>
 <li><a href="#course13">Feedback Control Systems</a></li>
  <li><a href="#course14">Estimation and Control of Aerospace Systems</a></li>
-<li><a href="#course15">Philosophy In Film and Other Media</a></li> 
+<li><a href="#course15">Stochastic Estimation and Control</a></li> 
  <li><a href="#course16">Theory of Knowledge</a></li>  
    <li><a href="#course17">Philosophy of Film</a></li> 
   <li><a href="#course18">Metaphysics</a></li> 
@@ -2186,7 +2186,132 @@
 
 </br>
 
-
-
-
+<h2 id="course15">Stochastic Estimation and Control</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Introduction<br /><br />Random Signals<br /><br />Intuitive Notion of Probability<br /><br />Axiomatic Probability<br /><br />Joint and Conditional Probability</td>
+<td headers="col3">(<a href="3/lecture01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Independence<br /><br />Random Variables<br /><br />Probability Distribution and Density Functions</td>
+<td headers="col3">(<a href="3/lecture02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Expectation, Averages and Characteristic Function<br /><br />Normal or Gaussian Random Variables<br /><br />Impulsive Probability Density Functions<br /><br />Multiple Random Variables</td>
+<td headers="col3">(<a href="3/lecture03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Correlation, Covariance, and Orthogonality<br /><br />Sum of Independent Random Variables and Tendency Toward Normal Distribution<br /><br />Transformation of Random Variables</td>
+<td headers="col3">(<a href="3/lecture04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Some Common Distributions</td>
+<td headers="col3">(<a href="3/lecture05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">More Common Distributions<br /><br />Multivariate Normal Density Function<br /><br />Linear Transformation and General Properties of Normal Random Variables</td>
+<td headers="col3">(<a href="3/lecture06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Linearized Error Propagation</td>
+<td headers="col3">(<a href="3/lecture07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">More Linearized Error Propagation</td>
+<td headers="col3">(<a href="3/lecture08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Concept of a Random Process<br /><br />Probabilistic Description of a Random Process<br /><br />Gaussian Random Process<br /><br />Stationarity, Ergodicity, and Classification of Processes</td>
+<td headers="col3">(<a href="3/lecture09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Autocorrelation Function<br /><br />Crosscorrelation Function</td>
+<td headers="col3">(<a href="3/lecture10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Power Spectral Density Function<br /><br />Cross&nbsp;Spectral Density Function<br /><br />White Noise</td>
+<td headers="col3">(<a href="3/lecture11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Quiz 1 (Covers Sections 1-11)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Gauss-Markov Process<br /><br />Random Telegraph Wave<br /><br />Wiener or Brownian-Motion Process</td>
+<td headers="col3">(<a href="3/lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Determination of Autocorrelation and Spectral Density Functions from Experimental Data</td>
+<td headers="col3">(<a href="3/lecture13.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Introduction: The Analysis Problem<br /><br />Stationary (Steady-State) Analysis<br /><br />Integral Tables for Computing Mean-Square Value</td>
+<td headers="col3">(<a href="3/lecture14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Pure White Noise and Bandlimited Systems<br /><br />Noise Equivalent Bandwidth<br /><br />Shaping Filter</td>
+<td headers="col3">(<a href="3/lecture15.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Nonstationary (Transient) Analysis - Initial Condition Response<br /><br />Nonstationary (Transient) Analysis - Forced Response</td>
+<td headers="col3">(<a href="3/lecture16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Wiener Filter Problem<br /><br />Optimization with Respect to a Parameter</td>
+<td headers="col3">(<a href="3/lecture17.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">The Stationary Optimization Problem - Weighting Function Approach<br /><br />Orthogonality</td>
+<td headers="col3">(<a href="3/lecture18.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Complementary Filter<br /><br />Perspective</td>
+<td headers="col3">(<a href="3/lecture19.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Estimation<br /><br />A Simple Recursive Example</td>
+<td headers="col3">(<a href="3/lecture20.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Quiz 2 (Covers Sections 12-20)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Markov Processes</td>
+<td headers="col3">(<a href="3/lecture21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">State Space Description<br /><br />Vector Description of a Continuous-Time Random Process<br /><br />Discrete-Time Model&nbsp;</td>
+<td headers="col3">(<a href="3/lecture22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Monte Carlo Simulation of Discrete-Time Systems<br /><br />The Discrete Kalman Filter<br /><br />Scalar Kalman Filter Examples</td>
+<td headers="col3">(<a href="3/lecture23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Transition from the Discrete to Continuous Filter Equations<br /><br />Solution of the Matrix Riccati Equation</td>
+<td headers="col3">(<a href="3/lecture24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Divergence Problems</td>
+<td headers="col3">(<a href="3/lecture25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Complementary Filter Methodology<br /><br />INS Error Models<br /><br />Damping the Schuler Oscillation with External Velocity Reference Information</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Final Exam</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
 
