@@ -29,7 +29,7 @@
    <li><a href="#course28">Space Propulsion</a></li> 
   <li><a href="#course29">Internal Flows in Turbomachines</a></li> 
    <li><a href="#course30">Ionized Gases</a></li>
-<li><a href="#course31">Topics in Epistemology: Self-Knowledge</a></li> 
+<li><a href="#course31">Experimental Projects I</a></li> 
  <li><a href="#course32">Introduction to Linguistics</a></li>  
    <li><a href="#course33">Language and Its Structure I: Phonology</a></li> 
   <li><a href="#course34">Language and its Structure II: Syntax</a></li> 
@@ -3719,4 +3719,29 @@
 </tbody>
 </table>
 
+</br>
+<h2 id="course31">Experimental Projects I</h2>
+<p>Lecture 1 - Welcome to 16.621/16.622 (<a href="6/01_introemm.pdf">PDF</a>)</p>
+<p>Lecture 2 - Introduction to 16.62x (<a href="6/02_16.pdf">PDF</a>)</p>
+<p>Lecture 3 - Ethics and Experimental Research Projects (<a href="6/03_62Xf02ethicslecture.pdf">PDF</a>)</p>
+<p>Lecture 4 - Hypothesis, Objective, Success Criteria (<a href="6/HOS21004_2.pdf">PDF</a>)</p>
+<p>Lecture 5 - How Writers and Speakers Plan Communication Strategy (<a href="6/04_audienceanalysisact.pdf">PDF</a>)</p>
+<p>Lecture 6 - Notes on 16.621 Grading (<a href="6/05_621S03grading.pdf">PDF</a>)</p>
+<p>Lecture 7 - Experimental Design (<a href="6/06_621s03expdesign.pdf">PDF</a>)</p>
+<p>Lecture 8 - Literature Searches (<a href="6/07_literaturesearchescitation.pdf">PDF</a>)</p>
+<p>Lecture 9 - Test Matrices (<a href="6/08_testmatrices.pdf">PDF</a>)</p>
+<p>Lecture 10 - Experimental Measurement: Methods and Methodology (<a href="6/09_measurement03.pdf">PDF</a>)</p>
+<p>Lecture 11 - Error Analysis (Uncertainty Analysis) (<a href="6/10_errors03.pdf">PDF</a>)</p>
+<p>Lecture 12 - Data Analysis (<a href="6/11_dataanalysis.pdf">PDF</a>)</p>
+<p>Lecture 13 - Data Reduction (<a href="6/12_lecturedatareduction1.pdf">PDF</a>) and Hiawatha</p>
+<p>Lecture 14 - Creating Effective Graphics (<a href="6/13_graphicsiversionIIs03_to_CMS.pdf">PDF</a>)</p>
+<p>Lecture 15 - Graphics that Present Data (<a href="6/14_graphicsIIversionIIs03.pdf">PDF</a>)</p>
+<p>Lecture 16 - Progress Reports (<a href="6/15_progressreportppt.pdf">PDF</a>)</p>
+</br>
+<h2 class="subhead">Statements of Project</h2>
+<p>de Mierry, T. "Control Algorithms for Space Tug Rendezvous." (<a href="6/demierry1.pdf">PDF</a>)</p>
+<p>Wong, B. "Steerable-Parachute Design and Testing." (<a href="6/wongbria1.pdf">PDF</a>)</p>
+<h2 class="subhead">Final Design Proposals</h2>
+<p>Bennett, W. "Simulating and Testing Ice Screw Performance in the Laboratory." (<a href="6/bennettw.pdf">PDF - 1.2 MB</a>)</p>
+<p>Wong, B. "Assessment of Shape Memory Alloy Actuators for Steered Parachutes." (<a href="6/wongbri1.pdf">PDF - 1.1 MB</a>)</p>
 </br>
