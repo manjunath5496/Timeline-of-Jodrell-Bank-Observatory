@@ -18,7 +18,7 @@
    <li><a href="#course17">Aircraft Stability and Control</a></li> 
   <li><a href="#course18">Dynamics of Nonlinear Systems</a></li> 
 <li><a href="#course19">Astrodynamics</a></li>
- <li><a href="#course20">Ethics</a></li>
+ <li><a href="#course20">Software Engineering Concepts</a></li>
 <li><a href="#course21">Philosophy of Law</a></li> 
  <li><a href="#course22">Topics in Social Theory and Practice: Race and Racism</a></li>  
    <li><a href="#course23">Feminist Thought</a></li> 
@@ -2763,3 +2763,51 @@
 </tbody>
 </table>
 </br>
+<h2 id="course20">Software Engineering Concepts</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th id="tbl381id0_1" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl381id0_1">Introducing The Problem (<a href="4/cnotes1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl381id0_1">Process and Life Cycle Models (<a href="4/cnotes2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl381id0_1">Requirements and Specification (<a href="4/cnotes3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl381id0_1">Design (<a href="4/cnotes4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl381id0_1">Design (cont.) (<a href="4/cnotes5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl381id0_1">COTS and Reuse (<a href="4/cnotes6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl381id0_1">Metrics and Reliability Assessment (<a href="4/cnotes7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl381id0_1">Building Confidence (Testing, Analysis, QA, Reviews) (<a href="4/cnotes8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl381id0_1">Selecting a Programming Language (<a href="4/cnotes9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl381id0_1">Team Organization and People Management (<a href="4/cnotes10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl381id0_1">Software and System Safety (<a href="4/cnotes11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl381id0_1">Putting It All Together</td>
+</tr>
+</tbody>
+</table>
+</br>
+
