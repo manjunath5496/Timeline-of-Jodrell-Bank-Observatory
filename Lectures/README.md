@@ -22,7 +22,7 @@
 <li><a href="#course21">Communication Systems Engineering</a></li> 
  <li><a href="#course22">Data Communication Networks</a></li>  
    <li><a href="#course23">Infinite Random Matrix Theory</a></li> 
-  <li><a href="#course24">Logic I</a></li>
+  <li><a href="#course24">Random Matrix Theory and Its Applications</a></li>
   <li><a href="#course25">Logic II</a></li>
 <li><a href="#course26">Modal Logic</a></li> 
  <li><a href="#course27">Introduction to Philosophy of Language</a></li>  
@@ -3016,4 +3016,23 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course24">Random Matrix Theory and Its Applications</h2>
+<p>Jacobian Code (<a href="5/jacobian2by2.pdf">PDF</a>)</p>
+<p>Why are Random Matrices Cool? (<a href="5/maamathfest2002.pdf">PDF</a>)</p>
+<p>Class Handout (Chapter 8) (<a href="5/chapter8.pdf">PDF</a>)</p>
+<p>Class Handout Addendum (Handbook of Matrix Jacobians) (<a href="5/chapter42.pdf">PDF</a>)</p>
+<p>Class Handout (Chapter 9) (<a href="5/chapter9.pdf">PDF</a>)</p>
+<p>Professor Edelman's Thesis with some of the Eigenvalue Density Formulas&nbsp;(<a href="5/thesis.pdf">PDF - 1.3 MB</a>)</p>
+<p>Multivariate Orthogonal Polynomials Handout (<a href="5/mops.pdf">PDF</a>)</p>
+<p><a href="http://ieeexplore.ieee.org/Xplore/login.jsp?url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel4%2F26%2F15893%2F00737400.pdf%3Farnumber%3D737400&amp;authDecision=-203">Upper Bounds on the Bit-Error Rate of Optimum Combining in Wireless Systems</a>&nbsp;- Winters and Salz</p>
+<p><a href="http://www.comsoc.org/livepubs/comm/Public/2003/Feb/296_51tcomm02-chiani.html">Bounds and Approximations for Optimum Combining of Signals in the Presence of Multiple Cochannel Interferers and Thermal Noise</a>&nbsp;- Chiani and Win</p>
+<p><a href="https://ieeexplore.ieee.org/document/1259393">A Laguerre Polynomial-based Bound on the Symbol Error Probability for Adaptive Antennas with Optimum Combining</a>&nbsp;- Chiani, Win, Zanella, and Winters</p>
+<p><a href="http://ieeexplore.ieee.org/Xplore/login.jsp?url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F26%2F27921%2F01246005.pdf%3Farnumber%3D1246005&amp;authDecision=-203">Error Probability for Optimum Combining of M-ary PSK Signals in the Presence of Interference and Noise</a>&nbsp;- Chiani, Win, and&nbsp;Zanella</p>
+<p><a href="https://ieeexplore.ieee.org/document/1237126">On the Capacity of Spatially Correlated MIMO Rayleigh-fading Channels</a>&nbsp;- Chiani, Win, and Zanella</p>
+
+</br>
+<p>Report (<a href="5/numrand_report.pdf">PDF</a>) (Courtesy of Per-Olof&nbsp;Persson. Used with permission.)</p>
+<p>Slides 1 (<a href="5/numrand_talk1.pdf">PDF</a>) (Courtesy of Per-Olof&nbsp;Persson. Used with permission.)</p>
+<p>Slides 2 (<a href="5/numrand_talk2.pdf">PDF</a>) (Courtesy of Per-Olof&nbsp;Persson. Used with permission.)</p>
 </br>
