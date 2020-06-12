@@ -23,7 +23,7 @@
  <li><a href="#course22">Data Communication Networks</a></li>  
    <li><a href="#course23">Infinite Random Matrix Theory</a></li> 
   <li><a href="#course24">Random Matrix Theory and Its Applications</a></li>
-  <li><a href="#course25">Logic II</a></li>
+  <li><a href="#course25">Human Factors Engineering</a></li>
 <li><a href="#course26">Modal Logic</a></li> 
  <li><a href="#course27">Introduction to Philosophy of Language</a></li>  
    <li><a href="#course28">Topics in Philosophy of Mind: Perceptual Experience</a></li> 
@@ -3035,4 +3035,128 @@
 <p>Report (<a href="5/numrand_report.pdf">PDF</a>) (Courtesy of Per-Olof&nbsp;Persson. Used with permission.)</p>
 <p>Slides 1 (<a href="5/numrand_talk1.pdf">PDF</a>) (Courtesy of Per-Olof&nbsp;Persson. Used with permission.)</p>
 <p>Slides 2 (<a href="5/numrand_talk2.pdf">PDF</a>) (Courtesy of Per-Olof&nbsp;Persson. Used with permission.)</p>
+</br>
+<h2 id="course25">Human Factors Engineering</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LEC&nbsp;#</th>
+<th scope="col">TOPICS</th>
+<th scope="col">KEY&nbsp;DATES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>1</td>
+<td>Introduction and vision I</td>
+<td>(<a href="5/MIT16_400F11_lec01.pdf">PDF - 2.0MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>2</td>
+<td>Vision II</td>
+<td>(<a href="5/MIT16_400F11_lec02.pdf">PDF - 4.4MB</a>)</td>
+</tr>
+<tr class="row">
+<td>3</td>
+<td>Space bioastronautics</td>
+<td>(<a href="5/MIT16_400F11_lec03.pdf">PDF - 6.1MB</a>) (Courtesy of John B. Charles. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td>4</td>
+<td>Research methods I</td>
+<td>(<a href="5/MIT16_400F11_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>5</td>
+<td>Research methods II</td>
+<td>(<a href="5/MIT16_400F11_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>6</td>
+<td>Vestibular/spatial disorientation</td>
+<td>(<a href="5/MIT16_400F11_lec06.pdf">PDF - 1.1MB</a>)</td>
+</tr>
+<tr class="row">
+<td>7</td>
+<td>Displays</td>
+<td>(<a href="5/MIT16_400F11_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>8</td>
+<td>Space human factors</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>9</td>
+<td>Manual control I</td>
+<td>(<a href="5/MIT16_400F11_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>10</td>
+<td>Manual control II</td>
+<td>(<a href="5/MIT16_400F11_lec10.pdf">PDF - 1.4MB</a>)</td>
+</tr>
+<tr class="row">
+<td>11</td>
+<td>PIO and Cooper Harper</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>12</td>
+<td>Handling qualities</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>13</td>
+<td>Space physiology</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>14</td>
+<td>Auditory</td>
+<td>(<a href="5/MIT16_400F11_lec14.pdf">PDF - 1.7MB</a>)</td>
+</tr>
+<tr class="row">
+<td>15</td>
+<td>Automaton, situation, awareness</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>16</td>
+<td>Flight deck automation working group</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>17</td>
+<td>Decision making; FAA regulations</td>
+<td>(<a href="5/MIT16_400F11_lec17a.pdf">PDF - 1.1MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>18</td>
+<td>Attention/workload</td>
+<td>(<a href="5/MIT16_400F11_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>19</td>
+<td>Fatigue/circadian rhythms</td>
+<td>(<a href="5/MIT16_400F11_lec19.pdf">PDF - 1.0MB</a>) (Courtesy of Caroline Lowenthal. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td>20</td>
+<td>Anthropometry/environmental ergonomics</td>
+<td>(<a href="5/MIT16_400F11_lec20.pdf">PDF - 1.3MB</a>)</td>
+</tr>
+<tr class="row">
+<td>21</td>
+<td>Response selection and control of movement</td>
+<td>(<a href="5/MIT16_400F11_lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>22</td>
+<td>Automobile HF</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
 </br>
