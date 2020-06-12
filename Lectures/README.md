@@ -45,7 +45,7 @@
    <li><a href="#course44">Integrating the Lean Enterprise</a></li> 
    <li><a href="#course45">Satellite Engineering</a></li> 
    <li><a href="#course46">Robust System Design</a></li> 
-   <li><a href="#course47">Pragmatics in Linguistic Theory</a></li> 
+   <li><a href="#course47">Air Transportation Systems Architecting</a></li> 
  <li><a href="#course48">Syntactic Models</a></li> 
    <li><a href="#course49">Introduction to Phonology</a></li> 
    <li><a href="#course50">Advanced Phonology</a></li> 
@@ -5256,3 +5256,110 @@
 </tbody>
 </table>
 </br>
+<h2 id="course47">Air Transportation Systems Architecting</h2>
+
+<table class="tablewidth100" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">LECTURERS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Course Introduction<br /><br />Introduction of Formation Flight Project (<a href="8/01_murman_intro.pdf">PDF</a>)</td>
+<td headers="col3">Prof. Earll&nbsp;Murman<br />MIT</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">NASA / Boeing / UCLA Autonomous Formation Flight Program Overview and Findings (<a href="8/02_greg_larson1.pdf">PDF 1 of 2 - 3.4 MB</a>) (<a href="8/02_greg_larson2.pdf">PDF 2 of 2 - 2.1 MB</a>) (Courtesy of Greg Larson. Used with permission.)</td>
+<td headers="col3">Greg Larson<br />Boeing Phantom Works</td>
+</tr>
+<tr class="row">
+<td headers="col2">Technical Considerations for Autonomous Formation Flying Systems (<a href="8/03_formtechspnt.pdf">PDF</a>)</td>
+<td headers="col3">Prof. John Hansman<br />MIT</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">MATECON - Method for Rapid Architecture Selection and Conceptual Design (<a href="8/4_mcmanuslactur1.pdf">PDF 1 of 2 - 2.4 MB</a>) (<a href="8/4_mcmanuslactur2.pdf">PDF 2 of 2 - 2.5 MB</a>) (Courtesy of Hugh McManus. Used with permission.)</td>
+<td headers="col3">Dr. Hugh McManus<br />Metis Design</td>
+</tr>
+<tr class="row">
+<td headers="col2">Systems Study of Global Range Airpower</td>
+<td headers="col3">Dr. Jon Protz<br />Missile Defense Agency</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Economics of Commercial Cargo Operations (<a href="8/06cargo_econmics.pdf">PDF</a>)</td>
+<td headers="col3">Prof. John-Paul Clarke<br />MIT</td>
+</tr>
+<tr class="row">
+<td headers="col2">Military and Commercial Cargo Mission Needs (<a href="8/07mitmiltry_ndco.pdf">PDF</a>) (Courtesy of Blaine Rawdon. Used with permission.)</td>
+<td headers="col3">Blaine Rawdon<br />Boeing Phantom Works (<a href="8/h07bkresumfornsf.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Market for Cargo Operations (<a href="8/08_cargopration1.pdf">PDF 1 of&nbsp;3 - 2.8 MB</a>) (<a href="8/08_cargopration2.pdf">PDF 2 of 3 - 4.6 MB</a>) (<a href="8/08_cargopration3.pdf">PDF 3 of 3 - 1.3 MB</a>)&nbsp;(Courtesy of Al Haggerty. Used with permission.)</td>
+<td headers="col3">Al Haggerty<br />MIT &amp; Boeing (Retired)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Architecting and Designing Air Transportation Systems (<a href="8/09architecting.pdf">PDF</a>)</td>
+<td headers="col3">Prof. John-Paul Clarke<br />MIT</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">System Level Design Issues</td>
+<td headers="col3">Prof. Ilan Kroo<br />Stanford</td>
+</tr>
+<tr class="row">
+<td headers="col2">Airplane Design Issues</td>
+<td headers="col3">Prof. Robert Liebeck<br />Boeing Phantom Works &amp; MIT</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Human Factors for Formation Flying (<a href="8/12_humanfactors_rev4.pdf">PDF</a>) (Courtesy of Missy Cummings. Used with permission.)</td>
+<td headers="col3">Prof. Missy Cummings<br />MIT (<a href="8/h12misycumngsbio.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Autonomous Control</td>
+<td headers="col3">Prof. Nicholas Roy<br />MIT</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Avionics (<a href="8/14_avionic_cert1.pdf">PDF 1 of 2-&nbsp;1.3 MB</a>) (<a href="8/14_avionic_cert2.pdf">PDF 2 of 2 - 2.2 MB</a>&nbsp;)</td>
+<td headers="col3">Prof. John Hansman<br />MIT</td>
+</tr>
+<tr class="row">
+<td headers="col2">Guidance, Navigation and Control</td>
+<td headers="col3">Prof. John Deyst<br />MIT</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Managing Risk</td>
+<td headers="col3">Prof. Ray Leopold<br />MIT and Motorola (Retired) (<a href="8/h16rayleopoldbio.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Certification Issues</td>
+<td headers="col3">Dr. Kathy Abbott<br />FAA</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Air Traffic Control</td>
+<td headers="col3">Prof. John Hansman<br />MIT</td>
+</tr>
+<tr class="row">
+<td headers="col2">System Software and Safety</td>
+<td headers="col3">Prof. Nancy Leveson<br />MIT</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Closing the Business Case (<a href="8/20business_case.pdf">PDF</a>)</td>
+<td headers="col3">Prof. John-Paul Clarke<br />MIT</td>
+</tr>
+<tr class="row">
+<td headers="col2">System Realization Issues</td>
+<td headers="col3">Prof. Earll Murman<br />MIT</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
+
+
+
+
+
