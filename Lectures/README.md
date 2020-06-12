@@ -5155,5 +5155,104 @@
 </tbody>
 </table>
 </br>
-
-
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr>
+<th id="col2" scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Variation and its Economic Consequences (<a href="8/HW1_Variation.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">
+<ul>
+<li>Quality Loss Functions (<a href="8/HW2_Quality_lossv2.pdf">PDF</a>)</li>
+<li>Supplement: Exploration of the Quadratic Loss Function (<a href="8/MathcadHW2_quality_loss2.pdf">PDF</a>)</li>
+<li>Solutions (<a href="8/HW2_solution.pdf">PDF</a>)</li>
+</ul>
+</td>
+</tr>
+<tr class="row">
+<td headers="col2">
+<ul>
+<li>The Context of Robust Design and the Principles of Quality Engineering (<a href="8/HW3_Context.pdf">PDF</a>)</li>
+</ul>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Matrix Experiments Using Orthogonal Arrays (<a href="8/HW4_Matrix_Exp.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">
+<ul>
+<li>Design for Additivity (<a href="8/HW5_Additivity22.pdf">PDF</a>)</li>
+<li>Prooposed Solution&nbsp;(<a href="8/HW5_solution.pdf">PDF</a>)</li>
+</ul>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">
+<ul>
+<li>Robust Design Using Simulations / Design of Dynamic Systems (<a href="8/HW8_simulation.pdf">PDF</a>)</li>
+<li>Solutions (<a href="8/HW8_solution.pdf">PDF</a>)</li>
+</ul>
+</td>
+</tr>
+<tr class="row">
+<td headers="col2">
+<ul>
+<li>Robust Design and Reliability (<a href="8/HW9_reliability2.pdf">PDF</a>)</li>
+<li>Solutions (<a href="8/HW9_reliability_soln2.pdf">PDF</a>)</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr>
+<th id="col1" scope="col">PROBLEMS</th>
+<th id="col2" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">Quiz 1: The Principles of Robust Design (<a href="8/q1_principles.pdf">PDF</a>)</td>
+<td headers="col2" align="center">(<a href="8/q1_principles_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Quiz 2: Matrix Experiments (<a href="8/q2_matrix_exp.pdf">PDF</a>)</td>
+<td headers="col2" align="center">(<a href="8/q2_matrix_exp_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Quiz 3: Steps in Robust Design (Data Analysis) (<a href="8/q3_stepsin_rd.pdf">PDF</a>)</td>
+<td headers="col2" align="center">(<a href="8/q3_steps_in_rd_soln3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Quiz 4: S/N Ratios &amp; Additivity (<a href="8/q4_additivity.pdf">PDF</a>)</td>
+<td headers="col2" align="center">(<a href="8/q4_additivity_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Quiz 5: Analysis of Variance (<a href="8/q5_anova.pdf">PDF</a>)</td>
+<td headers="col2" align="center">(<a href="8/q5_anova_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Quiz 6: Constructing Orthogonal Arrays (<a href="8/q6_orth_arrays.pdf">PDF</a>)</td>
+<td headers="col2" align="center">(<a href="8/q6_orth_arrays_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Quiz 7: Design of Dynamic Systems (<a href="8/q7_dynamic.pdf">PDF</a>)</td>
+<td headers="col2" align="center">
+<p>(<a href="8/q7_dynamic_soln.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Final Exam (<a href="8/RD_final9.pdf">PDF</a>)</td>
+<td headers="col2" align="center">(<a href="8/RD_final9_soln.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
