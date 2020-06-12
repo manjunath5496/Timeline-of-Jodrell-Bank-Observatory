@@ -48,7 +48,7 @@
    <li><a href="#course47">Air Transportation Systems Architecting</a></li> 
  <li><a href="#course48">Space System Architecture and Design</a></li> 
    <li><a href="#course49">Computational Methods in Aerospace Engineering</a></li> 
-   <li><a href="#course50">Advanced Phonology</a></li> 
+   <li><a href="#course50">Numerical Methods for Partial Differential Equations</a></li> 
    <li><a href="#course51">Speech Communication</a></li> 
    <li><a href="#course52">Topics in Semantics: Negative Polarity Items</a></li> 
 </ul>
@@ -5515,3 +5515,97 @@
 <li><a href="8/MIT16_90S14_AF_project3.pdf">Project 3 Sample (PDF)</a></li>
 </ul>
 </br>
+<h2 id="course50">Numerical Methods for Partial Differential Equations</h2>
+
+<table>
+<thead>
+<tr>
+<th>LECTURE&nbsp;SLIDES</th>
+<th>LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Numerical Methods for Partial Differential Equations (<a href="8/lec1.pdf">PDF</a>)</td>
+<td>(<a href="8/lec1_notes.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Finite Difference Discretization of Elliptic Equations: 1D Problem (<a href="8/lec2and3.pdf">PDF</a>)</td>
+<td>(<a href="8/lecs2and3_notes.pdf">PDF - 1.6 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Finite Difference Discretization of Elliptic Equations: FD Formulas and Multidimensional Problems (<a href="8/lec4.pdf">PDF</a>)</td>
+<td>(<a href="8/lec4_notes.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Finite Differences: Parabolic Problems (<a href="8/lec5.pdf">PDF</a>)</td>
+<td>(<a href="8/lec5_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Solution Methods: Iterative Techniques (<a href="8/lec6.pdf">PDF</a>)</td>
+<td>(<a href="8/lec6_notes.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Iterative Methods: Multigrid Techniques (<a href="8/lec7.pdf">PDF</a>)</td>
+<td>(<a href="8/lec7_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Finite Difference Discretization of Hyperbolic Equations: Linear Problems (<a href="8/lecs8_9_10.pdf">PDF - 1.7 MB</a>)</td>
+<td>(<a href="8/lecs8_9_10_notes.pdf">PDF -&nbsp;2.4 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Hyperbolic Equations: Scalar One-Dimensional Conservation Laws (<a href="8/lec11.pdf">PDF</a>)</td>
+<td>(<a href="8/lec11_notes.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Numerical Schemes for Scalar One-Dimensional Conservation Laws (<a href="8/lec12.pdf">PDF</a>)</td>
+<td>(<a href="8/lec12_notes.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Finite Element Methods for Elliptic Problems; Variational Formulation: The Poisson Problem (<a href="8/lecs13and14.pdf">PDF</a>)</td>
+<td>(<a href="8/lecs13_14_notes.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Discretization of the Poisson Problem in IR<sup>1</sup>: Formulation (<a href="8/lec15.pdf">PDF</a>)</td>
+<td>(<a href="8/lec15_notes.pdf">PDF - 1.5 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Discretization of the Poisson Problem in IR<sup>1</sup>: Theory and Implementation (<a href="8/lecs16_17.pdf">PDF - 1.9 MB</a>)</td>
+<td>(<a href="8/lecs16_17_notes.pdf">PDF - 2.5 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>FEM for the Poisson Problem in IR<sup>2</sup>&nbsp;(<a href="8/lecs18_19.pdf">PDF</a>)</td>
+<td>(<a href="8/lecs18_19_notes.pdf">PDF - 1.6 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Numerical Methods for PDEs, Integral Equation Methods, Lecture 1:&nbsp;Discretization of Boundary Integral&nbsp;Equations&nbsp;(<a href="8/lec20_toupload.pdf">PDF - 1.0 MB</a>)</td>
+<td>(<a href="8/lec20_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Numerical Methods for PDEs, Integral Equation Methods, Lecture 2:&nbsp;Numerical Quadrature&nbsp;(<a href="8/lec21.pdf">PDF</a>)</td>
+<td>(<a href="8/lec21_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Numerical Methods for PDEs, Integral Equation Methods, Lecture 3:&nbsp;Discretization Convergence Theory&nbsp;(<a href="8/lec22.pdf">PDF</a>)</td>
+<td>(<a href="8/lec22_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Numerical Methods for PDEs, Integral Equation Methods, Lecture 4:&nbsp;Formulating Boundary Integral Equations&nbsp;(<a href="8/lec24.pdf">PDF</a>)</td>
+<td>(<a href="8/lec24_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Numerical Methods for PDEs, Integral Equation Methods, Lecture 5: First and Second Kind Potential Equations (<a href="8/lec25.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Numerical Methods for PDEs, Integral Equation Methods, Lecture 6: Discretization and Quadrature (<a href="8/lec26.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
