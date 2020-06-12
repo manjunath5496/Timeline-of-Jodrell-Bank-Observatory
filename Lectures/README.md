@@ -31,7 +31,7 @@
    <li><a href="#course30">Ionized Gases</a></li>
 <li><a href="#course31">Experimental Projects I</a></li> 
  <li><a href="#course32">Experimental Projects II</a></li>  
-   <li><a href="#course33">Language and Its Structure I: Phonology</a></li> 
+   <li><a href="#course33">System Safety</a></li> 
   <li><a href="#course34">Language and its Structure II: Syntax</a></li> 
   <li><a href="#course35">Lab in Psycholinguistics</a></li>  
    <li><a href="#course36">Creole Languages and Caribbean Identities</a></li> 
@@ -3797,3 +3797,95 @@
 <p>Guidelines for Progress Reports (<a href="6/progress_rep.pdf">PDF</a>)</p>
 <p>Guidelines for Multi-section Reports (<a href="6/Multisectiondocuments04.pdf">PDF</a>)</p>
 </br>
+<h2 id="course33">System Safety</h2>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="6/MIT16_63JS16_LecNotes1.pdf">Introduction, Uberlingen; Class Description (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT16_63JS16_LecNotes2.pdf">Introduction to Accident Causality, Bhopal, hindsight bias (PDF - 1.7MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_63JS16_LecNotes3.pdf">Discuss Citichem Causes, hindsight bias (PDF - 1.5MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>System-Theoretic Accident Model and Processes (STAMP), systems theory, accident models</td>
+</tr>
+<tr class="row">
+<td>More on STAMP, systems theory, accident models</td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_63JS16_LecNotes6.pdf">CAST and Accident analysis (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_63JS16_LecNotes7.pdf">More on CAST (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT16_63JS16_LecNotes8.pdf">Traditional Hazard Analysis (HA) (PDF - 5.5MB)</a></td>
+</tr>
+<tr class="row">
+<td>Traditional Hazard Analysis (HA) (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_63JS16_LecNotes10.pdf">Systems Theoretic Process Analysis (STPA) intro, basic components (PDF - 2.6MB)</a></td>
+</tr>
+<tr class="row">
+<td>STPA</td>
+</tr>
+<tr class="alt-row">
+<td>STPA (cont.)</td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT16_63JS16_LecNotes13.pdf">STPA and review projects (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT16_63JS16_LecNotes14.pdf">Design for safety (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Design for safety (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>Human factors</td>
+</tr>
+<tr class="row">
+<td>Human factors (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>Cyber Security</td>
+</tr>
+<tr class="row">
+<td>Discuss Take Home Exam</td>
+</tr>
+<tr class="alt-row">
+<td>Operations, regulation</td>
+</tr>
+<tr class="row">
+<td>Operations, regulation (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>Invited Speaker</td>
+</tr>
+<tr class="row">
+<td>Management</td>
+</tr>
+<tr class="alt-row">
+<td>SUBSAFE</td>
+</tr>
+<tr class="row">
+<td>Present projects</td>
+</tr>
+<tr class="alt-row">
+<td>Present projects (cont.)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
